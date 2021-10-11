@@ -1,0 +1,378 @@
+activity,altitude,cause,age
+hiking,3000,falling rocks,30
+rock mountaineering,2680,falling rocks,15
+rock mountaineering,3635,falling rocks,
+hiking,,,46
+snow/ice/mixed,4130,,
+mountaineering,3900,falling rocks,36
+rock mountaineering,,,33
+rock mountaineering,3670,falling rocks,50
+mountaineering,3300,,27
+climbing,,,
+climbing,1600,falling rocks,
+rock mountaineering,3050,falling rocks,25
+climbing,,falling rocks,42
+climbing,,falling rocks,21
+climbing,,,37
+climbing,1750,,56
+climbing,,,
+climbing,,,22
+climbing,,,
+climbing,,falling rocks,
+snow/ice/mixed,4800,,32
+backcountry,2600,avalanche,
+snow/ice/mixed,4000,,55
+backcountry,,,53
+backcountry,1720,,35
+snow/ice/mixed,3570,,35
+climbing,60,falling rocks,36
+ice climbing,,avalanche,29
+backcountry,,,59
+ice climbing,1150,falling ice,43
+backcountry,1830,avalanche,59
+backcountry,2150,avalanche,54
+climbing,1500,,25
+rock mountaineering,,,25
+mountain bike,1175,,45
+climbing,1550,,
+climbing,,,42
+snow/ice/mixed,3450,crevasse,29
+mountaineering,3200,falling rocks,32
+rock mountaineering,2000,,0
+climbing,,,62
+snow/ice/mixed,3600,,50
+climbing,1400,,54
+hiking,1550,,77
+hiking,2715,falling rocks,30
+snow/ice/mixed,3350,,52
+mountaineering,4050,,30
+rock mountaineering,2400,falling rocks,25
+climbing,300,,29
+climbing,,,30
+climbing,,,52
+climbing,25,falling rocks,59
+climbing,,,30
+climbing,,falling rocks,55
+backcountry,,falling rocks,
+snow/ice/mixed,2650,,38
+backcountry,2670,,34
+backcountry,3000,,47
+climbing,,falling rocks,28
+backcountry,,avalanche,53
+backcountry,2220,,52
+backcountry,1900,,62
+climbing,,falling rocks,32
+backcountry,1920,avalanche,29
+backcountry,,avalanche,53
+backcountry,2150,avalanche,53
+backcountry,1830,avalanche,46
+backcountry,3200,avalanche,40
+paragliding,1400,,27
+paragliding,1300,,50
+backcountry,2170,avalanche,29
+backcountry,1550,,34
+backcountry,1600,,32
+backcountry,3241,,49
+backcountry,2100,avalanche,33
+backcountry,,avalanche,27
+snow/ice/mixed,,,22
+backcountry,,avalanche,41
+backcountry,2400,,
+backcountry,1750,avalanche,35
+backcountry,1800,avalanche,47
+backcountry,1980,avalanche,40
+climbing,,,
+climbing,3000,,23
+mountaineering,2700,falling rocks,
+climbing,,falling rocks,30
+snow/ice/mixed,2100,falling ice,23
+rock mountaineering,,falling rocks,25
+rock mountaineering,,crevasse,32
+snow/ice/mixed,3430,falling ice,25
+hiking,1884,falling rocks,
+climbing,,,
+rock mountaineering,3000,falling rocks,30
+climbing,1700,falling rocks,37
+rock mountaineering,3450,falling rocks,31
+snow/ice/mixed,,falling rocks,41
+mountaineering,3100,falling rocks,29
+rock mountaineering,3650,falling rocks,60
+rock mountaineering,2800,falling rocks,32
+snow/ice/mixed,,crevasse,71
+climbing,450,,
+snow/ice/mixed,3200,crevasse,57
+hiking,1916,,70
+snow/ice/mixed,3609,,30
+snow/ice/mixed,3400,,33
+hiking,2257,,55
+snow/ice/mixed,3300,crevasse,
+rock mountaineering,3400,falling rocks,64
+rock mountaineering,,falling rocks,33
+climbing,,,30
+climbing,850,falling rocks,51
+climbing,,falling rocks,29
+climbing,,falling rocks,
+snow/ice/mixed,,crevasse,27
+rock mountaineering,,falling rocks,35
+backcountry,,avalanche,52
+snow/ice/mixed,2900,crevasse,38
+climbing,,,28
+backcountry,2040,,28
+climbing,1800,,51
+climbing,,,25
+backcountry,2600,,32
+backcountry,3323,falling rocks,19
+backcountry,2700,falling rocks,39
+backcountry,,,26
+backcountry,,,25
+backcountry,,,
+hiking,,,38
+backcountry,2400,,47
+backcountry,3318,,59
+backcountry,2300,,50
+ice climbing,,,40
+backcountry,2150,avalanche,42
+backcountry,1900,avalanche,31
+backcountry,2180,avalanche,38
+hiking,2200,,29
+hiking,,,66
+climbing,860,,28
+rock mountaineering,2750,,25
+climbing,,,26
+climbing,180,,40
+rock mountaineering,2400,falling rocks,52
+mountaineering,4070,falling rocks,28
+climbing,1300,,42
+climbing,700,falling rocks,30
+rock mountaineering,,,33
+rock mountaineering,,,32
+climbing,220,,38
+hiking,3000,,52
+climbing,2280,falling rocks,28
+snow/ice/mixed,3600,,20
+hiking,1142,,54
+rock mountaineering,3200,,40
+climbing,650,,35
+snow/ice/mixed,3500,falling rocks,31
+snow/ice/mixed,3779,,36
+backcountry,,,
+climbing,900,falling rocks,18
+backcountry,3500,,24
+climbing,620,falling rocks,40
+climbing,1500,falling rocks,31
+climbing,200,,33
+backcountry,,falling rocks,49
+backcountry,3450,avalanche,31
+backcountry,3200,avalanche,32
+backcountry,1900,,43
+snow/ice/mixed,3280,crevasse,44
+backcountry,2146,avalanche,34
+snow/ice/mixed,2500,avalanche,53
+backcountry,2600,avalanche,37
+backcountry,3040,avalanche,59
+backcountry,2480,avalanche,36
+backcountry,1950,avalanche,31
+backcountry,2150,avalanche,51
+backcountry,1900,avalanche,26
+backcountry,2300,avalanche,37
+climbing,,,49
+ice climbing,2000,falling ice,35
+backcountry,1840,avalanche,51
+backcountry,3400,avalanche,27
+backcountry,2200,avalanche,
+backcountry,2050,avalanche,
+backcountry,2050,avalanche,46
+climbing,450,falling rocks,51
+ice climbing,2400,avalanche,33
+rock mountaineering,1850,,
+backcountry,2170,avalanche,51
+climbing,10,,27
+climbing,230,falling rocks,51
+mountaineering,3930,,55
+hiking,1600,falling rocks,49
+rock mountaineering,2550,,29
+snow/ice/mixed,3200,falling rocks,40
+mountaineering,3700,falling rocks,
+climbing,1850,falling rocks,51
+rock mountaineering,3800,,23
+snow/ice/mixed,5000,avalanche,39
+climbing,2500,,
+mountaineering,3400,falling rocks,41
+climbing,,falling rocks,27
+snow/ice/mixed,3600,avalanche,
+snow/ice/mixed,3300,,30
+climbing,2150,,49
+snow/ice/mixed,3400,crevasse,37
+snow/ice/mixed,3120,,57
+snow/ice/mixed,3100,,39
+climbing,,,28
+backcountry,,falling ice,
+climbing,1032,,31
+snow/ice/mixed,4100,,44
+backcountry,2300,avalanche,
+backcountry,2400,falling rocks,50
+backcountry,2300,avalanche,36
+backcountry,3030,,
+backcountry,2075,,
+backcountry,2630,avalanche,
+backcountry,3200,,
+snow/ice/mixed,2250,avalanche,
+backcountry,2000,avalanche,
+backcountry,2400,,
+backcountry,2800,,
+backcountry,1950,avalanche,35
+mountaineering,2000,falling rocks,32
+backcountry,1500,avalanche,
+backcountry,1620,avalanche,42
+backcountry,2250,,49
+backcountry,1950,avalanche,37
+backcountry,1550,avalanche,44
+backcountry,2200,avalanche,
+backcountry,2600,avalanche,
+climbing,2200,falling rocks,
+climbing,900,,23
+climbing,250,falling rocks,24
+snow/ice/mixed,3665,,
+hiking,2350,falling ice,29
+rock mountaineering,,falling rocks,53
+mountaineering,3480,avalanche,25
+climbing,,falling rocks,36
+snow/ice/mixed,3600,falling rocks,29
+hiking,1600,falling rocks,48
+climbing,1700,falling rocks,
+snow/ice/mixed,3800,falling rocks,61
+backcountry,3300,,
+backcountry,2090,avalanche,31
+backcountry,2330,avalanche,
+snow/ice/mixed,2500,avalanche,29
+snow/ice/mixed,2000,falling ice,29
+backcountry,1800,avalanche,
+climbing,1800,,
+climbing,1300,,25
+backcountry,4050,crevasse,
+climbing,850,,37
+climbing,1650,avalanche,65
+backcountry,3450,avalanche,
+backcountry,3100,avalanche,
+backcountry,1600,avalanche,31
+backcountry,2500,avalanche,
+snow/ice/mixed,3050,avalanche,37
+backcountry,3300,crevasse,
+backcountry,2450,avalanche,
+backcountry,2130,avalanche,34
+snow/ice/mixed,3800,falling ice,52
+backcountry,2250,avalanche,
+backcountry,2000,avalanche,
+backcountry,2350,avalanche,
+backcountry,2350,avalanche,
+climbing,,,34
+hiking,2800,,
+climbing,925,,25
+snow/ice/mixed,3500,,
+snow/ice/mixed,3350,falling rocks,46
+rock mountaineering,2500,falling rocks,30
+backcountry,3100,,
+climbing,1900,,
+climbing,900,,
+backcountry,3350,avalanche,
+backcountry,1950,avalanche,45
+backcountry,2260,avalanche,
+backcountry,2700,avalanche,48
+backcountry,2400,avalanche,
+backcountry,1950,avalanche,
+backcountry,1850,avalanche,35
+ice climbing,1400,falling ice,41
+backcountry,2500,avalanche,
+rock mountaineering,,falling rocks,23
+climbing,1950,,
+rock mountaineering,3800,,
+snow/ice/mixed,3400,crevasse,
+climbing,700,,
+snow/ice/mixed,3200,crevasse,
+mountaineering,2650,,
+backcountry,,crevasse,34
+backcountry,3300,crevasse,36
+backcountry,2709,avalanche,35
+backcountry,2800,avalanche,32
+backcountry,2050,avalanche,39
+backcountry,1630,,45
+snow/ice/mixed,4122,,33
+snow/ice/mixed,3700,falling rocks,33
+snow/ice/mixed,1600,,33
+backcountry,2270,avalanche,36
+ice climbing,1970,falling rocks,34
+climbing,70,,
+climbing,800,,35
+mountaineering,3280,,
+climbing,2300,falling rocks,
+backcountry,4300,,
+backcountry,3400,avalanche,
+backcountry,2800,avalanche,38
+backcountry,2700,avalanche,
+backcountry,3100,,
+backcountry,2660,avalanche,33
+backcountry,3200,,
+backcountry,2200,,49
+backcountry,1700,avalanche,32
+backcountry,1900,avalanche,
+backcountry,2400,avalanche,
+backcountry,1900,avalanche,
+backcountry,3400,,44
+backcountry,1900,avalanche,
+backcountry,2100,avalanche,
+rock mountaineering,2820,falling rocks,
+rock mountaineering,3250,falling rocks,25
+snow/ice/mixed,3600,,24
+rock mountaineering,2850,falling rocks,51
+climbing,960,,
+backcountry,3600,,27
+backcountry,2240,,27
+backcountry,1900,avalanche,38
+snow/ice/mixed,3650,,60
+snow/ice/mixed,3500,,29
+backcountry,1850,avalanche,
+backcountry,2050,avalanche,
+backcountry,1900,,44
+snow/ice/mixed,3400,falling rocks,
+backcountry,1990,avalanche,30
+snow/ice/mixed,3700,falling rocks,
+snow/ice/mixed,3620,,
+rock mountaineering,3000,falling rocks,42
+mountaineering,,,
+backcountry,2850,avalanche,30
+backcountry,2400,avalanche,34
+backcountry,2400,avalanche,23
+rock mountaineering,2300,falling rocks,34
+climbing,1700,,26
+backcountry,2100,,42
+backcountry,1730,avalanche,26
+climbing,2400,falling rocks,33
+mountaineering,2860,,
+backcountry,2900,avalanche,28
+backcountry,3250,avalanche,28
+backcountry,1650,avalanche,29
+climbing,1150,,29
+hiking,,lightning,26
+rock mountaineering,,,23
+backcountry,2200,avalanche,
+backcountry,3080,avalanche,28
+snow/ice/mixed,2920,avalanche,
+climbing,1700,,20
+backcountry,2440,avalanche,31
+backcountry,1600,avalanche,31
+backcountry,2600,avalanche,25
+backcountry,2350,avalanche,22
+backcountry,3400,avalanche,36
+backcountry,3800,avalanche,31
+backcountry,2000,avalanche,25
+snow/ice/mixed,3400,falling rocks,29
+climbing,2500,,
+snow/ice/mixed,3400,falling rocks,30
+backcountry,2880,avalanche,23
+backcountry,3300,crevasse,19
+snow/ice/mixed,3790,lightning,24
+ice climbing,,avalanche,27
+backcountry,2200,avalanche,30
+backcountry,2245,avalanche,45
+climbing,,,23
+climbing,1350,,16

@@ -1,0 +1,57 @@
+#-------------------
+# ALGO
+#-------------------
+strategy: 'MAB_explanation' # 'MAB_explanation' 
+# 'random'/'MAB'/'explanation'/'new-panel' or 2 algos separated by '_'
+algos_ratio: '19_1'
+# if algo = algo1/algo2, '#algo1'/'#algo2', e.g. : 4_1 (for algo2 20%)
+check_history: True
+inclusion: True
+diversity: True
+
+#-------------------
+# MAB ALGORITHM (if 'MAB' in algo)
+#-------------------
+MAB_algo: "softmax" # 'e-greedy' or 'softmax'
+epsilon: 0.1
+exploration_type: "hybrid" # if egreedy, 'farpanel', newpanel' or 'hybrid'
+exploration_bounding: 0.1  # if far panel, nb of bits changed = exploration_bounding x len(vector)
+sigma: 20 # if 'hybrid', parameter for decreasing probability of choosing far panel with number of consecutive No feedback
+temperature: 10 # if softmax
+#-------------------
+# EXPLANATION (if 'explanation' in algo)
+#-------------------
+explanation_type: 'all' # 'all' or 'one'
+
+#-------------------
+# DATA
+#-------------------
+dataset_name: 'MovieLens_numeric' # 'SERAC' 'MovieLens' 'MovieLens_numeric'
+n_attributes: 4
+numeric_ratio: 1 # number of numeric attributes / n_attributes, can be None for full random selection
+target: ["A", "A2", "D1", "D2"]
+#	if MovieLens:
+#		A : SELECT count(*), avg(age) GROUP BY rating
+#		A2 : SELECT avg(rating) GROUP BY age
+#		B1 : SELECT count(*), avg(age), avg(rating) GROUP BY gender
+#		B2 : SELECT count(*), avg(age), avg(rating) GROUP BY occupation
+#		B3 : SELECT count(*), avg(age), avg(rating) GROUP BY gender, occupation
+#		C1 : SELECT count(*), avg(age), avg(rating) GROUP BY release_date, gComedy
+#		C2 : SELECT count(*), avg(age), avg(rating) GROUP BY release_date, gAction
+#		C3 : SELECT count(*), avg(age), avg(rating) GROUP BY release_date, gAnimation
+#		C4 : SELECT count(*), avg(age), avg(rating) GROUP BY release_date, gDocumentary
+#		C5 : SELECT count(*), avg(age), avg(rating) GROUP BY release_date, gFantasy
+#		C6 : SELECT count(*), avg(age), avg(rating) GROUP BY release_date, gSci_Fi
+#		D1 : SELECT count(*), avg(age), avg(rating) GROUP BY gComedy
+#		D2 : SELECT count(*), avg(age), avg(rating) GROUP BY gAction
+#		D3 : SELECT count(*), avg(age), avg(rating) GROUP BY gAnimation
+#		D4 : SELECT count(*), avg(age), avg(rating) GROUP BY gDocumentary
+#		D5 : SELECT count(*), avg(age), avg(rating) GROUP BY gFantasy
+#		D6 : SELECT count(*), avg(age), avg(rating) GROUP BY gSci_Fi
+
+#-------------------
+# PREPROCESSING
+#-------------------
+attribute_threshold: 7 # if adomSize(attribute) >= attribute_threshold : numeric attribute is discretized, nominal attribute is put in class c
+discretize_K: True
+# True : let U choose number of classes for K-means clustering / False : K = attribute_threshold

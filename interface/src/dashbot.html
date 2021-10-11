@@ -1,0 +1,863 @@
+<!DOCTYPE html>
+<html lang="en">
+  	<head>
+		<!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
+		<title>DashBot</title>
+		<link rel="icon" type="image/gif" href="./img/favicon.png">
+		<!-- Required meta tags -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- Bootstrap CSS -->
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+		<!-- my style -->
+		<link href="css/style.css" rel="stylesheet"> </style>
+		<link rel="stylesheet" href="css/bootstrap-colorselector.min.css">
+		<!-- link to API -->
+		<script type="module" src="js/dashbot.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script> <!-- development version, includes helpful console warnings -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js"></script>
+		<!-- Vega -->
+		<script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+		<script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+		<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+	</head>
+	<body>
+		<div class="container-fluid"  style="height:100vh" id='app' style="height:100vh">
+
+			<div class="row" v-if= "!start_generation">
+				<div class='col-12' style="height:100vh" >
+					<div class="row" style="height:4%"></div>
+					<div class="row">
+						<div class='col-5 mx-auto align-items-center'>
+							<div class='mb-5'>
+								<h2>
+									DashBot
+								</h2>
+								<h4>
+									Machine-Learning Powered Dashboard Generator
+								</h4>
+							</div>
+							<div class="input-group mt-5" v-if='!dataset.name'>
+								<label class="col-auto input-group-text">
+									Choose your dataset
+								</label>
+								<select class="form-select" id="select_dataset">
+									<option v-for="dataset in dataset_names" :key="dataset">
+										{{ dataset }}
+									</option>
+								</select>
+							</div>
+							<div class="d-flex justify-content-end mt-5" v-if='!dataset.name'>
+								<button  type="button" class="btn btn-primary" v-on:click="preprocess_data">
+									preprocess data
+								</button>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class='col-6 mx-auto align-items-center'>
+							<div class="row align-items-center mb-3 justify-content-between" v-if="dataset.name != null">
+								<div class="col-auto" >
+									<h4>
+										{{ dataset.name }}
+										<span class="badge bg-light text-dark" v-if="preprocess_done">
+											{{ dataset.n_attributes }} attributes
+										</span>
+										<span class="badge bg-light text-dark" v-if="preprocess_done">
+											{{ dataset.n_rows }} records
+										</span>
+									</h4>
+									<p style="font-size:12px" v-if="dataset.name == 'SERAC'">
+										<img  class="img" src="./img/C2C_logo.png" height="35">
+										<img  class="img" src="./img/petzl_logo.png"height="35">
+										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; licence 
+										<img  class="img" src="./img/CC_logo.png" width="15">
+										BY SA 3.0 
+									</p>
+									<p style="font-size:12px" v-if="dataset.name == 'Data Avalanche'">
+										<img  class="img" src="./img/data-avalanche_logo.png" height="35">
+									</p>
+								</div>
+								<div class="col-5" v-if="preprocess_done" >
+									<div class="d-flex justify-content-between ">
+										<button  type="button" class="btn btn-secondary" v-on:click="reset">
+											change
+										</button>
+										<button  type="button" class="btn btn-primary" v-on:click="start_dashboard_generation">
+											start generation
+										</button>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row mt-4 justify-content-center" 
+						v-if="preprocess_done" >
+						<div class="col-10" id="info"
+							v-bind:class="{'d-none' : !preprocessed_info_shown, 'd-block' : preprocessed_info_shown}">
+							<div class="row justify-content-center">
+								<div class="col-auto me-5">
+									<h5>
+										Attributes characteristics
+									</h5>
+									<div class="col-12" id="attributes_characteristics"
+										v-html="attributes.characteristics">
+									</div>
+								</div>
+								<div class="col-auto ms-5">
+									<h5>
+										Attributes relevance
+									</h5>
+									<div class="row mt-3" >
+										<div class="col-auto">
+												<dt class="col-12">
+													GROUP BY
+												</dt>
+												<dd class="col-12">
+													<ol>
+														<li class="list-item"
+															v-for="att in attributes.rankings.groupBy" :key="att">
+															{{att}}
+														</li>
+													</ol>
+												</dd>
+										</div>
+										<div class="col-auto ms-4">
+											<div class="row">
+												<dt class="col-12">
+													aggregation
+												</dt>
+												<dd class="col-12">
+													<ol>
+														<li class="list-item"
+															v-for="att in attributes.rankings.aggregation" :key="att">
+															{{att}}
+														</li>
+													</ol>
+												</dd>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="row mt-3 justify-content-center">
+									<h5>Value distributions of attributes</h5>
+								<div class="col-3 px-4 py-3" style="height:100%"
+									v-for="attribute in attributes.names" :key="attribute">
+									<div class="row justify-content-center pt-2" style="background: rgb(240, 240, 240); height:40vh">
+										<div class='col-auto'>
+											<strong>{{ attribute }}</strong>
+										</div>
+										<div class="col-11 pt-3">
+											<div class='row justify-content-center' v-bind:id="attribute"></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row" style="height:100vh" v-if="start_generation">
+				<div class="col-12">
+
+					<div class="row" style="height:4.5vh; background: black ; color: white">
+						<div class="col-8 pt-1" style="height:100%">
+							<div class="row justify-content-center " style="height:100%">
+								<div class="col-auto me-5">
+									<h3>DashBot</h3>
+								</div>
+								<div class="col-auto pt-1 ms-5">
+									<h5>Machine-Learning Powered Dashboard Generator</h5>
+								</div>
+							</div>
+						</div>
+						<div class="col-4">
+							<div class="row justify-content-end my-auto">
+								<div class="col-auto  pt-2">
+									<div class="row">
+										<h6>
+											{{ dataset.name }}
+											<span class="badge bg-light text-dark ms-3 me-2 align-text-bottom">
+												{{ dataset.n_attributes }} attributes
+											</span>
+											<span class="badge bg-light text-dark align-text-bottom">
+												{{ dataset.n_rows }} records
+											</span>
+										</h6>
+									</div>
+								</div>
+								<div class="col-auto pt-1">
+									<button  type="button" class="btn btn-secondary btn-sm ms-5" v-on:click="reset">
+										restart
+									</button>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="row "  v-if='!stop_generation'>
+						<div class="col-5 d-flex flex-column pt-2" style="background:rgb(215, 215, 215); height:74vh">
+							<h2>
+								<span class="badge" style="background-color: rgb(0, 0, 0); color: rgb(216, 216, 216) ">
+									Dashboard
+								</span>
+							</h2>
+							<div class = "row align-self-stretch justify-content-center align-items-center overflow-auto"
+								style="min-height:92%" id="panels_on">
+								<div class='col-10'>
+									<div class="row justify-content-center">
+										<div class="pt-2 pb-1"
+											v-bind:class="set_panels_size()" 
+											v-for="i in Object.keys(dashboard.panels)" :key="i">
+											<div class='row' v-bind:id="i" >
+												<img  class="img-fluid"
+													src="./img/white-pix.jpg"
+													v-if="dashboard.panels[i] == ''"
+													v-on:drop="drop($event, i)"
+													v-on:dragover="allow_drop">
+												<div class='col-12'></div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div id="transfer"></div>
+							</div>
+						</div>
+
+						<div class="col-4 pt-2" style="height:74vh">
+							<h2>
+								<span class="badge" style="background-color: rgb(41, 41, 41); color: rgb(255, 255, 255) ">
+									Panel
+								</span>
+							</h2>
+							<div class = "row pt-2 d-flex align-self-stretch justify-content-center align-items-start overflow-auto"
+								style="height:88%">
+								<div class='col-11' style='height:100%'>
+									<div class="row justify-content-center" style='height:100%'>
+										<div class="card bg-light overflow-auto" style='height:100%'>
+											<div class="card-body " style='height:100%'>
+
+												<nav>
+													<div class="nav nav-tabs on-light" id="panel_tab">
+													  	<li class="nav-link dropdown active" id="visualisation-tab" data-bs-toggle="tab" data-bs-target="#visualisation"
+															type="button" role="tab" aria-controls="visualisation" aria-selected="true" style="z-index:99999999999999">
+															<h5 class="dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false">
+																Visualization
+															</h5>
+															
+															<ul class="dropdown-menu">
+
+																<!-- <div class="form-check dropdown-item"
+																v-for='visu in panel.visus' :key="define_id('button', visu)">
+																	<input class="form-check-input" type="radio" name="flexRadioDefault" id="define_id('button', visu)"
+																	:checked="visu == panel.current_visu">
+																	<label class="form-check-label" for="define_id('button', visu)">
+																		{{get_visu_name(visu)}}
+																	</label>
+																</div> -->
+
+
+																<li class="dropdown-item"  id="define_id('button', visu)"
+																v-for='visu in panel.visus' :key="define_id('button', visu)"
+																v-on:click="change_visu_type(visu)">
+																	{{get_visu_name(visu)}}
+																</li>
+
+																<!-- <li><hr class="dropdown-divider"></li> -->
+															</ul>
+														</li>
+														</button>
+													  	<button class="nav-link" id="sql_query-tab" data-bs-toggle="tab" data-bs-target="#sql_query"
+															type="button" role="tab" aria-controls="sql_query" aria-selected="false">
+															<h5> Query  </h5>
+														</button>
+													  	<button class="nav-link" id="result_table-tab" data-bs-toggle="tab" data-bs-target="#result_table"
+															type="button" role="tab" aria-controls="result_table" aria-selected="false">
+															<h5> Table </h5>
+														</button>
+													</div>
+												</nav>
+												<div class="row justify-content-center">
+													<div class="tab-content col-auto pt-3" id="panel_content">
+														<div class="tab-pane fade show active" id="visualisation" role="tabpanel" aria-labelledby="visualisation-tab">
+															<div class="row" id="panel_in_progress">
+																<div class="col-12 mx-auto"
+																	v-for="i in _.range(1, panel.number + 1)" :key='i'>
+																	<div class='row' v-bind:id="define_id('panel',i)"
+																		draggable="true" v-on:dragstart="drag"> 
+																	</div>
+																</div>
+															</div>
+														</div>
+														<div class="tab-pane fade" id="sql_query" role="tabpanel" aria-labelledby="sql_query-tab">
+															<table class="table table-borderless table-sm">
+																<tbody>
+																	<tr>
+																		<th scope="row">SELECT</th>
+																		<td>{{panel.query.select}}</td>
+																	</tr>
+																	<tr>
+																		<th scope="row">GROUP&nbsp;BY</th>
+																		<td>{{panel.query.groupBy}}</td>
+																	</tr>
+																</tbody>
+															</table>
+														</div>
+														<div class="tab-pane fade" id="result_table" role="tabpanel" aria-labelledby="result_table-tab">
+															<div class="col-auto overflow-auto" id="result_table"
+																v-html="panel.result_table">
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-3 pt-2 overflow-auto" style="height:74vh; background: rgb(51, 51, 51) ; color: white"> 
+							<h2>
+								<span class="badge" style="background-color: white; color: rgb(51, 51, 51) ">
+									Interactivity
+								</span>
+							</h2>
+
+							<div class = "row pt-3 align-self-stretch justify-content-center align-items-start overflow-auto"
+							style="min-height:90%">
+								<div class='col-12 pe-3'>
+									<nav>
+										<div class="nav nav-tabs on-dark" id="custom_tab" role="tablist">
+											  <button class="nav-link active" id="dashboard-tab" data-bs-toggle="tab" data-bs-target="#dashboard"
+												type="button" role="tab" aria-controls="dashboard" aria-selected="true">
+												<h5> Dashboard </h5>
+											</button>
+											  <button class="nav-link" id="current_panel-tab" data-bs-toggle="tab" data-bs-target="#current_panel"
+												type="button" role="tab" aria-controls="current_panel" aria-selected="false">
+												<h5> Panel  </h5>
+											</button>
+											  <button class="nav-link" id="personalisation-tab" data-bs-toggle="tab" data-bs-target="#personalisation"
+												type="button" role="tab" aria-controls="personalisation" aria-selected="false">
+												<h5> Personalization  </h5>
+											</button>
+										</div>
+									</nav>
+									<div class="row justify-content-center" >
+										<div class="tab-content  pt-3">
+											<div class="tab-pane fade show active mx-2" id="dashboard" role="tabpanel" aria-labelledby="dashboard-tab">
+												<div class="card text-white mb-3"
+													style="width: 100%;  background-color: rgb(46, 46, 46); border: 1px solid rgb(71, 71, 71)">
+													<div class="card-header"
+														style="border-bottom: 1px solid rgb(71, 71, 71);">
+														<div class="row justify-content-between">
+															<div class="col-auto">
+																<h6> COVERAGE </h6>
+															</div>
+														</div>
+													</div>
+													<div class="card-body">
+														<div class="row justify-content-between  align-items-center">
+															<div class="col  pe-5" style="color:rgb(209, 215, 221)">
+																Choose if the dashboard has to cover all attributes.
+															</div>
+															<div class="col-auto form-check form-switch">
+																<input type="checkbox" class="form-check-input" id="diversity_checkbox"
+																	v-model="diversity.asked" v-on:change="set_diversity" >
+															</div>
+														</div>
+													</div>
+												</div>
+
+												<div class="card text-white mb-3"
+													style="width: 100%;  background-color: rgb(46, 46, 46); border: 1px solid rgb(71, 71, 71)">
+													<div class="card-header"
+														style="border-bottom: 1px solid rgb(71, 71, 71);">
+														<div class="row justify-content-between">
+															<div class="col-auto">
+																<h6> SIZE </h6>
+															</div>
+														</div>
+													</div>
+													<div class="card-body">
+														<p style="color:rgb(209, 215, 221)">
+															Choose the dashboard size <br>
+															or 
+															<span style="color:rgb(162, 202, 255)">  end generation </span> 
+															when satisfied.
+														</p>
+														<div class="row">
+															<div class="col">
+																<input type="range" class="form-range" id="dashboard_size_range"
+																	min="1" max="10" step="1"
+																	v-on:change="set_dashboard_size">
+															</div>
+															<div class="col-auto">
+																<div class="input-group justify-content-end">
+																	<label class="input-group-text" >
+																		<strong>{{ dashboard.size }}</strong>
+																	</label>
+																	<button  type="button" id="clear_dashboard_size_button" class="btn btn-secondary btn-sm"
+																		v-on:click="clear_dashboard_size" disabled>
+																		clear
+																	</button>
+																</div>
+															</div>
+														</div>
+														<div class="row justify-content-center mt-4 mb-1" >
+															<div class="col-auto">
+																<button  type="button" class="btn btn-primary" v-on:click="end_generation">
+																	end generation
+																</button>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="tab-pane fade  mx-2" id="current_panel" role="tabpanel" aria-labelledby="current_panel-tab">
+
+												<div class="card text-white mb-3"
+													style="width: 100%;  background-color: rgb(46, 46, 46); border: 1px solid rgb(71, 71, 71)">
+													<div class="card-header" style="border-bottom: 1px solid rgb(71, 71, 71);">
+														<div class="row justify-content-between align-items-center py-1">
+															<div class="col">
+																<h6> CUSTOMIZATION </h6>
+																without explanation
+															</div>
+															<div class="col-auto">
+																<button type="button" class="btn btn-primary" v-on:click="refine_panel">
+																	apply
+																</button>
+															</div>
+														</div>
+													</div>
+													<div class="card-body">
+														<div class="col-6">
+															<div class="input-group">
+																<div class="input-group-text" style="background-color:rgb(46, 46, 46); color:rgb(220,220,220); border: 1px solid rgb(71, 71, 71)">
+																	MAB
+																</div>
+																<select class="form-select" 
+																	style= "background-color: rgb(51,51,51) !important; color: rgb(220,220,220);
+																		border: 1px solid rgb(71, 71, 71)"
+																		v-model='mab.algo' v-on:change="get_softmax_scores">
+																	<option value="e-greedy">&#949-greedy</option>
+																	<option value="softmax"> softmax </option>
+																</select>
+															</div>
+														</div>
+														<div class="col-12"
+															v-show="mab.algo == 'softmax'">
+															<div class='row' id="softmax_scores"></div>
+														</div>
+													</div>
+												</div>
+
+												<div class="card text-white"
+													style="width: 100%; background-color: rgb(46, 46, 46); border: 1px solid rgb(71, 71, 71)">
+													<div class="card-header"
+														style="border-bottom: 1px solid rgb(71, 71, 71);">
+														<div class="row justify-content-between align-items-center py-1">
+															<div class="col-auto">
+																<h6> CUSTOMIZATION </h6>
+																with explanation
+															</div>
+															<div class="col-auto">
+																<button type="button" class="btn btn-primary" v-on:click="apply_explanation">
+																	apply
+																</button>
+															</div>
+														</div>
+													</div>
+													<div class="card-body">
+
+														<h6>Report Bad Attributes</h6>
+														<div class="row ms-2">
+															<dt class="col-auto" style="color:rgb(180, 180, 180)">
+																GROUP BY
+															</dt>
+															<dd class="col-auto" style="color:rgb(180, 180, 180)">
+																<div class="form-check form-check-inline"
+																	v-for="att in Object.keys(panel.groupBy)" :key="define_id('remove-groupBy', att)"
+																	v-if= panel.groupBy[att]>
+																	<input type="checkbox" class="form-check-input"
+																		:checked="explanation.groupBy[att]"
+																		v-bind:id="define_id('remove-groupBy', att)"
+																		v-on:change="report_bad_groupBy(att)">
+																	<label class="form-check-label">
+																		{{ att }}
+																	</label>
+																</div>
+															</dd>
+														</div>	  
+														<div class="row  ms-2" >
+															<dt class="col-auto" style="color:rgb(180, 180, 180)">
+																aggregation
+															</dt>
+															<dd class="col-auto" style="color:rgb(180, 180, 180)">
+																<div class="form-check form-check-inline"
+																	v-for="att in Object.keys(panel.aggregates)" :key="define_id('remove-aggregation', att)"
+																	v-if="!(all_false(att, panel.aggregates))">
+																	<input type="checkbox" class="form-check-input"
+																		v-bind:id="define_id('remove-aggregation', att)"
+																		:checked="(!(all_false(att, explanation.aggregates)))"
+																		v-on:change="report_bad_aggregation(att)">
+																	<label class="form-check-label">
+																		{{ att }}
+																	</label>
+																</div>
+															</dd>
+														</div>
+
+														<h6 class="mt-2">Add Attributes</h6>
+														<div class="row ms-1 mb-2">
+															<div class="col-6">
+																<div class="multiselect">
+																	<div class="selectBox"
+																		v-on:click="multiselect_show_hide_checkboxes">
+																		<select>
+																			<option> GROUP BY &nbsp; &nbsp; &nbsp; </option>
+																		</select>
+																		<div class="overSelect"></div>
+																	</div>
+																	<div class="checkboxes px-2 overflow-auto" style="max-height: 15vh;" >
+																		<div class="form-check" v-on:mouseout="multiselect_hide_checkboxes"
+																			v-for="att in attributes.names" :key="define_id('add-groupBy', att)">
+																			<input class="form-check-input" type="checkbox"
+																				v-bind:id="define_id('add-groupBy', att)"
+																				:disabled="panel.groupBy[att]"
+																				:checked="explanation.groupBy[att]"
+																				v-on:click="add_groupBy(att)">
+																			<label class="form-check-label" v-bind:for="define_id('add-groupBy', att)">
+																				{{ att }}
+																			</label>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="col-6">
+																<div class="form-check"
+																	v-for="att in explanation.add.groupBy" :key="define_id('added-groupBy', att)">
+																	<input class="form-check-input" type="checkbox"  checked
+																		v-bind:id="define_id('added-groupBy', att)"
+																		v-on:click="add_groupBy(att)">
+																		<!-- v-bind:checked="explanation.add.groupBy.includes(att)" -->
+																	<label class="form-check-label" v-bind:for="define_id('added-groupBy', att)">
+																		{{ att }}
+																	</label>
+																</div>
+															</div>
+														</div>
+														
+														<div class="row ms-1 mb-2">
+															<div class="col-6">
+																<div class="multiselect">
+																	<div class="selectBox"
+																		v-on:click="multiselect_show_hide_checkboxes">
+																		<select>
+																			<option> aggregation &nbsp; &nbsp; &nbsp; </option>
+																		</select>
+																		<div class="overSelect"></div>
+																	</div>
+																	<div class="checkboxes px-2 overflow-auto" style="max-height: 15vh;" >
+																		<div class="form-check"  v-on:mouseout="multiselect_hide_checkboxes">
+																			<input class="form-check-input" type="checkbox"
+																				v-bind:id="define_id('add-aggregation', '*')"
+																				:checked="!(all_false('*', explanation.aggregates))"
+																				:disabled="!(all_false('*', panel.aggregates))"
+																				v-on:click="add_aggregation('*')">
+																			<label class="form-check-label" v-bind:for="define_id('add-aggregation', '*')">
+																				*
+																			</label>
+																		</div>
+																		<div class="form-check"
+																			v-for="att in attributes.numeric" :key="define_id('add-aggregation', att)">
+																			<input class="form-check-input" type="checkbox"
+																				v-bind:id="define_id('add-aggregation', att)"
+																				:checked="!(all_false(att, explanation.aggregates))"
+																				:disabled="!(all_false(att, panel.aggregates))"
+																				v-on:click="add_aggregation(att)">
+																			<label class="form-check-label" v-bind:for="define_id('add-aggregation', att)">
+																				{{ att }}
+																			</label>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="col-6">
+																<div class="form-check"
+																	v-for="att in explanation.add.aggregation" :key="define_id('added-aggregation', att)">
+																	<input class="form-check-input" type="checkbox"  checked
+																		v-bind:id="define_id('added-aggregation', att)"
+																		v-on:click="add_aggregation(att)">
+																	<label class="form-check-label" v-bind:for="define_id('added-aggregation', att)">
+																		{{ att }}
+																	</label>
+																</div>
+															</div>
+														</div>
+														
+
+														
+
+
+
+
+
+														<h6 class="mt-3">Change Aggregation Functions</h6>
+														<div class="row  ms-2"
+															v-for="(functions, att) in explanation.aggregates" :key="define_id('functions', att)"
+															v-if="!(all_false(att, panel.aggregates))">
+															<div class="col-12">
+																<div class="row">
+																	<dt class="col-auto" style="color:rgb(180, 180, 180)">
+																		{{ att }}
+																	</dt>
+																	<dd class="col-auto">
+																		<div class="form-check form-check-inline"
+																			v-for="(func_bool, func) in panel.aggregates[att]" :key="define_id(func, att)">
+																			<input type="checkbox" class="form-check-input"
+																				v-bind:id="define_id(func, att)"
+																				v-model="explanation.aggregates[att][func]"
+																				v-on:change="change_function(att, func)">
+																			<label class="form-check-label" style="color:rgb(180, 180, 180)">
+																				{{ func }}
+																			</label>
+																		</div>
+																	</dd>
+																</div>
+															</div>
+														</div>
+														<div class="row mt-2">
+															<div class="d-flex justify-content-end">
+																<button type="button" class="btn btn-secondary btn-sm" v-on:click="reset_explanation">
+																	reset
+																</button>
+															</div>
+														</div>
+													</div>
+												</div>
+
+											</div>
+											<div class="tab-pane fade mx-2" id="personalisation" role="tabpanel" aria-labelledby="personalisation-tab">
+
+												<div class="card text-white mb-3"
+													style="width: 100%;  background-color: rgb(46, 46, 46); border: 1px solid rgb(71, 71, 71)">
+													<div class="card-header" style="border-bottom: 1px solid rgb(71, 71, 71);">
+														<div class='row justify-content-between align-items-center'>
+															<div class='col-auto'>
+																<h6 class="pt-2"> Profile </h6>
+															</div>
+															<div class='col'>
+																<input type="text" class="form-control"
+																	style="background-color: rgb(51, 51, 51); color: rgb(220,220,220); border: 1px solid rgb(71, 71, 71)"
+																	v-model="personal_data.profile" v-on:change="set_profile_name">
+															</div>
+															<div class='col-auto'>
+																<div class="input-group">
+																	<select id="colorselector">
+																		<option value="47" data-color="rgb(158, 24, 24)" selected="selected"></option>
+																	  </select>
+																</div>
+																
+															</div>
+														</div>
+													</div>
+													<div class="card-body">
+														<div class="row justify-content-center pt-1">
+															<div class="col-auto" id="personal_data">
+																<div class="input-group mb-2" v-for="att in attributes.names" :key='att'>
+																	<div class="input-group-text" style="background-color:rgb(46, 46, 46); color:rgb(220,220,220); border: 1px solid rgb(71, 71, 71)">
+																		<b>{{ att }}</b>
+																	</div>
+																	<input type="text" class="form-control" style="background-color: rgb(51, 51, 51); color: rgb(220,220,220); border: 1px solid rgb(71, 71, 71)"
+																		v-if='attributes.numeric.includes(att)'
+																		v-model='personal_data.linked_dict[personal_data.profile][att]' v-on:change='set_personal_data(att)'>
+																	<select class="form-select" style="background-color: rgb(51, 51, 51); color: rgb(220,220,220); border: 1px solid rgb(71, 71, 71)"
+																		v-else
+																		v-model='personal_data.linked_dict[personal_data.profile][att]' v-on:change='set_personal_data(att)'>
+																		<option selected></option>
+																		<option v-for="value in attributes.values[att]" :key="value">
+																			{{ value }}
+																		</option>
+																	</select>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="row mt-4">
+													<div class="d-flex justify-content-end">
+														<button type="button" class="btn btn-secondary btn-sm">
+															add new profile
+														</button>
+													</div>
+												</div>
+												
+												
+
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="row overflow-hidden"  style="height:21.5vh; background: rgb(80, 80, 80) ; color: white ; " 
+						v-if='!stop_generation'>
+
+						<div class="col-auto me-5 pt-2"  style="height:21.5vh">
+							<h2>
+								<span class="badge" style="background-color: white; color: rgb(80, 80, 80) ">
+									Attributes
+								</span>
+							</h2>
+							<div class="ps-3">
+								<h5 class='pt-2'>
+									Coverage
+								</h5>
+							
+								<div class="input-group mt-1">
+									<label class="input-group-text ">
+										achieved
+									</label>
+									<button type="button" class="btn btn-success btn-sm" v-if="diversity.achieved">
+										YES
+									</button>
+									<button type="button" class="btn btn-danger btn-sm" v-else>
+										NO
+									</button>
+								</div>
+							</div>
+
+						</div>
+							
+						<div class='col-3 pt-3' style="height:21.5vh">
+							<h5>Relevances</h5>
+							<div class = "row pt-2 align-self-stretch justify-content-center align-items-start  overflow-hidden"
+							style="height:90%">
+								
+								<div class='col-6 overflow-hidden' style="height:100%">
+									<strong>GROUP BY</strong>
+									<ol class='overflow-auto' style="max-height:80%">
+										<li v-for="att in attributes.rankings.groupBy" :key="define_id('ranking_groupBy', att)">
+											{{att}}
+										</li>
+									</ol>
+								</div>
+							
+								<div class='col-6  overflow-hidden' style="height:100%">
+									<strong>aggregation</strong>
+									<ol  class="overflow-auto"  style="max-height:80%">
+										<li v-for="att in attributes.rankings.aggregation" :key="define_id('ranking_aggregation', att)">
+											{{att}}
+										</li>
+									</ol>
+								</div>
+
+							</div>
+							<!-- <div class = "row pt-2 align-self-stretch justify-content-center align-items-start overflow-auto"
+							style="min-height:15%">
+								<div class='col'>
+									<div class='row'>
+										<div class='col-auto'>
+											<strong>GROUP BY</strong>
+										</div>
+										<div class='col overflow-auto' style="height:7vh">
+											<ul class="list-inline">
+												<li class="list-inline-item"
+													v-for="att in attributes.rankings.groupBy.slice(0,-1)" :key="define_id('ranking_groupBy', att)">
+													{{att}} >
+												</li>
+												<li class="list-inline-item"
+													v-for="att in attributes.rankings.groupBy.slice(-1)" :key="define_id('ranking_groupBy', att)">
+													{{att}}
+												</li>
+											</ul>
+										</div>
+									</div>
+									<div class='row'>
+										<div class='col-auto'>
+											<strong>aggregation</strong>
+										</div>
+										<div class='col overflow-auto' style="height:7vh">
+											<ul class="list-inline">
+												<li class="list-inline-item"
+													v-for="att in attributes.rankings.aggregation.slice(O,-1)" :key="define_id('ranking_aggregation', att)">
+													{{att}} >
+												</li>
+												<li class="list-inline-item"
+													v-for="att in attributes.rankings.aggregation.slice(-1)" :key="define_id('ranking_aggregation', att)">
+													{{att}}
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>  -->
+						</div>
+
+						<div class="col pt-3" style="height:21.5vh">
+							<div class='row' >
+								<h5>Value distributions</h5>
+							</div>
+							<div class='row overflow-auto' style="height:85%">
+
+								<div class='col-auto' v-for='attribute in attributes.rankings.groupBy' :key='attribute'>
+									
+									<div class='row d-flex' >
+										<div class='col-auto text-end'>
+											<strong> {{ attribute }} </strong> 
+										</div>
+										<div class='col-auto'>
+											<div class='row' style="width:18vh" v-bind:id="attribute"></div>
+										</div>
+									</div>
+
+								</div>
+
+							</div>
+
+						</div>
+					</div>
+
+					<div hidden class="row  overflow-auto" id='final' style="height:95.5vh">
+						<div class="col-12 d-flex flex-column pt-2" style="height:99%">
+							<div class = "row align-self-stretch" style="height:99%">
+								<div class='col-12' style="height:99%">
+									<div class="row justify-content-around align-items-center" style="height:99%">
+										<div class="px-5 py-4"
+											v-bind:class="set_panels_size()" 
+											v-for="i in Object.keys(dashboard.panels)" :key="i"
+												v-if="!(dashboard.panels[i] == '')">
+											<h5  class="text-center">
+												PANEL #{{ i }}
+											</h5>
+											<div class='row  justify-content-center' v-bind:id="define_id('final',i)">
+												<div class='col-12'></div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div id="transfer"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+		<script src="js/bootstrap-colorselector.min.js"></script>
+		<script>
+			$('#colorselector').colorselector();
+			$('#colorselector2').colorselector();
+  		</script>
+	</body>
+</html>

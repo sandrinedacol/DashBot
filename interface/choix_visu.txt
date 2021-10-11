@@ -1,0 +1,114 @@
+******************************
+types d'attributs
+******************************
+
+------------------
+aggregation attributes
+------------------
+numeric list (for min/avg/max)
+count list
+sum list
+
+------------------
+group by attributes
+------------------
+groupby list
+
+******************************
+visus implémentées
+******************************
+------------------
+histogramme numeric
+------------------
+gère plusieurs attributs d'aggregation
+histogramme avec :
+- count: couleur
+- avg: bar
+- min: fleche vers le bas
+- max: flèche vers le haut
+- sum : text
+
+------------------
+histogramme count sum
+------------------
+histogramme avec :
+
+* si uniquement sum
+	pour plusieurs attributs d'agg uniquement
+	- sum ou count: bar
+	- color for each attribute
+* si sum et count
+	gère 1 seul attribut d'agg uniquement
+	- sum: bar
+	- count: color
+	
+------------------
+word cloud
+------------------
+un seul aggregate autorisé
+aggregate: word size
+
+------------------
+pie_count
+------------------
+sum (OU exclusif) count
+gère plusieurs attributs pour count uniquement
+pie avec :
+- sum ou count: color, arc, radius
+++++++++ à changer: possibilité pour sum + count sur un unique attribut 
+------------------
+two_groupBy
+------------------
+gère que 2 aggrégats
+x : 1st groupby
+y: 2nd groupBy
+aggregates: mark
+- color: aggregate 1
+- size : aggregate 2 (ou 1 si uniquement 1 aggregate)
+
+******************************
+choix visu
+******************************
+
+------------------
+1 seul groupBy
+------------------
+
+* si numeric :
+	* si au moins 1 aggregation numeric
+		--> histogramme_numeric
+		++++++++ pas d'autre possibilité
+	* si uniquement sum et/ou count
+		--> histogramme_count_sum
+		++++++++ pie
+		
+* si nominal:
+	* beaucoup de groupes
+		--> word_cloud
+		++++++++ pas d'autre possibilité
+	* sinon:
+		* si au moins 1 aggregation numerique
+			--> histogram_numeric
+			++++++++ pas d'autre possibilité
+		* si seulement count
+			--> pie_count
+			++++++++ histogram count sum
+		* si seulement sum
+			* si seulement 1 aggregate
+				--> pie_count
+				++++++++ histogram count sum
+			* si plusieurs attributs
+				--> histogram_multiple_sum
+				++++++++ pas d'autre possibilité
+		* si count+sum
+			--> histogram_count_sum
+			++++++++ pas d'autre possibilité
+		* si uniquement 1 aggregate:
+			++++++++ word cloud
+			
+------------------
+plusieurs groupBy
+------------------
+
+--> two_groupBy
+++++++++ pas d'autre possibilité

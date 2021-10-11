@@ -1,0 +1,378 @@
+activity,altitude,country,event,cause,N victim(s),rescue,severity,age,gender,level
+hiking,3000,France,,falling rocks,0,False,0,30,M,expert
+rock mountaineering,2680,France,,falling rocks,1,True,0.6,15,M,self-sufficient
+rock mountaineering,3635,Switzerland,,falling rocks,1,False,0,,,expert
+hiking,,France,,,1,False,0,46,M,expert
+snow/ice/mixed,4130,Switzerland,,,0,False,0,,,self-sufficient
+mountaineering,3900,France,fall,falling rocks,1,True,0.02,36,F,self-sufficient
+rock mountaineering,,France,roped fall,,1,True,0.9,33,M,initiated
+rock mountaineering,3670,France,fall,falling rocks,1,True,0.9,50,M,expert
+mountaineering,3300,France,,,2,True,0,27,M,self-sufficient
+climbing,,France,,,,,,,,
+climbing,1600,France,,falling rocks,2,False,0.17,,M,initiated
+rock mountaineering,3050,France,fall,falling rocks,1,True,0.9,25,M,self-sufficient
+climbing,,France,,falling rocks,1,False,0.02,42,M,expert
+climbing,,France,,falling rocks,1,True,0.6,21,M,initiated
+climbing,,France,fall,,1,True,0.17,37,M,expert
+climbing,1750,France,fall,,1,False,0.17,56,F,self-sufficient
+climbing,,Switzerland,fall,,1,True,0.9,,,initiated
+climbing,,France,roped fall,,1,False,0.17,22,M,expert
+climbing,,France,,,1,True,0.02,,,
+climbing,,France,,falling rocks,1,False,0,,,
+snow/ice/mixed,4800,China,injury,,1,True,0.17,32,M,self-sufficient
+backcountry,2600,Andorra,,avalanche,1,,0,,,
+snow/ice/mixed,4000,Switzerland,fall,,1,True,0.17,55,M,self-sufficient
+backcountry,,France,,,1,True,0.17,53,F,self-sufficient
+backcountry,1720,France,fall,,1,False,0,35,M,self-sufficient
+snow/ice/mixed,3570,France,fall,,1,False,0,35,M,self-sufficient
+climbing,60,France,fall,falling rocks,1,True,0.02,36,M,self-sufficient
+ice climbing,,France,,avalanche,3,,0,29,M,initiated
+backcountry,,France,,,,,0,59,M,initiated
+ice climbing,1150,France,fall,falling ice,1,True,0.9,43,M,initiated
+backcountry,1830,Switzerland,,avalanche,1,,0,59,M,expert
+backcountry,2150,France,,avalanche,1,,0,54,M,initiated
+climbing,1500,France,fall,,1,True,,25,M,
+rock mountaineering,,France,,,0,,0,25,M,expert
+mountain bike,1175,Switzerland,fall,,1,True,0.9,45,M,initiated
+climbing,1550,France,roped fall,,1,True,0.02,,,
+climbing,,Switzerland,,,1,,0,42,F,expert
+snow/ice/mixed,3450,France,roped fall,crevasse,1,,0,29,M,self-sufficient
+mountaineering,3200,France,,falling rocks,1,,0,32,M,self-sufficient
+rock mountaineering,2000,France,fall,,1,,0.17,0,,
+climbing,,France,roped fall,,1,,0.6,62,M,self-sufficient
+snow/ice/mixed,3600,Switzerland,fall,,1,True,0.9,50,M,initiated
+climbing,1400,France,,,1,,0,54,M,expert
+hiking,1550,France,injury,,1,True,0,77,F,self-sufficient
+hiking,2715,France,,falling rocks,1,,0,30,M,initiated
+snow/ice/mixed,3350,France,fall,,1,,0,52,M,self-sufficient
+mountaineering,4050,France,injury,,1,,0,30,M,self-sufficient
+rock mountaineering,2400,France,,falling rocks,1,,0.17,25,M,initiated
+climbing,300,,,,1,False,0,29,M,initiated
+climbing,,France,fall,,1,,0.17,30,F,self-sufficient
+climbing,,France,fall,,1,,0.6,52,M,expert
+climbing,25,France,,falling rocks,1,,0.02,59,M,self-sufficient
+climbing,,France,fall,,1,,0.02,30,M,initiated
+climbing,,France,roped fall,falling rocks,2,,0.6,55,M,expert
+backcountry,,Italy,,falling rocks,0,,0,,,
+snow/ice/mixed,2650,France,fall,,1,True,0.9,38,M,expert
+backcountry,2670,France,fall,,1,,0.02,34,M,self-sufficient
+backcountry,3000,France,,,1,,0,47,M,self-sufficient
+climbing,,France,roped fall,falling rocks,0,,0,28,M,initiated
+backcountry,,Italy,,avalanche,1,,0,53,M,initiated
+backcountry,2220,France,fall,,1,True,0.9,52,M,initiated
+backcountry,1900,Ethiopia,,,1,,0,62,M,expert
+climbing,,Cuba,fall,falling rocks,1,,0.6,32,M,initiated
+backcountry,1920,France,,avalanche,2,True,0,29,M,initiated
+backcountry,,France,,avalanche,2,True,0.9,53,M,initiated
+backcountry,2150,France,,avalanche,5,True,,53,M,initiated
+backcountry,1830,France,,avalanche,2,,0,46,M,expert
+backcountry,3200,Switzerland,,avalanche,0,,0,40,F,self-sufficient
+paragliding,1400,France,,,0,,0,27,M,expert
+paragliding,1300,Colombia,,,1,True,0.6,50,M,expert
+backcountry,2170,France,fall,avalanche,2,,0,29,M,initiated
+backcountry,1550,France,fall,,1,,0,34,M,self-sufficient
+backcountry,1600,France,fall,,1,True,0.9,32,M,initiated
+backcountry,3241,France,fall,,1,,0,49,M,self-sufficient
+backcountry,2100,France,,avalanche,0,True,0,33,M,initiated
+backcountry,,Switzerland,,avalanche,1,True,0.9,27,M,self-sufficient
+snow/ice/mixed,,France,fall,,1,,0.17,22,M,self-sufficient
+backcountry,,Switzerland,,avalanche,0,,0,41,F,expert
+backcountry,2400,France,fall,,1,,0,,M,initiated
+backcountry,1750,France,,avalanche,1,,0,35,M,self-sufficient
+backcountry,1800,France,,avalanche,2,,0.9,47,M,expert
+backcountry,1980,France,,avalanche,1,,0,40,M,initiated
+climbing,,France,,,1,,0,,,initiated
+climbing,3000,Argentina,fall,,1,,0.6,23,M,self-sufficient
+mountaineering,2700,France,fall,falling rocks,2,True,0.6,,,
+climbing,,France,,falling rocks,1,,0.17,30,M,initiated
+snow/ice/mixed,2100,New-Zealand,,falling ice,1,,0.17,23,M,initiated
+rock mountaineering,,France,fall,falling rocks,1,True,0.6,25,M,initiated
+rock mountaineering,,France,fall,crevasse,1,True,0.17,32,M,initiated
+snow/ice/mixed,3430,France,,falling ice,0,,0,25,M,initiated
+hiking,1884,Switzerland,,falling rocks,6,True,0.02,,,
+climbing,,Switzerland,,,2,,0.02,,,
+rock mountaineering,3000,France,fall,falling rocks,1,True,0.17,30,M,
+climbing,1700,France,fall,falling rocks,1,,0.02,37,M,initiated
+rock mountaineering,3450,France,roped fall,falling rocks,1,True,0.02,31,M,initiated
+snow/ice/mixed,,Switzerland,,falling rocks,1,,0,41,M,initiated
+mountaineering,3100,Switzerland,,falling rocks,2,False,0,29,M,initiated
+rock mountaineering,3650,France,fall,falling rocks,1,True,0.17,60,M,initiated
+rock mountaineering,2800,France,fall,falling rocks,1,True,0.6,32,F,initiated
+snow/ice/mixed,,Switzerland,roped fall,crevasse,1,,0,71,M,initiated
+climbing,450,France,roped fall,,1,,0,,,expert
+snow/ice/mixed,3200,France,roped fall,crevasse,1,True,0.17,57,M,initiated
+hiking,1916,France,fall,,1,,0.02,70,M,self-sufficient
+snow/ice/mixed,3609,Italy,fall,,2,True,0.6,30,F,self-sufficient
+snow/ice/mixed,3400,Italy,roped fall,,2,True,0.17,33,M,initiated
+hiking,2257,France,,,1,,0,55,M,initiated
+snow/ice/mixed,3300,France,roped fall,crevasse,2,,0,,,expert
+rock mountaineering,3400,France,fall,falling rocks,1,True,,64,M,expert
+rock mountaineering,,France,,falling rocks,1,,0.02,33,M,expert
+climbing,,France,fall,,1,,0.02,30,M,initiated
+climbing,850,France,,falling rocks,1,True,0.02,51,M,initiated
+climbing,,France,,falling rocks,1,,0.17,29,M,self-sufficient
+climbing,,France,,falling rocks,0,,0,,,
+snow/ice/mixed,,France,roped fall,crevasse,1,,0,27,F,self-sufficient
+rock mountaineering,,France,,falling rocks,1,,0,35,M,novice
+backcountry,,France,,avalanche,0,,0,52,M,initiated
+snow/ice/mixed,2900,France,roped fall,crevasse,2,True,0.17,38,F,self-sufficient
+climbing,,France,,,,,0,28,M,self-sufficient
+backcountry,2040,France,fall,,1,,0.17,28,M,initiated
+climbing,1800,France,roped fall,,1,True,0.17,51,M,self-sufficient
+climbing,,France,fall,,,,0,25,M,expert
+backcountry,2600,France,fall,,1,True,0.02,32,M,initiated
+backcountry,3323,France,,falling rocks,0,,0,19,M,initiated
+backcountry,2700,France,,falling rocks,20,,0,39,M,initiated
+backcountry,,France,fall,,1,True,0.9,26,M,self-sufficient
+backcountry,,France,roped fall,,1,,0,25,M,expert
+backcountry,,Switzerland,fall,,0,,0,,,
+hiking,,France,fall,,1,,0,38,M,expert
+backcountry,2400,Switzerland,fall,,1,,0.17,47,M,expert
+backcountry,3318,France,fall,,1,,0,59,M,expert
+backcountry,2300,France,fall,,1,,0.02,50,M,self-sufficient
+ice climbing,,Italy,fall,,1,True,0.6,40,M,self-sufficient
+backcountry,2150,France,,avalanche,1,,0,42,M,initiated
+backcountry,1900,France,,avalanche,1,,0,31,M,self-sufficient
+backcountry,2180,France,,avalanche,1,,0,38,M,self-sufficient
+hiking,2200,France,fall,,1,,0,29,M,self-sufficient
+hiking,,France,fall,,1,,0.6,66,M,initiated
+climbing,860,France,,,0,,0,28,M,initiated
+rock mountaineering,2750,France,fall,,1,,0,25,M,initiated
+climbing,,France,fall,,1,True,0.9,26,M,self-sufficient
+climbing,180,Belgium,fall,,1,True,0.6,40,M,novice
+rock mountaineering,2400,France,,falling rocks,1,True,0.17,52,M,initiated
+mountaineering,4070,France,,falling rocks,1,,0,28,M,self-sufficient
+climbing,1300,France,fall,,1,True,0.6,42,M,initiated
+climbing,700,,,falling rocks,0,,0,30,M,initiated
+rock mountaineering,,Switzerland,roped fall,,1,,0.17,33,M,initiated
+rock mountaineering,,France,fall,,1,,0.02,32,M,self-sufficient
+climbing,220,France,roped fall,,1,True,0.02,38,M,self-sufficient
+hiking,3000,France,,,1,True,0.17,52,F,self-sufficient
+climbing,2280,France,,falling rocks,0,,0,28,F,expert
+snow/ice/mixed,3600,,injury,,1,True,0,20,M,self-sufficient
+hiking,1142,Switzerland,,,1,,0.17,54,M,initiated
+rock mountaineering,3200,France,injury,,1,,0,40,M,initiated
+climbing,650,France,roped fall,,1,True,0.9,35,M,self-sufficient
+snow/ice/mixed,3500,France,,falling rocks,2,True,0.6,31,F,self-sufficient
+snow/ice/mixed,3779,France,roped fall,,2,True,0.9,36,M,initiated
+backcountry,,,fall,,1,,0,,,
+climbing,900,France,,falling rocks,0,,0,18,M,initiated
+backcountry,3500,France,fall,,1,,0,24,M,initiated
+climbing,620,France,,falling rocks,1,True,0.9,40,M,initiated
+climbing,1500,France,roped fall,falling rocks,2,True,0,31,F,self-sufficient
+climbing,200,UK,fall,,1,True,0.6,33,M,initiated
+backcountry,,,,falling rocks,1,,0.17,49,M,self-sufficient
+backcountry,3450,France,,avalanche,1,,0,31,F,self-sufficient
+backcountry,3200,Switzerland,,avalanche,0,,0,32,M,initiated
+backcountry,1900,France,fall,,1,,0,43,M,initiated
+snow/ice/mixed,3280,Switzerland,roped fall,crevasse,1,,0,44,M,initiated
+backcountry,2146,France,,avalanche,0,,0,34,M,initiated
+snow/ice/mixed,2500,France,,avalanche,1,True,0.9,53,M,initiated
+backcountry,2600,Switzerland,injury,avalanche,0,,0,37,M,expert
+backcountry,3040,Switzerland,,avalanche,1,True,0.02,59,M,self-sufficient
+backcountry,2480,France,,avalanche,0,,0,36,M,expert
+backcountry,1950,Austria,,avalanche,1,,0,31,M,initiated
+backcountry,2150,France,,avalanche,1,,0,51,M,initiated
+backcountry,1900,France,,avalanche,1,,0,26,M,initiated
+backcountry,2300,France,,avalanche,0,,0,37,M,self-sufficient
+climbing,,,fall,,1,,0,49,M,initiated
+ice climbing,2000,Italy,,falling ice,1,,0,35,M,self-sufficient
+backcountry,1840,Switzerland,,avalanche,0,,0,51,M,self-sufficient
+backcountry,3400,Switzerland,,avalanche,1,,0,27,M,self-sufficient
+backcountry,2200,Switzerland,,avalanche,3,,0,,F,expert
+backcountry,2050,France,,avalanche,1,True,0,,,
+backcountry,2050,France,,avalanche,2,,0,46,M,initiated
+climbing,450,France,,falling rocks,1,,0.17,51,M,initiated
+ice climbing,2400,France,,avalanche,4,,0,33,M,expert
+rock mountaineering,1850,France,injury,,1,,0,,,
+backcountry,2170,Switzerland,,avalanche,1,,0,51,M,initiated
+climbing,10,France,injury,,0,,0,27,M,expert
+climbing,230,France,,falling rocks,1,,0,51,M,expert
+mountaineering,3930,Switzerland,fall,,3,True,0,55,M,expert
+hiking,1600,France,,falling rocks,0,,0,49,M,expert
+rock mountaineering,2550,France,fall,,1,True,0.17,29,M,self-sufficient
+snow/ice/mixed,3200,France,,falling rocks,1,True,0.6,40,M,initiated
+mountaineering,3700,Switzerland,,falling rocks,0,True,0,,,
+climbing,1850,France,,falling rocks,1,,0,51,M,expert
+rock mountaineering,3800,France,fall,,1,True,0.17,23,M,self-sufficient
+snow/ice/mixed,5000,Kirghizstan,,avalanche,0,,0,39,M,novice
+climbing,2500,Switzerland,fall,,0,,0,,,self-sufficient
+mountaineering,3400,France,,falling rocks,1,True,0.6,41,M,self-sufficient
+climbing,,France,,falling rocks,1,,0.17,27,F,expert
+snow/ice/mixed,3600,Switzerland,,avalanche,1,,0,,,
+snow/ice/mixed,3300,Switzerland,fall,,1,,0.17,30,M,self-sufficient
+climbing,2150,France,fall,,1,True,0.9,49,M,initiated
+snow/ice/mixed,3400,France,roped fall,crevasse,2,True,0.6,37,M,initiated
+snow/ice/mixed,3120,France,fall,,1,True,0.9,57,M,initiated
+snow/ice/mixed,3100,France,fall,,2,,0,39,M,expert
+climbing,,Laos,fall,,1,,0.02,28,M,expert
+backcountry,,,,falling ice,1,True,0.17,,,
+climbing,1032,France,fall,,1,,0,31,M,self-sufficient
+snow/ice/mixed,4100,France,fall,,1,True,0.6,44,M,initiated
+backcountry,2300,Switzerland,,avalanche,0,,0,,,
+backcountry,2400,France,,falling rocks,1,,0,50,F,self-sufficient
+backcountry,2300,France,,avalanche,0,,0,36,M,initiated
+backcountry,3030,Switzerland,fall,,1,,0.17,,F,expert
+backcountry,2075,Switzerland,fall,,1,True,0.6,,F,
+backcountry,2630,France,fall,avalanche,2,True,0.17,,,
+backcountry,3200,Switzerland,fall,,1,True,0.17,,,
+snow/ice/mixed,2250,France,,avalanche,0,,0,,,
+backcountry,2000,Switzerland,,avalanche,1,True,0,,F,expert
+backcountry,2400,France,fall,,1,True,0.02,,,
+backcountry,2800,France,injury,,1,True,0,,,
+backcountry,1950,France,,avalanche,1,,0,35,M,initiated
+mountaineering,2000,France,,falling rocks,1,,0.17,32,M,initiated
+backcountry,1500,Switzerland,,avalanche,1,,0,,,
+backcountry,1620,France,,avalanche,1,True,0.9,42,M,expert
+backcountry,2250,France,fall,,1,,0,49,M,initiated
+backcountry,1950,France,,avalanche,1,True,0,37,M,initiated
+backcountry,1550,France,,avalanche,0,,0,44,M,expert
+backcountry,2200,France,,avalanche,0,,0,,M,
+backcountry,2600,Switzerland,,avalanche,1,,0,,,
+climbing,2200,Switzerland,,falling rocks,1,,0,,M,
+climbing,900,France,fall,,1,,0.17,23,M,initiated
+climbing,250,France,,falling rocks,0,,0,24,M,self-sufficient
+snow/ice/mixed,3665,France,injury,,2,True,0,,,
+hiking,2350,France,,falling ice,2,True,0.9,29,M,expert
+rock mountaineering,,France,fall,falling rocks,1,,0.6,53,M,initiated
+mountaineering,3480,France,,avalanche,2,,0,25,M,self-sufficient
+climbing,,France,roped fall,falling rocks,1,True,0.6,36,M,initiated
+snow/ice/mixed,3600,France,,falling rocks,1,,0.17,29,M,initiated
+hiking,1600,France,,falling rocks,5,,0,48,M,
+climbing,1700,France,,falling rocks,1,,0,,,
+snow/ice/mixed,3800,France,,falling rocks,1,True,0.9,61,M,initiated
+backcountry,3300,Switzerland,fall,,1,True,0.9,,,
+backcountry,2090,France,,avalanche,1,,0.02,31,M,initiated
+backcountry,2330,France,,avalanche,0,,0,,,
+snow/ice/mixed,2500,France,,avalanche,2,,0,29,F,self-sufficient
+snow/ice/mixed,2000,France,,falling ice,1,,0,29,F,self-sufficient
+backcountry,1800,France,,avalanche,0,,0,,M,self-sufficient
+climbing,1800,France,fall,,1,True,0.17,,,
+climbing,1300,France,fall,,1,,0,25,M,initiated
+backcountry,4050,France,roped fall,crevasse,1,,0,,,
+climbing,850,Switzerland,fall,,1,,0,37,F,expert
+climbing,1650,France,,avalanche,0,,0,65,M,self-sufficient
+backcountry,3450,France,,avalanche,1,,0,,,
+backcountry,3100,Switzerland,,avalanche,4,True,0.17,,,
+backcountry,1600,Switzerland,,avalanche,0,,0,31,M,expert
+backcountry,2500,France,fall,avalanche,1,,0,,,
+snow/ice/mixed,3050,Switzerland,,avalanche,1,,0,37,M,initiated
+backcountry,3300,Switzerland,roped fall,crevasse,1,True,0,,F,expert
+backcountry,2450,Switzerland,,avalanche,3,True,0,,M,
+backcountry,2130,France,,avalanche,1,,0,34,M,initiated
+snow/ice/mixed,3800,France,,falling ice,1,,0,52,M,self-sufficient
+backcountry,2250,France,,avalanche,1,,0,,M,
+backcountry,2000,France,,avalanche,0,,0,,,
+backcountry,2350,France,,avalanche,1,True,0,,M,
+backcountry,2350,France,,avalanche,1,,0,,,
+climbing,,,fall,,1,True,0.9,34,M,expert
+hiking,2800,France,fall,,1,,0,,,
+climbing,925,France,fall,,1,,0.6,25,M,self-sufficient
+snow/ice/mixed,3500,France,fall,,0,True,0,,M,
+snow/ice/mixed,3350,France,,falling rocks,1,,0,46,M,self-sufficient
+rock mountaineering,2500,France,,falling rocks,1,True,0.6,30,M,initiated
+backcountry,3100,France,fall,,1,,0,,,
+climbing,1900,France,fall,,1,,0,,,
+climbing,900,France,fall,,1,,0.17,,M,
+backcountry,3350,France,,avalanche,0,,0,,M,
+backcountry,1950,France,,avalanche,1,,0,45,M,initiated
+backcountry,2260,France,,avalanche,1,,0,,,
+backcountry,2700,Switzerland,,avalanche,0,,0,48,M,initiated
+backcountry,2400,Switzerland,,avalanche,0,,0,,F,expert
+backcountry,1950,France,,avalanche,0,,0,,M,
+backcountry,1850,France,,avalanche,0,,0,35,M,initiated
+ice climbing,1400,France,,falling ice,1,True,0,41,F,self-sufficient
+backcountry,2500,Italy,,avalanche,1,,0.17,,,
+rock mountaineering,,France,,falling rocks,1,,0,23,M,initiated
+climbing,1950,France,fall,,1,,0.9,,,
+rock mountaineering,3800,France,fall,,1,True,0.17,,,
+snow/ice/mixed,3400,Switzerland,roped fall,crevasse,1,,0.02,,,
+climbing,700,Italy,fall,,1,,0.17,,,
+snow/ice/mixed,3200,France,roped fall,crevasse,2,,0.17,,,
+mountaineering,2650,France,fall,,1,True,0.6,,,
+backcountry,,Switzerland,roped fall,crevasse,1,,0,34,M,initiated
+backcountry,3300,Italy,roped fall,crevasse,1,,0,36,M,expert
+backcountry,2709,Switzerland,,avalanche,0,,0,35,M,self-sufficient
+backcountry,2800,Switzerland,,avalanche,1,,0,32,M,expert
+backcountry,2050,France,,avalanche,1,,0,39,M,initiated
+backcountry,1630,France,fall,,1,,0,45,M,initiated
+snow/ice/mixed,4122,France,roped fall,,0,,0,33,M,self-sufficient
+snow/ice/mixed,3700,France,,falling rocks,1,,0,33,M,self-sufficient
+snow/ice/mixed,1600,France,injury,,1,,0,33,M,initiated
+backcountry,2270,France,,avalanche,1,,0,36,M,expert
+ice climbing,1970,France,,falling rocks,1,,0,34,M,initiated
+climbing,70,France,fall,,1,True,0.9,,,
+climbing,800,France,fall,,1,True,0.9,35,M,expert
+mountaineering,3280,France,fall,,2,True,0.17,,,
+climbing,2300,France,,falling rocks,1,True,0.17,,,
+backcountry,4300,France,fall,,1,True,0.9,,F,expert
+backcountry,3400,France,,avalanche,4,True,0.17,,,
+backcountry,2800,France,,avalanche,0,,0,38,M,expert
+backcountry,2700,Switzerland,,avalanche,1,,0,,M,
+backcountry,3100,Switzerland,fall,,1,,0,,,
+backcountry,2660,France,,avalanche,1,,0,33,M,initiated
+backcountry,3200,France,fall,,1,,0.17,,,
+backcountry,2200,France,injury,,1,,0.9,49,M,self-sufficient
+backcountry,1700,Switzerland,,avalanche,1,,0,32,M,initiated
+backcountry,1900,France,,avalanche,1,,0,,,
+backcountry,2400,France,,avalanche,0,,0,,,
+backcountry,1900,France,,avalanche,1,,0.9,,,
+backcountry,3400,Switzerland,fall,,1,True,0.9,44,F,expert
+backcountry,1900,France,,avalanche,1,,0,,,
+backcountry,2100,Switzerland,,avalanche,1,,0.17,,,
+rock mountaineering,2820,France,fall,falling rocks,1,True,0.6,,,
+rock mountaineering,3250,France,,falling rocks,0,,0,25,M,self-sufficient
+snow/ice/mixed,3600,France,fall,,2,True,0.9,24,M,self-sufficient
+rock mountaineering,2850,France,,falling rocks,1,,0.02,51,M,expert
+climbing,960,France,fall,,1,True,0.9,,M,
+backcountry,3600,France,fall,,1,True,0.9,27,M,self-sufficient
+backcountry,2240,France,fall,,1,True,0.9,27,F,self-sufficient
+backcountry,1900,France,,avalanche,1,,0,38,M,expert
+snow/ice/mixed,3650,France,fall,,1,True,0.9,60,M,self-sufficient
+snow/ice/mixed,3500,France,fall,,2,,0.02,29,M,initiated
+backcountry,1850,France,,avalanche,0,,0,,M,
+backcountry,2050,France,,avalanche,0,,0,,,
+backcountry,1900,France,,,2,,0,44,M,expert
+snow/ice/mixed,3400,France,,falling rocks,1,,0,,F,novice
+backcountry,1990,France,,avalanche,1,,0,30,M,initiated
+snow/ice/mixed,3700,France,,falling rocks,0,,0,,F,novice
+snow/ice/mixed,3620,France,fall,,1,True,0.17,,M,
+rock mountaineering,3000,France,,falling rocks,0,,0,42,M,expert
+mountaineering,,,fall,,1,True,0,,F,initiated
+backcountry,2850,Italy,,avalanche,2,,0.02,30,M,initiated
+backcountry,2400,France,,avalanche,1,,0,34,M,self-sufficient
+backcountry,2400,France,,avalanche,1,,0,23,M,novice
+rock mountaineering,2300,France,,falling rocks,0,,0,34,M,initiated
+climbing,1700,France,fall,,1,,0.17,26,M,expert
+backcountry,2100,France,fall,,2,,0,42,M,expert
+backcountry,1730,France,,avalanche,1,,0,26,M,initiated
+climbing,2400,France,roped fall,falling rocks,1,True,0.9,33,M,initiated
+mountaineering,2860,France,fall,,1,,0.17,,,
+backcountry,2900,France,,avalanche,1,,0,28,M,initiated
+backcountry,3250,France,,avalanche,1,,0,28,M,initiated
+backcountry,1650,Switzerland,,avalanche,1,,0,29,F,expert
+climbing,1150,France,fall,,0,,0,29,M,initiated
+hiking,,France,,lightning,0,,0,26,M,initiated
+rock mountaineering,,France,fall,,1,True,0.6,23,M,self-sufficient
+backcountry,2200,France,,avalanche,1,,0,,,
+backcountry,3080,France,,avalanche,1,,0.02,28,M,initiated
+snow/ice/mixed,2920,Spain,,avalanche,2,True,0.6,,,
+climbing,1700,France,fall,,1,,0.6,20,M,self-sufficient
+backcountry,2440,France,,avalanche,0,,0,31,M,self-sufficient
+backcountry,1600,France,,avalanche,0,,0,31,M,initiated
+backcountry,2600,France,,avalanche,0,,0,25,M,self-sufficient
+backcountry,2350,France,,avalanche,1,,0.02,22,M,initiated
+backcountry,3400,Switzerland,,avalanche,1,True,0.02,36,M,self-sufficient
+backcountry,3800,Switzerland,,avalanche,2,,0,31,M,expert
+backcountry,2000,France,,avalanche,0,,0,25,M,initiated
+snow/ice/mixed,3400,France,,falling rocks,2,True,0,29,M,expert
+climbing,2500,France,fall,,5,True,0.9,,,
+snow/ice/mixed,3400,France,,falling rocks,1,,0.9,30,M,expert
+backcountry,2880,France,,avalanche,1,,0,23,M,initiated
+backcountry,3300,France,roped fall,crevasse,1,,0.6,19,M,self-sufficient
+snow/ice/mixed,3790,Austria,,lightning,0,,0,24,M,initiated
+ice climbing,,France,,avalanche,0,False,0,27,M,initiated
+backcountry,2200,France,,avalanche,1,True,0.17,30,M,initiated
+backcountry,2245,France,,avalanche,1,,0,45,M,expert
+climbing,,France,fall,,1,True,0.9,23,M,novice
+climbing,1350,France,fall,,1,,0.6,16,M,self-sufficient

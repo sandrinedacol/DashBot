@@ -1,0 +1,3798 @@
+atcd_id;nature;code;evaluation_generale_id
+13;Décès;;151
+19;resynchronisation cardiaque;;530
+26;avc ;;884
+27;HTA ;;884
+28;CALCUL REINS ;;884
+29;MIGRAINE /ANXIETE ;;884
+30;DIMINUTION AUDITION DROITE ;;884
+31;Perte de sensation hémisphère droite (sequelle AVC);;884
+32;SAS/essoufflement;;884
+33;Allergie Pollen ;;884
+34;Diabete ;;884
+35;genetique Moya Moya ;;884
+36;Dégradation hémodynamique et rénale en réhanimation, suite à la chirurgie cardiaque. Diag retenu : tamponnade aigue suite à une chir cardiaque;;299
+37;Chutte;;977
+38;Arret ventilation AutoAsservie;;982
+47;Douleur thoracique;;1137
+52;DAI;;1263
+55;decompentation cardiaque;;1440
+57;Deces;;1505
+60;Carcinome basocellulaire (crane);;1586
+61;Deces;;1603
+62;Deces;;1608
+71;Nouvelle décompensation cardiaque;;1861
+72;Nouvelle décompensation cardiaque;;1861
+76;Intervention dilatation de l’aorte ascendante;;1963
+77;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;1966
+78;Dissection de l'aorte [toute localisation];I710;1966
+79;Fracture d'os du métatarse;S923;1969
+80;Abcès ano-rectal;K612;1969
+81;suivi de leucémie;;1978
+83;Apnée du sommeil;G473;1821
+88;Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils;M053;2138
+90;Cholécystite aiguë;K810;2160
+91;Sciatique;M543;2193
+92;Myasthénie;G700;2194
+93;Thyroïdite auto-immune;E063;2194
+94;Cardiopathie hypertensive, (sans insuffisance cardiaque congestive);I119;2197
+97;Décollement de la rétine avec déchirure rétinienne;H330;2267
+98;Tumeur maligne de la vessie, sans précision;C679;2267
+100;Spina bifida cervical, (sans hydrocéphalie);Q055;2274
+106;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;2346
+107;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;2346
+108;Affection de la prostate, sans précision;N429;2346
+127;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;2416
+128;Hypertension essentielle (primitive);I10;2416
+135;Myasthénie;G700;2434
+140;Tumeur maligne du côlon descendant;C186;2471
+141;Cholécystite, sans précision;K819;2471
+142;Cataracte au cours d'autres maladies classées ailleurs;H282;2474
+149;Hypertension essentielle (primitive);I10;2482
+150;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;2482
+159;Tuberculose de l'appareil respiratoire sans précision, (sans mention de confirmation bactériologique ou histologique);A169;2488
+161;arthrodese;;2503
+162;perte de poids de 25 kg;;2503
+163;cholecystectomie;;2503
+173;Hyperplasie de la prostate;N40;2521
+174;Présence d'implants d'articulations orthopédiques;Z966;2521
+175;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;2521
+180;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;2525
+185;Tumeur bénigne du sein;D24;2559
+186;Insuffisance veineuse (chronique) (périphérique);I872;2559
+189;Hernie hiatale congénitale;Q401;2025
+190;Reflux gastro-oesophagien (sans oesophagite);K219;2025
+200;Hypertension essentielle (primitive);I10;2118
+201;Infection des voies urinaires, siège non précisé;N390;2118
+203;Hypertension essentielle (primitive);I10;2087
+204;Hyperplasie de la prostate;N40;2087
+205;Échec ou difficulté d'intubation;T884;2574
+212;Hypertension essentielle (primitive);I10;2120
+213;Insuffisance rénale chronique, sans précision;N189;2120
+214;Anomalie métabolique, sans précision;E889;2120
+236;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;2614
+237;Hypertension essentielle (primitive);I10;2614
+242;pacemaker;;2635
+247;Diabète sucré de malnutrition, avec autres complications précisées;E126;2647
+248;Hypertension essentielle (primitive);I10;2647
+249;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;2647
+250;Glaucome (primitif) à angle ouvert;H401;2647
+251;Cataracte au cours d'autres maladies endocriniennes, nutritionnelles et métaboliques;H281;2647
+252;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;2649
+253;Hernie abdominale non précisée, (sans occlusion ni gangrène);K469;2649
+255;Tumeur maligne de la prostate;C61;2651
+256;Infarctus (aigu) du myocarde sans précision, autres prises en charge;I2198;2653
+257;Hypertension essentielle (primitive);I10;2653
+258;Fibrillation et flutter auriculaires;I48;2653
+259;Hypercholestérolémie essentielle;E780;2653
+260;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;2653
+261;Amnésie antérograde;R411;2653
+263;turbinectomie;;2693
+277;Hypertension essentielle (primitive);I10;2721
+278;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;2721
+279;Glaucome (primitif) à angle ouvert;H401;2721
+280;Cataracte au cours d'autres maladies classées ailleurs;H282;2721
+281;Psoriasis en goutte;L404;2721
+282;Anomalie de la coagulation, sans précision;D685;2723
+290;Accident ischémique cérébral transitoire, sans précision;G459;2732
+291;Hypertension essentielle (primitive);I10;2732
+292;Sarcoïdose du poumon;D860;2732
+293;Autres épisodes dépressifs;F328;2732
+312;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;2761
+313;Hypertension essentielle (primitive);I10;2761
+314;Apnée du sommeil;G473;2761
+315;Fibrillation et flutter auriculaires;I48;2761
+329;Hta;I10;381
+330;Hypertrophie_ventricule_g;I517;381
+331;Insuffisance_coronaire;I251;381
+332;Pathologie_maligne;;381
+338;Hta;I10;2226
+339;Avc_ou_ait;I64;2226
+340;Hypercholesterolemie;E780;2226
+343;Hta;I10;2202
+344;Avc_ou_ait;I64;2202
+346;Hta;I10;2416
+347;Avc_ou_ait;I64;2416
+348;Sas;G473;2416
+362;Hta;I10;1081
+363;Bpco;J440;1081
+366;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;2814
+367;Avc_ou_ait;I64;2814
+368;Hta;I10;2318
+369;Avc_ou_ait;I64;2318
+370;Hypercholesterolemie;E780;2318
+371;Tumeur maligne de la prostate;C61;2816
+372;Présence d'implants d'articulations orthopédiques;Z966;2816
+373;Hta;I10;2816
+374;Avc_ou_ait;I64;2816
+375;Trouble_du_rythme;I499;2816
+376;Insuffisance_coronaire;I251;2816
+382;Hta;I10;2818
+383;Insuffisance_coronaire;I251;2818
+384;Hypercholesterolemie;E780;2818
+394;Hta;I10;2281
+395;Avc_ou_ait;I64;2281
+396;Insuffisance_coronaire;I251;2281
+398;Hta;I10;2763
+399;Diabete_ii;E14;2763
+400;Hypertriglyceridemie;E781;2763
+402;Hta;I10;2614
+403;Avc_ou_ait;I64;2614
+406;Hta;I10;1551
+407;Sas;G473;1551
+409;Hta;I10;2791
+410;Trouble_du_rythme;I499;2791
+411;Diabete_ii;E14;2791
+412;Hypercholesterolemie;E780;2791
+413;Hypertriglyceridemie;E781;2791
+414;Insuffisance_renale;N189;2791
+415;Hta;I10;2783
+416;Hypercholesterolemie;E780;2783
+417;Hypertriglyceridemie;E781;2783
+418;Glaucome;H40;2783
+421;Sas;G473;809
+422;Diabete_ii;E14;809
+423;Maladie_psychiatrique;;809
+424;Maladie_gastro_intestinale;;809
+425;Depression;F32;809
+435;Hta;I10;803
+436;Sas;G473;803
+437;Dysthyroidie;;803
+453;Hta;I10;1364
+454;Sas;G473;1364
+455;Depression;F32;1364
+465;Hta;I10;2554
+466;Asthme;J45;675
+467;Sas;G473;675
+468;Diabete_ii;E14;675
+469;Maladie_gastro_intestinale;;675
+470;Hta;I10;709
+471;Sas;G473;709
+472;Hta;I10;719
+473;Avc_ou_ait;I64;719
+474;Diabete_ii;E14;719
+475;Maladie_neurologique;;719
+476;Maladie_psychiatrique;;719
+477;Sas;G473;1049
+478;Maladie_neurologique;;1049
+479;Maladie_gastro_intestinale;;1049
+480;Glaucome;H40;1049
+481;Hta;I10;744
+482;Sas;G473;744
+483;Maladie_gastro_intestinale;;744
+487;Hta;I10;1651
+488;Sas;G473;1651
+489;Diabete_ii;E14;1651
+490;Hypercholesterolemie;E780;1651
+491;Maladie_neurologique;;1651
+492;Sas;G473;1784
+493;Depression;F32;1784
+494;Sas;G473;1746
+497;Hta;I10;2000
+498;Asthme;J45;2000
+499;Diabete_ii;E14;2000
+500;Hypercholesterolemie;E780;2000
+501;Hta;I10;1564
+502;Avc_ou_ait;I64;1564
+503;Diabete_ii;E14;1564
+504;Rgo;K219;1564
+505;Pathologie_maligne;;1564
+506;Depression;F32;1564
+507;Bpco;J440;2303
+508;Sas;G473;2303
+509;Hta;I10;1202
+510;Sas;G473;1202
+511;Insuffisance_renale;N189;1202
+512;Maladie_gastro_intestinale;;1202
+527;Hta;I10;2849
+528;Trouble_du_rythme;I499;2849
+529;Insuffisance_renale;N189;2849
+530;Maladie_neurologique;;2849
+546;Trouble_du_rythme;I499;2859
+549;Hta;I10;2861
+550;Idm;I219;2861
+551;Insuffisance_coronaire;I251;2861
+552;Hypercholesterolemie;E780;2861
+553;Hypertriglyceridemie;E781;2861
+563;Avc_ou_ait;I64;543
+564;Diabete_ii;E14;543
+566;Hta;I10;2375
+567;Depression;F32;2375
+568;Trouble_du_rythme;I499;2375
+569;Hypercholesterolemie;E780;2375
+570;Hypertriglyceridemie;E781;2375
+576;Hta;I10;63
+579;Idm;I219;2653
+580;Avc_ou_ait;I64;2653
+581;Trouble_du_rythme;I499;2653
+582;Insuffisance_coronaire;I251;2653
+583;Maladie_neurologique;;2653
+584;Hta;I10;2653
+597;Hta;I10;2335
+598;Sas;G473;2335
+599;Accident ischémique cérébral transitoire, sans précision;G459;2870
+600;Hypertension essentielle (primitive);I10;2870
+601;Hypercholestérolémie essentielle;E780;2870
+602;Reflux gastro-oesophagien avec oesophagite;K210;2870
+603;Hta;I10;2870
+604;Hypercholesterolemie;E780;2870
+605;Rgo;K219;2870
+606;Hta;I10;2267
+607;Icc;I501;2267
+608;Insuffisance_renale;N189;2267
+643;Hta;I10;2725
+644;Diabete_ii;E14;2725
+649;Maladie_gastro_intestinale;;2025
+650;Rgo;K219;2025
+653;Icc;I501;2876
+674;Hta;I10;2118
+675;Hypercholesterolemie;E780;2118
+676;Trouble_du_rythme;I499;2876
+677;Bpco;J440;2876
+678;Rgo;K219;2876
+680;Hta;I10;2087
+681;Sas;G473;2087
+682;Hypercholesterolemie;E780;2087
+683;Hypertriglyceridemie;E781;2087
+694;Hta;I10;2504
+695;Hta;I10;2429
+696;Hta;I10;2890
+697;Dysthyroidie;;2890
+700;Diabete_i;E10;2897
+701;Hta;I10;1039
+702;Allergies;T784;1039
+703;Hypertriglyceridemie;E781;1039
+704;Hyperuricemie;E79;1039
+705;Depression;F32;1039
+710;Hta;I10;967
+711;Trouble_du_rythme;I499;967
+712;Sas;G473;967
+713;Hypercholesterolemie;E780;967
+714;Hypertriglyceridemie;E781;967
+715;Maladie_psychiatrique;;967
+716;Maladie_gastro_intestinale;;967
+717;Rgo;K219;967
+718;Depression;F32;967
+769;Insuffisance_coronaire;I251;2915
+770;Diabete_ii;E14;2915
+773;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;2915
+774;Séquelles d'accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I694;2915
+775;Fibrillation et flutter auriculaires;I48;2915
+776;Obésité, sans précision;E669;2915
+777;Hta;I10;2915
+778;Idm;I219;2915
+779;Avc_ou_ait;I64;2915
+780;Trouble_du_rythme;I499;2915
+781;Asthme;J45;2915
+782;Allergies;T784;2915
+783;Hypercholesterolemie;E780;2915
+808;Hta;I10;679
+809;Avc_ou_ait;I64;679
+810;Hypercholesterolemie;E780;679
+823;Angine de poitrine [angor] instable avec élévation des marqueurs biochimiques [enzymes] myocardiques;I200+0;2926
+824;Obésité, sans précision;E669;2926
+825;Apnée du sommeil;G473;2926
+827;Hta;I10;2926
+828;Bpco;J440;2926
+829;Diabete_ii;E14;2926
+830;Insuffisance_renale;N189;2926
+831;Tumeur maligne secondaire et non précisée des ganglions lymphatiques intrapelviens;C775;2926
+832;Anomalie du métabolisme des lipoprotéines, sans précision;E789;2926
+833;Hyperplasie de la prostate;N40;2926
+840;Fibrillation et flutter auriculaires;I48;2927
+841;Bpco;J440;2927
+850;Hyperplasie de la prostate;N40;2935
+851;Perforation du tympan, sans précision;H729;2935
+852;Cervicalgie;M542;2935
+856;Glaucome;H40;2935
+857;Hypercholesterolemie;E780;2434
+858;Depression;F32;2434
+898;Hta;I10;1463
+899;Diabete_ii;E14;1463
+900;Insuffisance_renale;N189;1463
+948;Hta;I10;2186
+949;Insuffisance_coronaire;I251;2186
+954;Hta;I10;1249
+955;Sas;G473;1249
+959;Insuffisance_coronaire;I251;167
+960;Icc;I501;167
+964;Hypertension essentielle (primitive);I10;2961
+965;Hypercholestérolémie essentielle;E780;2961
+966;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;2961
+967;Hta;I10;2961
+968;Hypercholesterolemie;E780;2961
+974;Diabète sucré de malnutrition, avec complications neurologiques;E124;2962
+975;Autres épisodes dépressifs;F328;2962
+976;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;2962
+977;Diabete_ii;E14;2962
+978;Depression;F32;2962
+981;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;2965
+982;Autres atteintes précisées des artères et artérioles;I778;2965
+983;Hypertension essentielle (primitive);I10;2965
+984;Autres diabètes sucrés précisés, avec complications neurologiques;E134;2965
+985;Hypercholestérolémie essentielle;E780;2965
+986;Hta;I10;2965
+987;Avc_ou_ait;I64;2965
+988;Arteriopathie;I702;2965
+989;Diabete_ii;E14;2965
+990;Hypercholesterolemie;E780;2965
+991;Épilepsie et syndromes épileptiques généralisés idiopathiques;G403;2966
+992;Avc_ou_ait;I64;2649
+996;Avc_ou_ait;I64;2967
+997;Hypercholesterolemie;E780;2967
+998;Hypertension essentielle (primitive);I10;2967
+999;Obésité due à un excès calorique;E660;2967
+1000;Hta;I10;2967
+1001;Arteriopathie;I702;2967
+1017;Trouble_du_rythme;I499;2248
+1018;Insuffisance_coronaire;I251;2248
+1049;Avc_ou_ait;I64;2142
+1050;Hypercholesterolemie;E780;2142
+1113;Depression;F32;3019
+1114;Infarctus (aigu) du myocarde sans précision, autres prises en charge;I2198;3020
+1115;Présence d'un pontage aorto-coronaire;Z951;3020
+1116;Autres diabètes sucrés précisés, avec complications neurologiques;E134;3020
+1117;Hypertension essentielle (primitive);I10;3020
+1118;Hypercholestérolémie essentielle;E780;3020
+1119;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;3020
+1120;Hta;I10;3020
+1121;Idm;I219;3020
+1122;Avc_ou_ait;I64;3020
+1123;Insuffisance_respiratoire;J96101;3020
+1124;Diabete_ii;E14;3020
+1125;Hypercholesterolemie;E780;3020
+1126;Hta;I10;2346
+1127;Avc_ou_ait;I64;2346
+1128;Diabete_ii;E14;2346
+1129;Hypercholesterolemie;E780;2346
+1130;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;3024
+1134;Hta;I10;3027
+1135;Avc_ou_ait;I64;3027
+1136;Pathologie_maligne;;3027
+1137;Apnée du sommeil;G473;3027
+1138;Sas;G473;3027
+1190;Hta;I10;2458
+1206;Hta;I10;2558
+1208;Depression;F32;2558
+1220;Allergies;T784;2383
+1230;Hta;I10;3110
+1231;Sas;G473;3110
+1232;Diabete_ii;E14;3110
+1233;Pneumoconiose due à l'amiante et à d'autres fibres minérales;J61;3110
+1241;Infarctus (aigu) du myocarde, sans précision;I219;3114
+1242;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;3114
+1243;Autres diabètes sucrés précisés, avec complications neurologiques;E134;3114
+1244;Cataracte incipiente sénile;H250;3114
+1245;Surdité bilatérale de transmission;H900;3114
+1246;Cécité d'un oeil;H544;3114
+1247;Fibromatose de l'aponévrose palmaire (Dupuytren) - Main;M7204;3114
+1248;Idm;I219;3114
+1249;Avc_ou_ait;I64;3114
+1250;Diabete_ii;E14;3114
+1272;Psoriasis, sans précision;L409;2408
+1273;Phlébite et thrombophlébite des membres inférieurs, sans précision;I803;2408
+1274;Affection de la prostate, sans précision;N429;2408
+1275;Varices des membres inférieurs sans ulcère ou inflammation;I839;2408
+1278;Emphysème (pulmonaire), sans précision;J439;2458
+1279;Insuffisance aortique rhumatismale;I061;2458
+1280;Carcinome hépatocellulaire;C220;2458
+1281;Diverticulose du côlon, (sans perforation ni abcès);K573;2458
+1306;Syndrome d'insuffisance thyroïdienne congénitale, sans précision;E009;2436
+1308;Insuffisance rénale aiguë, sans précision;N179;2436
+1309;Affection du rein et de l'uretère, sans précision;N289;2436
+1310;Hta;I10;2436
+1311;Diabete_ii;E14;2436
+1312;Hypercholesterolemie;E780;2436
+1313;Hypertriglyceridemie;E781;2436
+1314;Insuffisance_renale;N189;2436
+1358;Carcinome hépatocellulaire;C220;2504
+1359;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;2504
+1360;Obésité, sans précision;E669;2504
+1361;Fibrillation et flutter auriculaires;I48;2504
+1362;Cirrhoses (du foie), autres et sans précision;K746;2504
+1368;Hta;I10;2465
+1370;Psoriasis, sans précision;L409;2465
+1371;Pancréatite aiguë;K85;2465
+1377;Tumeur maligne du côlon, sans précision;C189;2554
+1384;Ulcère gastro-jéjunal aigu, sans hémorragie ni perforation;K283;2558
+1385;Gastro-entérite et colite non infectieuses, sans précision;K529;2558
+1386;Obésité, sans précision;E669;2558
+1387;Anomalies du métabolisme du fer;E831;2558
+1388;Hernie inguinale bilatérale, (sans occlusion ni gangrène);K402;2558
+1389;Diabete_ii;E14;2558
+1401;Hta;I10;1023
+1402;Idm;I219;1023
+1403;Icc;I501;1023
+1404;Diabete_ii;E14;1023
+1405;Hypercholesterolemie;E780;1023
+1406;Insuffisance_renale;N189;1023
+1411;Hta;I10;1509
+1412;Idm;I219;1509
+1413;Icc;I501;1509
+1414;Insuffisance_coronaire;I251;1509
+1450;Hypercholestérolémie essentielle;E780;3163
+1451;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;3163
+1452;Hypertension essentielle (primitive);I10;3163
+1453;Hta;I10;3163
+1454;Avc_ou_ait;I64;3163
+1455;Hypercholesterolemie;E780;3163
+1460;Hta;I10;2732
+1461;Avc_ou_ait;I64;2732
+1462;Depression;F32;2732
+1465;Avc_ou_ait;I64;2360
+1466;Maladie_neurologique;;2360
+1478;Hypertension essentielle (primitive);I10;3170
+1479;Hypercholestérolémie essentielle;E780;3170
+1480;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;3170
+1481;Hta;I10;3170
+1482;Avc_ou_ait;I64;3170
+1483;Hypercholesterolemie;E780;3170
+1485;Hta;I10;3177
+1486;Sas;G473;3177
+1487;Maladie_gastro_intestinale;;3177
+1488;Pathologie_maligne;;3177
+1521;Hta;I10;496
+1522;Insuffisance_respiratoire;J96101;496
+1523;Asthme;J45;496
+1524;Rgo;K219;496
+1561;Avc_ou_ait;I64;3231
+1562;Hypertension essentielle (primitive);I10;3231
+1563;Hypercholestérolémie essentielle;E780;3231
+1564;Hta;I10;3231
+1565;Hypercholesterolemie;E780;3231
+1579;Hta;I10;2386
+1580;Maladie_gastro_intestinale;;2386
+1581;Hta;I10;3234
+1582;Idm;I219;3234
+1583;Avc_ou_ait;I64;3234
+1584;Arteriopathie;I702;3234
+1585;Hypercholesterolemie;E780;3234
+1597;Maladie_psychiatrique;;1999
+1598;Dysthyroidie;;1999
+1599;Depression;F32;1999
+1600;Diabete_ii;E14;1652
+1601;Diabete_i;E10;1652
+1602;Hta;I10;1598
+1603;Idm;I219;1598
+1604;Icc;I501;1598
+1605;Trouble_du_rythme;I499;1598
+1606;Diabete_ii;E14;1598
+1607;Hypercholesterolemie;E780;1598
+1608;Fistule artérioveineuse, acquise;I770;3240
+1609;Érysipèle;A46;3240
+1610;Hta;I10;3241
+1611;Asthme;J45;3241
+1612;Allergies;T784;3241
+1613;Diabete_ii;E14;3241
+1614;Insuffisance_renale;N189;3241
+1616;Icc;I501;2276
+1617;Diabete_i;E10;2276
+1618;Insuffisance_renale;N189;2276
+1659;Dysthyroidie;;2670
+1660;Icc;I501;154
+1661;Insuffisance_coronaire;I251;154
+1662;Icc;I501;530
+1663;Trouble_du_rythme;I499;530
+1664;Insuffisance_coronaire;I251;530
+1665;sonde de défibrillateur cassée;;3256
+1666;Hta;I10;1080
+1667;Icc;I501;1080
+1668;Diabete_ii;E14;1080
+1669;Rgo;K219;1080
+1670;Depression;F32;1080
+1689;Dysthyroidie;;2194
+1695;Avc_ou_ait;I64;413
+1700;Idm;I219;2114
+1701;Maladie_psychiatrique;;2114
+1702;Maladie_gastro_intestinale;;2114
+1703;Depression;F32;2114
+1746;Hta;I10;2736
+1747;Trouble_du_rythme;I499;2736
+1748;Diabete_ii;E14;2736
+1749;Hypercholesterolemie;E780;2736
+1750;Glaucome;H40;2736
+1760;Hta;I10;122
+1761;Avc_ou_ait;I64;122
+1762;Diabete_ii;E14;122
+1763;Hypercholesterolemie;E780;122
+1764;Maladie_gastro_intestinale;;122
+1765;Rgo;K219;122
+1770;Avc_ou_ait;I64;70
+1776;Hta;I10;1590
+1777;Asthme;J45;1590
+1778;Idm;I219;397
+1779;Icc;I501;397
+1780;Trouble_du_rythme;I499;397
+1781;Idm;I219;391
+1782;Icc;I501;391
+1783;Hta;I10;365
+1784;Htap;I270;365
+1785;Idm;I219;365
+1786;Icc;I501;365
+1787;Bpco;J440;365
+1788;Icc;I501;419
+1789;Trouble_du_rythme;I499;419
+1790;Insuffisance_coronaire;I251;419
+1791;Diabete_ii;E14;419
+1792;Pathologie_maligne;;419
+1801;Hta;I10;708
+1802;Idm;I219;708
+1803;Icc;I501;708
+1804;Diabete_ii;E14;708
+1814;Syndrome douloureux somatoforme persistant;F454;3307
+1815;Depression;F32;3307
+1853;Hta;I10;478
+1854;Idm;I219;478
+1855;Icc;I501;478
+1856;Insuffisance_coronaire;I251;478
+1857;Bpco;J440;478
+1858;Hypertriglyceridemie;E781;478
+1860;Icc;I501;398
+1877;Hernie hiatale congénitale;Q401;3322
+1878;Sialolithiase;K115;3322
+1879;Cholécystite, sans précision;K819;3322
+1880;Trouble_du_rythme;I499;3322
+1881;Lésion traumatique de la rate;S360;3323
+1882;Depression;F32;3323
+1883;Hta;I10;3324
+1884;Autres hépatites virales chroniques;B188;3324
+1885;Hta;I10;3325
+1886;Insuffisance_coronaire;I251;3325
+1887;Pathologie_maligne;;3
+1888;Depression;F32;3
+1893;Hta;I10;3329
+1899;Hta;I10;78
+1900;Idm;I219;78
+1901;Insuffisance_coronaire;I251;78
+1902;Hypercholesterolemie;E780;78
+1903;Hypertriglyceridemie;E781;78
+1904;Maladie_gastro_intestinale;;78
+1905;Rgo;K219;78
+1906;Glaucome;H40;78
+2092;Allergies;T784;560
+2105;hystérectomie totale;N859;3425
+2106;Hernie hiatale congénitale;Q401;3425
+2107;Hta;I10;1444
+2108;Hypertriglyceridemie;E781;1444
+2109;Glaucome;H40;1444
+2111;Tumeur maligne du rein, à l'exception du bassinet;C64;3429
+2112;Hta;I10;189
+2113;Icc;I501;189
+2114;Insuffisance_coronaire;I251;189
+2115;Hypertriglyceridemie;E781;189
+2116;Malaise     À l’exclusion de : avec perte de connaissance (R55);R53+1;3430
+2117;Icc;I501;300
+2118;Décès sans témoin;R98;3431
+2128;Hypothyroïdie congénitale, avec goitre diffus;E030;3437
+2134;Hernie inguinale, (unilatérale ou) sans précision(, sans occlusion ni gangrène);K409;3443
+2150;Hta;I10;3454
+2198;Avc_ou_ait;I64;1491
+2199;Hta;I10;1804
+2200;Hta;I10;428
+2201;Hypertriglyceridemie;E781;428
+2202;Rgo;K219;428
+2226;Tumeur maligne de la prostate;C61;3489
+2227;Mélanome (malin) de la peau, sans précision;C439;3489
+2230;Avc_ou_ait;I64;3493
+2234;Sas;G473;1086
+2235;Diabete_ii;E14;1086
+2236;Hyperuricemie;E79;1086
+2280;Hta;I10;3490
+2281;Idm;I219;3490
+2282;Avc_ou_ait;I64;3490
+2283;Trouble_du_rythme;I499;3490
+2284;Sas;G473;3490
+2285;Hypercholesterolemie;E780;3490
+2286;Dysthyroidie;;3490
+2297;Hta;I10;891
+2298;Diabete_ii;E14;891
+2299;Insuffisance_renale;N189;891
+2301;Allergies;T784;293
+2302;Diabete_ii;E14;293
+2303;Depression;F32;293
+2306;Diabete_ii;E14;3532
+2362;Asthme;J45;2723
+2363;Sas;G473;2723
+2366;Depression;F32;3554
+2367;Hta;I10;3555
+2368;Avc_ou_ait;I64;3555
+2369;Maladie_psychiatrique;;3555
+2370;Depression;F32;3555
+2385;Hta;I10;2278
+2386;Diabete_i;E10;2278
+2393;Avc_ou_ait;I64;3564
+2394;Trouble_du_rythme;I499;3564
+2395;Diabete_ii;E14;3564
+2469;Sas;G473;3594
+2500;Avc_ou_ait;I64;3610
+2501;Trouble_du_rythme;I499;3610
+2502;Glaucome;H40;3610
+2509;Hta;I10;3615
+2510;Avc_ou_ait;I64;3615
+2511;Sas;G473;3615
+2512;Diabete_ii;E14;3615
+2513;Hypercholesterolemie;E780;3615
+2514;Hypertriglyceridemie;E781;3615
+2515;Hyperuricemie;E79;3615
+2518;Hta;I10;2522
+2519;Trouble_du_rythme;I499;2522
+2520;Recto-sigmoïdite ulcéreuse (chronique);K513;3619
+2521;Tumeur maligne du rein, à l'exception du bassinet;C64;3619
+2522;Hta;I10;3618
+2523;Idm;I219;3618
+2524;Hypercholesterolemie;E780;3618
+2541;Infarctus (aigu) du myocarde sans précision, autres prises en charge;I2198;3617
+2542;Idm;I219;3617
+2543;Icc;I501;3617
+2546;Dysthyroidie;;3631
+2565;Hta;I10;522
+2566;Idm;I219;522
+2567;Icc;I501;522
+2568;Trouble_du_rythme;I499;522
+2569;Hypertrophie_ventricule_g;I517;522
+2570;Allergies;T784;522
+2571;Maladie_gastro_intestinale;;522
+2572;Pathologie_maligne;;522
+2573;Dysthyroidie;;522
+2575;Icc;I501;264
+2579;Hta;I10;2647
+2580;Avc_ou_ait;I64;2647
+2581;Diabete_ii;E14;2647
+2582;Hypercholesterolemie;E780;2647
+2584;Avc_ou_ait;I64;2761
+2585;Trouble_du_rythme;I499;2761
+2586;Sas;G473;2761
+2587;Trouble_du_rythme;I499;506
+2588;Insuffisance_respiratoire;J96101;506
+2591;Icc;I501;268
+2592;Icc;I501;344
+2593;Diabete_ii;E14;230
+2601;Idm;I219;126
+2602;Icc;I501;126
+2603;Insuffisance_coronaire;I251;126
+2604;Icc;I501;423
+2605;Avc_ou_ait;I64;423
+2606;Trouble_du_rythme;I499;423
+2607;Insuffisance_coronaire;I251;423
+2608;Hypercholesterolemie;E780;423
+2609;Hypertriglyceridemie;E781;423
+2610;Dysthyroidie;E079;423
+2611;Dysthyroidie;E079;522
+2612;Icc;I501;762
+2613;Diabete_ii;E14;762
+2614;Insuffisance_respiratoire;J96101;1208
+2615;Icc;I501;954
+2616;Trouble_du_rythme;I499;954
+2617;Insuffisance_coronaire;I251;954
+2618;Insuffisance_renale;N189;954
+2622;Hta;I10;257
+2623;Idm;I219;257
+2624;Icc;I501;257
+2625;Insuffisance_coronaire;I251;257
+2631;Hta;I10;3652
+2632;Avc_ou_ait;I64;3652
+2633;Diabete_ii;E14;3652
+2634;Hypercholesterolemie;E780;3652
+2636;Épisode dépressif léger;F320;3654
+2637;Hta;I10;42
+2638;Idm;I219;42
+2639;Icc;I501;42
+2640;Hypertrophie_ventricule_g;I517;42
+2641;Insuffisance_coronaire;I251;42
+2642;Idm;I219;196
+2643;Icc;I501;196
+2644;Insuffisance_coronaire;I251;196
+2645;Allergies;T784;196
+2646;Maladie_gastro_intestinale;;196
+2660;Dysthyroidie;E079;2890
+2662;Hta;I10;2693
+2663;Diabete_ii;E14;2693
+2664;Hypercholesterolemie;E780;2693
+2669;Hta;I10;589
+2670;Idm;I219;589
+2671;Icc;I501;589
+2672;Avc_ou_ait;I64;589
+2673;Sas;G473;589
+2674;Diabete_ii;E14;589
+2675;Hypercholesterolemie;E780;589
+2676;Hypertriglyceridemie;E781;589
+2677;Maladie_gastro_intestinale;;589
+2678;Hta;I10;141
+2679;Idm;I219;141
+2680;Icc;I501;141
+2681;Diabete_ii;E14;141
+2682;Hypercholesterolemie;E780;141
+2683;Hypertriglyceridemie;E781;141
+2684;Dysthyroidie;E079;3683
+2685;Hta;I10;3682
+2686;Avc_ou_ait;I64;3682
+2687;Hypercholesterolemie;E780;3682
+2688;Psoriasis, sans précision;L409;3683
+2690;Hta;I10;3686
+2691;Arteriopathie;I702;3686
+2692;Bpco;J440;3686
+2693;Sas;G473;3686
+2694;Hypercholesterolemie;E780;3686
+2695;Insuffisance_renale;N189;3686
+2700;Hta;I10;3691
+2701;Avc_ou_ait;I64;3691
+2702;Trouble_du_rythme;I499;3691
+2703;Pathologie_maligne;;3691
+2704;Diabete_ii;E14;3691
+2705;Sas;G473;3693
+2706;Pathologie_maligne;;3693
+2707;Diabete_ii;E14;3695
+2708;Maladie_neurologique;;3695
+2746;Hta;I10;3721
+2747;Idm;I219;3721
+2748;Icc;I501;3721
+2750;Insuffisance_coronaire;I251;3721
+2751;Hypertriglyceridemie;E781;3721
+2752;Insuffisance_renale;N189;3721
+2782;Allergie, sans précision;T784;3743
+2786;Dysthyroidie;E079;3631
+2791;Hta;I10;2261
+2792;Icc;I501;2261
+2793;Trouble_du_rythme;I499;2261
+2794;Insuffisance_coronaire;I251;2261
+2807;Autres troubles précisés de la ménopause et de la périménopause;N958;3756
+2808;Idm;I219;3758
+2809;Avc_ou_ait;I64;3758
+2833;Trouble_du_rythme;I499;341
+2834;Hypercholesterolemie;E780;341
+2835;Hypertriglyceridemie;E781;341
+2836;Maladie_gastro_intestinale;;341
+2837;Insuffisance cardiaque congestive;I500;3768
+2838;Icc;I501;341
+2839;Apnée du sommeil;G473;3770
+2840;Idm;I219;3772
+2841;Avc_ou_ait;I64;3772
+2842;Trouble_du_rythme;I499;3772
+2843;Hypercholesterolemie;E780;3772
+2846;Avc_ou_ait;I64;2525
+2954;Hta;I10;3818
+2955;Icc;I501;3818
+2956;Asthme;J45;3818
+2957;Allergies;T784;3818
+2958;Rgo;K219;3818
+2959;Icc;I501;241
+2960;Trouble_du_rythme;I499;241
+2961;Insuffisance_coronaire;I251;241
+2962;Hta;I10;1054
+2963;Sas;G473;1054
+2964;Allergies;T784;1054
+2965;Diabete_ii;E14;1054
+2966;Maladie_gastro_intestinale;;1054
+2967;Pathologie_maligne;;1054
+2974;Icc;I501;506
+2975;Hta;I10;3831
+2976;Avc_ou_ait;I64;3831
+2996;Sas;G473;818
+2997;Maladie_gastro_intestinale;;818
+3016;Sclérose en plaques;G35;3843
+3017;Dysthyroidie;E079;3490
+3043;Arteriopathie;I702;306
+3044;Rhinite;J304;306
+3045;Allergies;T784;306
+3046;Maladie_neurologique;;306
+3050;Sas;G473;820
+3051;Diabete_i;E10;820
+3052;Maladie_neurologique;;820
+3053;Dysthyroidie;E079;820
+3073;Hta;I10;3869
+3074;Idm;I219;3869
+3075;Arteriopathie;I702;3869
+3076;Hypercholesterolemie;E780;3869
+3108;Hta;I10;1179
+3109;Avc_ou_ait;I64;1179
+3110;Sas;G473;1179
+3111;Pathologie_maligne;;1179
+3112;Dysthyroidie;E079;1179
+3123;Maladie_pulmonaire_restrictive;J96111;370
+3124;Insuffisance_respiratoire;J96101;370
+3125;Asthme;J45;370
+3126;Allergies;T784;370
+3151;Maladie_neurologique;;817
+3164;malaise non expliqué en 2014;;3922
+3174;Hta;I10;3924
+3175;Rhinite;J304;3924
+3176;Sas;G473;3924
+3179;Insuffisance_respiratoire;J96101;814
+3180;Maladie_neurologique;;814
+3182;Hta;I10;813
+3183;Icc;I501;813
+3184;Sas;G473;813
+3185;Hyperuricemie;E79;813
+3186;Maladie_neurologique;;813
+3187;Dysthyroidie;E079;813
+3188;Tumeur maligne de la prostate;C61;3929
+3190;Icc;I501;772
+3191;Trouble_du_rythme;I499;772
+3192;Hypertrophie_ventricule_g;I517;772
+3193;Asthme;J45;772
+3201;Asthme;J45;893
+3202;Allergies;T784;893
+3204;Trouble_du_rythme;I499;810
+3209;Sas;G473;3940
+3250;Rgo;K219;3951
+3253;Insuffisance_coronaire;I251;1864
+3254;Sas;G473;1864
+3255;Trouble_du_rythme;I499;835
+3256;Sas;G473;835
+3257;Maladie_neurologique;;835
+3269;Trouble_du_rythme;I499;992
+3270;Sas;G473;992
+3272;Depression;F32;992
+3277;Hta;I10;651
+3278;Sas;G473;651
+3312;Diabete type 2;E14;3965
+3313;HTA gravidique;;3965
+3314;mutation facteur V de Leiden;;3965
+3315;appendicectomie;;3965
+3316;exerese de kystes ovariens;;3965
+3317;Diabete_ii;E14;3965
+3325;Allergies;T784;3972
+3326;Hypercholesterolemie;E780;3972
+3343;Hta;I10;2733
+3349;Icc;I501;240
+3350;Hypertrophie_ventricule_g;I517;240
+3351;Hta;I10;4006
+3352;Trouble_du_rythme;I499;4006
+3353;Hta;I10;1239
+3354;Diabete_ii;E14;1239
+3367;Hta;I10;4018
+3368;Sas;G473;4018
+3369;Diabete_ii;E14;4018
+3370;Hypercholesterolemie;E780;4018
+3371;Rgo;K219;4018
+3372;Glaucome;H40;4018
+3374;Spina bifida lombaire, (sans hydrocéphalie);Q057;4018
+3394;Affections myotoniques;G711;306
+3401;Affections myotoniques;G711;818
+3402;Affections myotoniques;G711;817
+3403;Affections myotoniques;G711;814
+3406;Affections myotoniques;G711;813
+3407;Affections myotoniques;G711;810
+3408;Affections myotoniques;G711;835
+3409;Affections myotoniques;G711;893
+3439;Sas;G473;1423
+3441;Diabete_ii;E14;1430
+3444;Hta;I10;4043
+3445;Trouble_du_rythme;I499;4043
+3450;Hta;I10;4048
+3451;Idm;I219;4048
+3452;Insuffisance_coronaire;I251;4048
+3453;Hypercholesterolemie;E780;4048
+3495;Érysipèle;A46;3948
+3496;Sas;G473;3948
+3561;Sciatique - Localisation vertébrale non précisée;M5439;4071
+3562;Tendinopathie bilatérale tendon d Achille;M6527;4071
+3563;Asthme;J45;4071
+3564;Depression;F32;4071
+3565;AVP en 2004 avec traumatisme cranien et TDM normal;;4071
+3566;Hta;I10;2482
+3567;Avc_ou_ait;I64;2482
+3568;Depression;F32;2482
+3577;Hta;I10;460
+3578;Idm;I219;460
+3579;Icc;I501;460
+3580;Trouble_du_rythme;I499;460
+3581;Arteriopathie;I702;460
+3582;questionnaire rempli d'après les réponses au questionnaire papier;;4080
+3587;Hta;I10;532
+3588;Allergies;T784;532
+3589;Rgo;K219;532
+3590;Glaucome;H40;532
+3591;Cystite aiguë;N300;4086
+3592;Hypertension essentielle (primitive);I10;4086
+3636;Diabete_ii;E14;4106
+3637;Hypercholesterolemie;E780;4106
+3643;Hta;I10;4109
+3644;Trouble_du_rythme;I499;4109
+3645;Diabete_ii;E14;4109
+3646;syndrome d'apnées du sommeil en 2012;;4109
+3647;Sas;G473;4109
+3662;Hta;I10;4115
+3663;Trouble_du_rythme;I499;4115
+3664;Arteriopathie;I702;4115
+3665;Insuffisance_coronaire;I251;4115
+3666;Avc_ou_ait;I64;4115
+3667;Avc_ou_ait;I64;4118
+3668;Dégénérescence de la macula et du pôle postérieur;H353;4118
+3669;Vertige bénin paroxystique;H811;4118
+3670;Hta;I10;4119
+3671;Insuffisance_coronaire;I251;4119
+3672;Hypercholesterolemie;E780;4119
+3673;Hypertriglyceridemie;E781;4119
+3674;Insuffisance_renale;N189;4119
+3681;rempli d'après questionnaire papier;;4126
+3683;Hta;I10;4128
+3684;Trouble_du_rythme;I499;4128
+3685;Hypercholesterolemie;E780;4128
+3702;Hta;I10;1642
+3703;Idm;I219;1642
+3704;Arteriopathie;I702;1642
+3705;Diabete_ii;E14;1642
+3706;Hypercholesterolemie;E780;1642
+3707;Rgo;K219;1642
+3708;Cataracte au cours d'autres maladies endocriniennes, nutritionnelles et métaboliques;H281;4141
+3709;Maladie_gastro_intestinale;;4139
+3710;Affections myotoniques;G711;4139
+3738;Hta;I10;1730
+3739;Icc;I501;1730
+3741;Ecd_insuffisance_cardiaque;I509;42
+3742;Ecd_insuffisance_cardiaque;I509;126
+3743;Hta;I10;338
+3744;Icc;I501;338
+3745;Arteriopathie;I702;338
+3746;Insuffisance_coronaire;I251;338
+3747;Bpco;J440;338
+3748;Hypercholesterolemie;E780;338
+3749;Hypertriglyceridemie;E781;338
+3750;Rgo;K219;338
+3753;Icc;I501;4169
+3754;Trouble_du_rythme;I499;4169
+3755;Insuffisance_respiratoire;J96101;4169
+3756;Diabete_ii;E14;4169
+3761;Dysthyroidie;E079;803
+3776;Sas;G473;4183
+3777;Affections myotoniques;G711;4184
+3778;Cataracte au cours d'autres maladies classées ailleurs;H282;4184
+3779;Kyste ovarien au cours du développement;Q501;4184
+3804;Diabete_ii;E14;4195
+3805;Hta;I10;4196
+3806;Hypercholesterolemie;E780;4196
+3807;Avc_ou_ait;I64;4196
+3808;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;4196
+3816;Hta;I10;4197
+3817;Diabete_ii;E14;4197
+3818;Hypercholesterolemie;E780;4197
+3819;Hypertriglyceridemie;E781;4197
+3820;Avc_ou_ait;I64;4197
+3821;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;4197
+3822;Épilepsie et syndromes épileptiques généralisés idiopathiques;G403;4195
+3823;Hta;I10;4199
+3824;Avc_ou_ait;I64;4199
+3825;Allergies;T784;4199
+3832;Hta;I10;4205
+3833;Diabete_ii;E14;4205
+3837;Présence d'implant et de greffe vasculaires coronaires;Z955;4210
+3838;Obésité, sans précision;E669;4209
+3839;Sas;G473;4209
+3840;Diabete_ii;E14;4209
+3845;Affections myotoniques;G711;992
+3846;Maladie_neurologique;;992
+3850;Hta;I10;4216
+3851;Idm;I219;4216
+3852;Insuffisance_coronaire;I251;4216
+3853;Diabete_ii;E14;4216
+3854;Maladie_gastro_intestinale;;4216
+3904;Hta;I10;4246
+3906;Avc_ou_ait;I64;4248
+3907;Hypercholesterolemie;E780;4248
+3908;Dysthyroidie;E079;4248
+3909;Présence de greffe de rein;Z940;4246
+3910;Hta;I10;4248
+3916;Hta;I10;445
+3917;Idm;I219;445
+3918;Icc;I501;445
+3919;Trouble_du_rythme;I499;445
+3920;Rhinite;J304;445
+3921;Sas;G473;445
+3922;Hypercholesterolemie;E780;445
+3923;Hypertriglyceridemie;E781;445
+3924;Maladie_gastro_intestinale;;445
+4006;Icc;I501;2104
+4007;Insuffisance_coronaire;I251;2104
+4008;Diabete_ii;E14;2104
+4024;Cataracte compliquée;H262;4298
+4025;Cataracte compliquée;H262;4298
+4026;Hta;I10;4298
+4037;Diabete_ii;E14;12
+4060;Hta;I10;974
+4061;Hyperuricemie;E79;974
+4062;Depression;F32;974
+4114;Asthme;J45;4209
+4141;Cardiopathie ischémique (chronique), sans précision;I259;4216
+4143;Tumeur maligne de la vessie, sans précision;C679;4084
+4144;Hta;I10;4106
+4145;Iléus, sans précision;K567;4335
+4146;Syndrome abdominal aigu;R100;4335
+4147;Fièvre avec frissons;R500;4335
+4148;Abcès cutané, furoncle et anthrax du tronc;L022;4335
+4167;Pancréatite aiguë;K85;4216
+4168;Angiocholite [cholangite];K830;4216
+4169;Présence d'un pontage aorto-coronaire;Z951;4216
+4197;Présence de greffe de rein;Z940;2118
+4198;ablation ;;2118
+4199;Affection de la thyroïde, sans précision;E079;2118
+4225;Dysthyroidie;E079;2120
+4226;Hta;I10;2120
+4227;Insuffisance_renale;N189;2120
+4234;Maladie de l'intestin, sans précision;K639;2179
+4235;Fièvre avec frissons;R500;4370
+4249;Affection de la thyroïde, sans précision;E079;2436
+4251;Dysthyroidie;E079;2436
+4253;Contusion de la paroi abdominale;S301;3138
+4254;Fièvre avec frissons;R500;3138
+4255;Staphylocoque non précisé, cause de maladies classées dans d'autres chapitres;B958;3138
+4259;Diabete_ii;E14;2465
+4264;Diabete_ii;E14;2554
+4265;Maladie de l'intestin, sans précision;K639;2554
+4266;Hémorragie et hématome compliquant un acte à visée diagnostique et thérapeutique, non classés ailleurs;T810;3082
+4267;Transfusion sanguine, sans mention de diagnostic;Z513;3082
+4269;Hernie d'un autre disque intervertébral précisé;M512;2558
+4272;Hta;I10;4371
+4273;Idm;I219;4371
+4274;Insuffisance_coronaire;I251;4371
+4275;Hypercholesterolemie;E780;4371
+4276;Hypertriglyceridemie;E781;4371
+4277;Pathologie_maligne;;4371
+4284;Présence d'autres implants et greffes cardiaques et vasculaires;Z958;4376
+4314;Hypertension essentielle (primitive);I10;4382
+4315;Apnée du sommeil;G473;4382
+4320;Avc_ou_ait;I64;4389
+4321;Maladie_neurologique;;4389
+4322;Avc_ou_ait;I64;4390
+4327;Ostéomyélite chronique multiple;M863;4393
+4347;Rhinopharyngite (aiguë) [rhume banal];J00;4397
+4363;Affection de la vessie, sans précision;N329;4084
+4364;Appendicite aiguë, sans précision;K359;4106
+4365;Affection de la vessie, sans précision;N329;4106
+4366;Tumeur bénigne du sein;D24;4106
+4380;Hta;I10;2157
+4381;Icc;I501;2157
+4382;Sas;G473;2157
+4383;Hypertriglyceridemie;E781;2157
+4384;Rgo;K219;2157
+4386;Apnée du sommeil;G473;4407
+4399;Rgo;K219;4415
+4400;Dysthyroidie;E079;4415
+4403;insufisance rénale;;4420
+4422;Dysthyroidie;E079;4426
+4423;Depression;F32;4426
+4424;Trouble_du_rythme;I499;4426
+4425;Maladie_psychiatrique;;4426
+4426;Rgo;K219;4427
+4427;Depression;F32;4427
+4446;Rgo;K219;4434
+4452;Ecd_insuffisance_cardiaque;I509;132
+4463;Apnée du sommeil;G473;4442
+4464;Idm;I219;4446
+4465;Diabete_ii;E14;4446
+4466;Séquelles de lésion traumatique de la moelle épinière;T913;4446
+4471;Asthme;J45;4455
+4475;Trouble_du_rythme;I499;1499
+4476;Sas;G473;1499
+4477;Maladie_gastro_intestinale;;1499
+4478;Rgo;K219;1499
+4479;Apnée du sommeil;G473;4448
+4487;Hta;I10;1169
+4488;Arteriopathie;I702;1169
+4489;Hypercholesterolemie;E780;1169
+4490;Rgo;K219;1169
+4520;Hta;I10;1945
+4524;Hta;I10;4491
+4525;Trouble_du_rythme;I499;4491
+4526;Insuffisance_coronaire;I251;4491
+4527;Hypercholesterolemie;E780;4491
+4553;Hta;I10;2192
+4554;Avc_ou_ait;I64;2192
+4563;Hta;I10;4505
+4564;Maladie_gastro_intestinale;;4505
+4566;Présence de greffe de foie;Z944;4505
+4567;Diabete_ii;E14;4506
+4628;Insuffisance respiratoire chronique restrictive;J961+1;1179
+4651;Lésion traumatique cérébrale diffuse, sans plaie intracrânienne;S0620;4542
+4659;Rein polykystique, type adulte;Q612;4545
+4690;Hypertension essentielle (primitive);I10;4555
+4691;Hyperuricémie sans signes d'arthrite inflammatoire et de maladie tophacée;E790;4555
+4692;Hypercholestérolémie essentielle;E780;4555
+4693;Hta;I10;4555
+4694;Sas;G473;4555
+4695;Hypercholesterolemie;E780;4555
+4696;Hyperuricemie;E79;4555
+4727;Tumeur maligne du rein, à l'exception du bassinet;C64;4371
+4728;Cardiopathie ischémique aiguë, sans précision;I249;4371
+4729;Obésité, sans précision;E669;4371
+4731;Présence d'autres implants et greffes cardiaques et vasculaires;Z958;4371
+4770;Trouble_du_rythme;I499;4579
+4793;Hta;I10;4590
+4794;Idm;I219;4590
+4796;Insuffisance_coronaire;I251;4590
+4797;Diabete_ii;E14;4590
+4798;Fracture de l'extrémité inférieure du radius;S525;4591
+4805;Hta;I10;2024
+4806;Insuffisance_coronaire;I251;2024
+4809;Hta;I10;4602
+4810;Idm;I219;4602
+4811;Rétrécissement du canal médullaire;M480;4602
+4814;Icc;I501;533
+4815;Hypercholesterolemie;E780;533
+4818;Hta;I10;4613
+4820;Depression;F32;4613
+4821;Autres troubles affectifs bipolaires;F318;4613
+4822;Diabete_ii;E14;4613
+4823;Maladie_psychiatrique;;4613
+4824;Thyroïdite auto-immune;E063;4613
+4840;Apnée du sommeil;G473;4628
+4842;Hta;I10;1302
+4843;Avc_ou_ait;I64;1302
+4844;Hypercholesterolemie;E780;1302
+4845;Depression;F32;1302
+4847;Hta;I10;4635
+4848;Sas;G473;4635
+4849;Diabete_ii;E14;4635
+4865;Hypertension essentielle (primitive);I10;4651
+4870;Fibrillation et flutter auriculaires;I48;4657
+4876;Hta;I10;906
+4877;Allergies;T784;906
+4917;Urticaire allergique;L500;4683
+4920;Avc_ou_ait;I64;4685
+4921;Trouble_du_rythme;I499;4685
+4922;Hypercholesterolemie;E780;4685
+4923;Dysthyroidie;E079;4685
+4926;Hta;I10;4687
+4927;Avc_ou_ait;I64;4687
+4929;Insuffisance_coronaire;I251;4687
+4939;Asthme à prédominance allergique;J450;4689
+4940;Fibromyalgie;M797;4689
+4941;Avc_ou_ait;I64;4691
+4942;Depression;F32;4691
+4956;Avc_ou_ait;I64;4696
+4960;Arteriopathie;I702;1173
+4961;Diabete_ii;E14;1173
+4983;Hta;I10;4720
+4984;Tumeur maligne de l'estomac, sans précision;C169;4720
+4985;Depression;F32;4720
+4986;Maladie_gastro_intestinale;;4720
+4987;Hta;I10;422
+4989;Sas;G473;1089
+4990;Diabete_ii;E14;1089
+4991;Depression;F32;1089
+4997;Hta;I10;1735
+4998;Avc_ou_ait;I64;1735
+5033;Calcul de la vésicule biliaire (sans cholécystite);K802;4743
+5034;Bronchiolite (aiguë), sans précision;J219;4743
+5059;Avc_ou_ait;I64;4752
+5061;Insuffisance veineuse (chronique) (périphérique);I872;4755
+5062;Hta;I10;4755
+5076;Hta;I10;1353
+5077;Diabete_ii;E14;1353
+5106;Idm;I219;1677
+5108;Hta;I10;1068
+5109;Allergies;T784;1068
+5110;Diabete_ii;E14;1068
+5111;Hypercholesterolemie;E780;1068
+5112;Glaucome;H40;1068
+5113;Hta;I10;4785
+5114;Avc_ou_ait;I64;4785
+5115;Trouble_du_rythme;I499;4785
+5116;Hypercholesterolemie;E780;4785
+5117;Hta;I10;4787
+5118;Avc_ou_ait;I64;4787
+5119;Insuffisance_coronaire;I251;4787
+5121;Idm;I219;4787
+5128;Hta;I10;4790
+5154;Affections myotoniques;G711;821
+5158;Maladie_neurologique;;818
+5159;Hta;I10;4811
+5160;Idm;I219;4811
+5161;Icc;I501;4811
+5162;Avc_ou_ait;I64;4811
+5163;Insuffisance_coronaire;I251;4811
+5164;Diabete_ii;E14;4811
+5165;Hypercholesterolemie;E780;4811
+5166;Maladie_neurologique;;4811
+5167;Hta;I10;2222
+5168;Diabete_ii;E14;2222
+5169;Hypercholesterolemie;E780;2222
+5170;Affections myotoniques;G711;820
+5171;Hta;I10;1304
+5172;Sas;G473;1304
+5173;Allergies;T784;1304
+5174;Diabete_ii;E14;1304
+5175;Hypercholesterolemie;E780;1304
+5176;Hyperuricemie;E79;1304
+5177;Dysthyroidie;E079;1304
+5178;Depression;F32;1304
+5179;Icc;I501;1009
+5180;Arteriopathie;I702;1009
+5181;Insuffisance_coronaire;I251;1009
+5182;Sas;G473;1009
+5189;Hta;I10;4817
+5190;Pathologie_maligne;;584
+5192;Maladie_neurologique;;810
+5197;Hta;I10;4826
+5235;Hta;I10;4839
+5236;Sas;G473;4839
+5237;Diabete_ii;E14;4839
+5238;Hypercholesterolemie;E780;4839
+5239;Rgo;K219;4839
+5266;Hta;I10;4847
+5267;Diabete_ii;E14;4847
+5268;Hypercholesterolemie;E780;4847
+5269;Insuffisance_renale;N189;4847
+5270;Dysthyroidie;E079;4847
+5278;Hta;I10;1052
+5279;Sas;G473;1052
+5280;Allergies;T784;1052
+5281;Diabete_ii;E14;1052
+5282;Hypercholesterolemie;E780;1052
+5283;Hypertriglyceridemie;E781;1052
+5296;Hta;I10;4858
+5305;Idm;I219;4863
+5306;Insuffisance_coronaire;I251;4863
+5307;Diabete_ii;E14;4863
+5333;Insuffisance_coronaire;I251;4875
+5339;Hta;I10;4877
+5340;Diabete_ii;E14;4877
+5353;Migraine, sans précision;G439;4885
+5354;Asthme à prédominance allergique;J450;4885
+5355;Accouchement (unique) par césarienne d'urgence;O821;4885
+5356;hysterectomie;;4885
+5423;Diabete_ii;E14;4919
+5425;Hta;I10;4920
+5426;Diabete_ii;E14;4920
+5427;Myocardiopathie avec dilatation;I420;4920
+5431;Tumeur maligne du côlon, sans précision;C189;4934
+5432;Pancréatite aiguë;K85;4934
+5433;Acromégalie et gigantisme;E220;4934
+5434;Tumeur bénigne de l'hypophyse;D352;4934
+5435;Syringomyélie et syringobulbie;G950;4934
+5437;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;4934
+5439;Hta;I10;130
+5440;Diabete_ii;E14;130
+5441;Hypercholesterolemie;E780;130
+5442;Hypertriglyceridemie;E781;130
+5445;Icc;I501;281
+5465;Grippe avec d'autres manifestaions respiratoires, virus grippal identifié;J101;4973
+5474;Avc_ou_ait;I64;4983
+5475;Hypercholesterolemie;E780;4983
+5493;Hta;I10;4994
+5495;Rgo;K219;4994
+5509;Hta;I10;1178
+5510;Sas;G473;1178
+5511;Hta;I10;1176
+5512;Sas;G473;1176
+5513;Diabete_ii;E14;1176
+5514;Hypercholesterolemie;E780;1176
+5515;Hypertriglyceridemie;E781;1176
+5522;Asthme;J45;1177
+5523;Sas;G473;1177
+5524;Allergies;T784;1177
+5525;Maladie_psychiatrique;;1177
+5526;Dysthyroidie;E079;1177
+5527;Depression;F32;1177
+5530;Hta;I10;1311
+5531;Bpco;J440;1311
+5532;Sas;G473;1311
+5533;Hta;I10;5005
+5534;Idm;I219;5005
+5535;Avc_ou_ait;I64;5005
+5536;Sas;G473;5005
+5537;Hypercholesterolemie;E780;5005
+5542;Hémorroïdes (sans complication), sans précision;I849;5012
+5545;cancer du sein ;;5013
+5546;prothèse de genou;;5013
+5547;Hta;I10;5013
+5548;Avc_ou_ait;I64;5013
+5549;Sas;G473;5013
+5550;Diabete_ii;E14;5013
+5551;Hypercholesterolemie;E780;5013
+5556;Hta;I10;277
+5557;Htap;I270;277
+5558;Idm;I219;277
+5559;Icc;I501;277
+5560;Trouble_du_rythme;I499;277
+5561;Diabete_ii;E14;277
+5562;Hypercholesterolemie;E780;277
+5563;Hypertriglyceridemie;E781;277
+5564;Hta;I10;615
+5565;Htap;I270;615
+5566;Idm;I219;615
+5567;Icc;I501;615
+5568;Trouble_du_rythme;I499;615
+5569;Insuffisance_coronaire;I251;615
+5570;Bpco;J440;615
+5571;Hypercholesterolemie;E780;615
+5572;Hypertriglyceridemie;E781;615
+5584;Hta;I10;717
+5585;Htap;I270;717
+5586;Icc;I501;717
+5587;Trouble_du_rythme;I499;717
+5588;Sas;G473;717
+5589;Diabete_ii;E14;717
+5590;Hypercholesterolemie;E780;717
+5591;Hyperuricemie;E79;717
+5592;Insuffisance_renale;N189;717
+5599;Diabete_ii;E14;5016
+5600;Diabete_i;E10;5016
+5601;Trouble_du_rythme;I499;5017
+5605;Ulcère gastro-jéjunal aigu, avec hémorragie;K280;5017
+5606;Hypertension essentielle (primitive);I10;5017
+5607;Glaucome;H40;5017
+5621;Allergies;T784;1570
+5622;Depression;F32;1570
+5627;Trouble_du_rythme;I499;767
+5628;Pathologie_maligne;;767
+5629;Depression;F32;767
+5630;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;5026
+5631;Fibrillation et flutter auriculaires;I48;5026
+5660;Sas;G473;1079
+5661;Rgo;K219;1079
+5667;Hta;I10;768
+5668;Avc_ou_ait;I64;768
+5669;Trouble_du_rythme;I499;768
+5670;Depression;F32;768
+5684;Diabete_ii;E14;5040
+5700;Idm;I219;5050
+5714;Sténose d'une artère;I771;5058
+5718;Hta;I10;37
+5719;Idm;I219;37
+5720;Hypertrophie_ventricule_g;I517;37
+5721;Insuffisance_coronaire;I251;37
+5722;Diabete_ii;E14;37
+5723;Hypercholesterolemie;E780;37
+5724;Hypertriglyceridemie;E781;37
+5725;Hta;I10;5070
+5729;Hta;I10;1439
+5730;Idm;I219;1439
+5731;Icc;I501;1439
+5732;Trouble_du_rythme;I499;1439
+5733;Insuffisance_coronaire;I251;1439
+5734;Hypercholesterolemie;E780;1439
+5735;Anévrisme aortique abdominal, rompu;I713;5073
+5756;Hta;I10;2170
+5757;Asthme;J45;2170
+5758;Sas;G473;2170
+5759;Hta;I10;2708
+5763;Diabete_ii;E14;5081
+5767;Avc_ou_ait;I64;5086
+5768;Hta;I10;5086
+5769;Rhinite;J304;5086
+5776;Hta;I10;5089
+5777;Avc_ou_ait;I64;5089
+5778;Hypercholesterolemie;E780;5089
+5826;Idm;I219;5097
+5827;Hta;I10;5097
+5838;Hta;I10;1069
+5839;Diabete_ii;E14;1069
+5840;Hypercholesterolemie;E780;1069
+5846;Hta;I10;688
+5847;Hypercholesterolemie;E780;688
+5848;pontage coronarien;;5098
+5849;Hta;I10;5100
+5850;Avc_ou_ait;I64;1339
+5851;Dysthyroidie;E079;1339
+5852;Hta;I10;5103
+5853;Insuffisance_coronaire;I251;5103
+5855;Insuffisance_coronaire;I251;177
+5856;Hypercholesterolemie;E780;177
+5857;Rgo;K219;177
+5864;Idm;I219;2128
+5865;Trouble_du_rythme;I499;2128
+5866;Insuffisance_coronaire;I251;2128
+5867;Diabete_ii;E14;2128
+5868;Hta;I10;1817
+5869;Icc;I501;1817
+5870;Sas;G473;1817
+5871;Diabete_ii;E14;1817
+5872;Hypercholesterolemie;E780;1817
+5873;Insuffisance_renale;N189;1817
+5874;Hta;I10;686
+5875;Diabete_ii;E14;686
+5882;Hta;I10;1700
+5883;Diabete_ii;E14;1700
+5884;Diabete_i;E10;1700
+5885;Hta;I10;1386
+5886;Avc_ou_ait;I64;1386
+5887;Maladie_pulmonaire_restrictive;J96111;1386
+5888;Diabete_i;E10;1386
+5889;Hyperuricemie;E79;1386
+5890;Avc_ou_ait;I64;2111
+5891;Diabete_i;E10;2111
+5892;Maladie_gastro_intestinale;;2111
+5893;Depression;F32;2111
+5920;Hta;I10;917
+5921;Hta;I10;476
+5922;Arteriopathie;I702;476
+5923;Hta;I10;925
+5924;Sas;G473;925
+5925;Allergies;T784;925
+5926;Maladie_psychiatrique;;925
+5927;Hta;I10;5130
+5928;Sas;G473;5130
+5929;Allergies;T784;5130
+5930;Rgo;K219;5130
+5931;Depression;F32;5130
+5932;Constipation;K590;5130
+5933;Lésion traumatique des tendons de la coiffe des rotateurs de l'épaule;S460;5130
+5934;Insuffisance veineuse (chronique) (périphérique);I872;5130
+5935;Allergie, sans précision;T784;4767
+5936;Apnée du sommeil;G473;4767
+5937;Reflux gastro-oesophagien (sans oesophagite);K219;4767
+5938;Hta;I10;544
+5939;Idm;I219;544
+5940;Avc_ou_ait;I64;544
+5941;Cardiopathie artérioscléreuse;I251;5131
+5942;Hta;I10;1926
+5943;Trouble_du_rythme;I499;1926
+5944;Depression;F32;1926
+5950;Allergies;T784;436
+5956;Bpco;J440;5138
+5957;Hypercholesterolemie;E780;5138
+5958;Glaucome;H40;5138
+5961;Tumeur maligne du larynx, sans précision;C329;5138
+5962;Hypothyroïdie, sans précision;E039;5138
+5963;Dépendance envers un respirateur : ventilation par masque nasal;Z991+1;5138
+5964;Dépendance envers un respirateur;Z991;5138
+5965;Présence d'implants d'articulations orthopédiques;Z966;5138
+5966;Atteinte d'un disque intervertébral, sans précision;M519;5138
+5967;Absence acquise d'autres parties de l'appareil digestif;Z904;5138
+5968;Varices des membres inférieurs sans ulcère ou inflammation;I839;5138
+5970;Dysthyroidie;E079;5138
+5971;Avc_ou_ait;I64;2651
+5972;Maladie_neurologique;;1319
+5973;Maladie_pulmonaire_restrictive;J96111;815
+5974;Insuffisance_respiratoire;J96101;815
+5975;Asthme;J45;815
+5976;Depression;F32;815
+5983;Sciatique;M543;5141
+5992;Hta;I10;5151
+5993;Diabete_ii;E14;5151
+5994;Avc_ou_ait;I64;5152
+5995;Hta;I10;5154
+5996;Diabete_ii;E14;5154
+5997;Insuffisance_renale;N189;5154
+5998;Avc_ou_ait;I64;5154
+6000;Insuffisance_coronaire;I251;151
+6001;Diabete_ii;E14;151
+6002;Pathologie_maligne;;151
+6081;Maladie_pulmonaire_restrictive;J96111;5187
+6082;Insuffisance_respiratoire;J96101;5187
+6083;maladie de charcot marie tooth;;5187
+6086;Idm;I219;401
+6087;Icc;I501;401
+6088;Arteriopathie;I702;401
+6089;Bpco;J440;401
+6090;Sas;G473;401
+6094;myopathie indéterminée;;5193
+6095;Maladie_pulmonaire_restrictive;J96111;5193
+6096;Hypercholesterolemie;E780;5193
+6114;Hta;I10;321
+6115;Hypercholesterolemie;E780;321
+6116;Hta;I10;85
+6117;Idm;I219;85
+6118;Icc;I501;85
+6119;Arteriopathie;I702;85
+6120;Insuffisance_coronaire;I251;85
+6121;Diabete_ii;E14;85
+6122;Hypercholesterolemie;E780;85
+6123;Hypertriglyceridemie;E781;85
+6124;Maladie_gastro_intestinale;;85
+6133;Myopathie de duchenne;;5214
+6134;Trouble_du_rythme;I499;5214
+6145;Rhinite;J304;5224
+6221;myopathie des ceintures;;5246
+6222;Icc;I501;5246
+6223;Trouble_du_rythme;I499;5246
+6224;Maladie_pulmonaire_restrictive;J96111;5246
+6225;Insuffisance_respiratoire;J96101;5246
+6237;Hta;I10;5259
+6238;Avc_ou_ait;I64;5259
+6239;Trouble_du_rythme;I499;5259
+6240;Rhinite;J304;5259
+6241;Hta;I10;1133
+6242;Sas;G473;1133
+6243;Diabete_ii;E14;1133
+6244;Hypertriglyceridemie;E781;1133
+6245;Hyperuricemie;E79;1133
+6250;myopathie de duchenne;;5263
+6251;Myocardite aiguë, sans précision;I409;5263
+6252;Icc;I501;5263
+6253;Maladie_pulmonaire_restrictive;J96111;5263
+6254;Insuffisance_respiratoire;J96101;5263
+6255;Htap;I270;936
+6256;Diabete_ii;E14;936
+6267;Hta;I10;2721
+6268;Glaucome;H40;2721
+6271;Hta;I10;24
+6272;Idm;I219;24
+6273;Diabete_ii;E14;24
+6274;Hypercholesterolemie;E780;24
+6275;Maladie_gastro_intestinale;;24
+6276;Hta;I10;35
+6277;Idm;I219;35
+6278;Icc;I501;35
+6279;Trouble_du_rythme;I499;35
+6280;Insuffisance_coronaire;I251;35
+6281;Maladie_pulmonaire_restrictive;J96111;35
+6282;Insuffisance_respiratoire;J96101;35
+6283;Hypercholesterolemie;E780;35
+6284;Hypertriglyceridemie;E781;35
+6285;Ecd_insuffisance_cardiaque;I509;35
+6291;Icc;I501;5269
+6292;Diabete_ii;E14;5269
+6293;Diabete_ii;E14;5273
+6294;Avc_ou_ait;I64;5274
+6296;Maladie_neurologique;;5278
+6297;Depression;F32;5278
+6298;Idm;I219;45
+6299;Icc;I501;45
+6300;Insuffisance_coronaire;I251;45
+6301;Ecd_insuffisance_cardiaque;I509;45
+6302;Hta;I10;1096
+6303;Sas;G473;1096
+6304;Diabete_ii;E14;1096
+6305;Hypercholesterolemie;E780;1096
+6307;Hta;I10;5284
+6308;Sas;G473;5284
+6309;Hypercholesterolemie;E780;5284
+6311;Idm;I219;5289
+6312;Insuffisance_coronaire;I251;5289
+6314;Hta;I10;1167
+6315;Avc_ou_ait;I64;1167
+6316;Diabete_ii;E14;1167
+6317;Hypercholesterolemie;E780;1167
+6318;Maladie_neurologique;;1167
+6319;Maladie_gastro_intestinale;;1167
+6320;Asthme;J45;1066
+6321;Diabete_ii;E14;1066
+6322;Hypercholesterolemie;E780;1066
+6323;Hta;I10;5290
+6324;Avc_ou_ait;I64;5290
+6325;Hypercholesterolemie;E780;5290
+6326;Maladie_neurologique;;5290
+6327;Hta;I10;308
+6328;Maladie_neurologique;;308
+6329;Rgo;K219;308
+6346;Icc;I501;2197
+6347;Diabete_ii;E14;2197
+6349;Autres épilepsies;G408;5206
+6350;Hta;I10;5206
+6354;Hta;I10;1535
+6355;Avc_ou_ait;I64;1535
+6408;Myotonie de Steinert;;5320
+6417;Hta;I10;5326
+6418;Diabete_i;E10;5326
+6419;Glaucome;H40;5326
+6420;Dysthyroidie;E079;5326
+6421;Autres atteintes non infectieuses précisées des vaisseaux et des ganglions lymphatiques;I898;5326
+6451;Hta;I10;36
+6452;Trouble_du_rythme;I499;36
+6453;Asthme;J45;36
+6454;Hypercholesterolemie;E780;36
+6455;Hypertriglyceridemie;E781;36
+6459;Icc;I501;44
+6460;Diabete_ii;E14;44
+6461;Ecd_insuffisance_cardiaque;I509;44
+6463;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;5342
+6464;Séquelles d'accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I694;5342
+6482;Hta;I10;5350
+6483;Idm;I219;5350
+6484;Avc_ou_ait;I64;5350
+6547;Trouble_du_rythme;I499;2096
+6567;Hta;I10;5383
+6569;Myosite à inclusion;;5388
+6574;Amyotrophie spinale, sans précision;G129;5394
+6575;Maladie_pulmonaire_restrictive;J96111;5394
+6585;Communication interauriculaire;Q211;5401
+6586;Affection démyélinisante aiguë disséminée, sans précision;G369;223
+6587;Autres polyarthrites rhumatoïdes précisées;M068;223
+6588;Hta;I10;223
+6589;Icc;I501;223
+6590;Tumeur maligne du lobe supérieur, bronches ou poumon;C341;5403
+6591;Arythmie cardiaque, sans précision;I499;5403
+6592;Avc_ou_ait;I64;5404
+6593;Diabete_ii;E14;5404
+6594;Maladie_neurologique;;5404
+6596;Pathologie_maligne;;5404
+6629;Avc_ou_ait;I64;759
+6631;Pathologie_maligne;;759
+6632;Insuffisance_coronaire;I251;679
+6634;Avc_ou_ait;I64;5423
+6635;Hypercholesterolemie;E780;5423
+6637;Depression;F32;5423
+6638;Épilepsie et syndromes épileptiques généralisés idiopathiques;G403;5423
+6639;Maladie_neurologique;;5423
+6641;Hta;I10;5428
+6642;Avc_ou_ait;I64;5428
+6648;Hta;I10;5435
+6649;Avc_ou_ait;I64;5435
+6650;Arteriopathie;I702;5435
+6651;Insuffisance_coronaire;I251;5435
+6652;Diabete_ii;E14;5435
+6653;Hypercholesterolemie;E780;5435
+6655;Hypercholesterolemie;E780;5437
+6656;Anévrisme aortique thoracique, sans mention de rupture;I712;5437
+6657;Amyotrophie spinale, sans précision;G129;5443
+6658;Maladie_pulmonaire_restrictive;J96111;5443
+6659;Insuffisance_respiratoire;J96101;5443
+6660;Maladie_neurologique;;5443
+6669;Avc_ou_ait;I64;5449
+6670;Allergies;T784;5449
+6671;Hypercholesterolemie;E780;5449
+6682;Pathologie_maligne;;5462
+6685;Hta;I10;999
+6686;Idm;I219;999
+6687;Rgo;K219;999
+6688;Depression;F32;999
+6708;Trouble_du_rythme;I499;1873
+6709;Hypercholesterolemie;E780;1873
+6710;Hypertriglyceridemie;E781;1873
+6711;Maladie_gastro_intestinale;;1873
+6753;Hta;I10;834
+6754;Diabete_ii;E14;834
+6761;Trouble_du_rythme;I499;5505
+6782;Hta;I10;519
+6783;Allergies;T784;519
+6784;Hypercholesterolemie;E780;519
+6785;Hypertriglyceridemie;E781;519
+6786;Maladie_psychiatrique;;519
+6787;Depression;F32;519
+6817;Sas;G473;5527
+6818;Hta;I10;546
+6819;Diabete_ii;E14;546
+6822;Hta;I10;1387
+6823;Diabete_ii;E14;1387
+6824;Hypercholesterolemie;E780;1387
+6830;Hypertension essentielle (primitive);I10;5534
+6832;Idm;I219;5537
+6834;Fracture des os du nez;S022;5544
+6835;Hta;I10;5545
+6836;Idm;I219;5545
+6837;Hypercholesterolemie;E780;5545
+6838;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;5545
+6839;Sarcoïdose du poumon;D860;5547
+6840;Apnée du sommeil;G473;5547
+6841;Sas;G473;5547
+6842;Rgo;K219;5547
+6843;Hta;I10;5530
+6844;Bpco;J440;5530
+6845;Asthme;J45;5530
+6868;Hta;I10;1939
+6869;Htap;I270;1939
+6870;Pathologie_maligne;;5566
+6873;Avc_ou_ait;I64;2369
+6874;Insuffisance_respiratoire;J96101;2369
+6875;Asthme;J45;2369
+6876;Hypercholesterolemie;E780;5569
+6888;Sas;G473;5579
+6889;Dysthyroidie;E079;5579
+6890;Fibromyalgie;M797;5583
+6897;Anévrisme cérébral, (non rompu);I671;5586
+6898;Insuffisance hypophysaire;;5586
+6899;Hta;I10;5586
+6900;Diabete_ii;E14;5586
+6902;Hta;I10;5588
+6903;Hypercholesterolemie;E780;5588
+6904;Glaucome;H40;5588
+6905;Granulomatose de Wegener;M313;5588
+6906;Déviation de la cloison (nasale);J342;5589
+6911;Trouble_du_rythme;I499;5591
+6912;Asthme;J45;5591
+6913;Allergies;T784;5591
+6914;Affection de la thyroïde, sans précision;E079;5592
+6924;Rhinite;J304;5600
+6925;Allergies;T784;5600
+6929;Hypertension essentielle (primitive);I10;5604
+6931;Appendicite aiguë avec abcès péritonéal;K351;5607
+6932;Psoriasis, sans précision;L409;5607
+6938;Hypercholesterolemie;E780;5616
+6939;Hypertriglyceridemie;E781;5616
+6940;Apnée du sommeil;G473;5616
+6941;Rhinite;J304;1882
+6942;Sas;G473;1882
+6943;Allergies;T784;1882
+6944;Hypertension essentielle (primitive);I10;5617
+6950;Hyperuricemie;E79;5621
+6953;Hta;I10;5625
+6954;Avc_ou_ait;I64;5625
+6955;Sas;G473;5625
+6956;Allergies;T784;5625
+6957;Insuffisance_renale;N189;5625
+6958;Dysthyroidie;E079;5625
+6959;Bpco;J440;5625
+6978;Autres dialyses;Z492;5636
+6979;Insuffisance rénale chronique, sans précision;N189;5636
+6980;Autres hypertensions secondaires;I158;5636
+7000;Tumeur maligne de la prostate;C61;5660
+7004;Hta;I10;5664
+7005;Depression;F32;5664
+7007;Avc_ou_ait;I64;5667
+7008;Maladie_psychiatrique;;5667
+7009;Hypertension essentielle (primitive);I10;5669
+7028;Hta;I10;5672
+7029;Allergies;T784;5672
+7030;Pathologie_maligne;;5672
+7031;Dysthyroidie;E079;5672
+7032;Hta;I10;5152
+7033;Hta;I10;5674
+7036;Hta;I10;5677
+7049;Avc_ou_ait;I64;5706
+7050;Hypercholesterolemie;E780;5706
+7054;Infection asymptomatique par le virus de l'immunodéficience humaine [VIH];Z21;5720
+7055;Hta;I10;5720
+7056;Insuffisance_renale;N189;5720
+7057;Hta;I10;74
+7058;Idm;I219;74
+7059;Icc;I501;74
+7060;Avc_ou_ait;I64;74
+7061;Insuffisance_coronaire;I251;74
+7062;Diabete_ii;E14;74
+7063;Hypercholesterolemie;E780;74
+7064;Hypertriglyceridemie;E781;74
+7065;Maladie_gastro_intestinale;;74
+7066;Rgo;K219;74
+7070;Avc_ou_ait;I64;5724
+7071;Trouble_du_rythme;I499;5724
+7072;Asthme;J45;5724
+7073;Hypercholesterolemie;E780;5724
+7074;Rgo;K219;5724
+7075;Avc_ou_ait;;5724
+7076;Hta;I10;5725
+7077;Diabete_ii;E14;5725
+7078;Myasthénie;G700;5725
+7079;Anémie par carence en vitamine B12, sans précision;D519;5725
+7089;Hta;I10;5730
+7090;Diabete_ii;E14;5730
+7101;Hta;I10;5737
+7102;Idm;I219;5737
+7103;Insuffisance_coronaire;I251;5737
+7104;Diabete_ii;E14;5737
+7106;Dysthyroidie;E079;5737
+7108;Cataracte compliquée;H262;5741
+7109;Glaucome (primitif) à angle étroit;H402;5741
+7122;Rétrécissement du canal médullaire;M480;5753
+7123;Présence d'implants d'articulations orthopédiques;Z966;5753
+7124;Ecd_insuffisance_cardiaque;I509;257
+7132;Hta;I10;2117
+7133;Icc;I501;2117
+7134;Trouble_du_rythme;I499;2117
+7135;Bpco;J440;2117
+7136;Hypercholesterolemie;E780;2117
+7137;Hypertriglyceridemie;E781;2117
+7141;Hta;I10;5767
+7142;Diabete_ii;E14;5767
+7143;Depression;F32;5767
+7144;Hernie ombilicale, (sans occlusion ni gangrène);K429;5768
+7145;Polype des cordes vocales et du larynx;J381;5768
+7146;Avc_ou_ait;I64;337
+7147;Rgo;K219;337
+7151;Sciatique;M543;5772
+7159;Rgo;K219;5775
+7162;Affection de la prostate, sans précision;N429;5785
+7176;Hta;I10;5789
+7177;Allergies;T784;5789
+7178;Diabete_ii;E14;5789
+7179;Pathologie_maligne;;5789
+7180;Autres occlusions vasculaires rétiniennes;H348;5791
+7181;Myopathie facio-scapulo-humérale;;5791
+7182;Hta;I10;5791
+7193;Emphysème (pulmonaire), sans précision;J439;5803
+7194;Bpco;J440;5803
+7217;Hta;I10;5840
+7220;NASH;K758;5844
+7221;Avc_ou_ait;I64;5844
+7223;Hta;I10;5845
+7224;Idm;I219;5845
+7225;Bpco;J440;5845
+7226;Diabete_ii;E14;5845
+7227;Hypercholesterolemie;E780;5845
+7228;Arthrose interépineuse;M482;5845
+7229;Cervicalgie;M542;5845
+7230;Sas;G473;5845
+7262;Hta;I10;5859
+7263;Bpco;J440;5859
+7264;Sas;G473;5859
+7265;Dissection de l'aorte [toute localisation];I710;5859
+7266;Bpco;J440;5860
+7267;Kystes cérébraux;G930;5860
+7275;Sas;G473;1527
+7276;Allergies;T784;1527
+7277;Maladie_psychiatrique;;1527
+7278;diabete;;5862
+7286;Hta;I10;5866
+7287;Trouble_du_rythme;I499;5866
+7288;Bpco;J440;5866
+7289;Diabete_ii;E14;5866
+7290;Maladie_psychiatrique;;5866
+7291;Depression;F32;5866
+7292;Idm;I219;5869
+7296;Hta;I10;515
+7297;Trouble_du_rythme;I499;515
+7298;Asthme;J45;515
+7299;Diabete_ii;E14;515
+7300;Maladie_neurologique;;515
+7301;Avc_ou_ait;I64;1916
+7302;Dysthyroidie;E079;1916
+7310;Hernie crurale, (unilatérale ou) sans précision, (sans occlusion ni gangrène);K419;5876
+7311;Hernie ombilicale, (sans occlusion ni gangrène);K429;5876
+7312;Infection méningococcique, sans précision;A399;5876
+7313;Colique néphrétique, sans précision;N23;5876
+7314;Tumeur bénigne de la prostate;D291;5876
+7406;Bpco;J440;5922
+7407;Sas;G473;5922
+7420;Anomalie du métabolisme des lipoprotéines, sans précision ;;5937
+7421;Hta;I10;5937
+7422;Obésité, sans précision;E669;5937
+7423;Hta;I10;1090
+7424;Sas;G473;1090
+7425;Allergies;T784;1090
+7426;Glaucome;H40;1090
+7427;Pathologie_maligne;;1090
+7428;Dysthyroidie;E079;1090
+7432;Hta;I10;5944
+7445;Hta;I10;249
+7446;Idm;I219;249
+7447;Icc;I501;249
+7448;Insuffisance_coronaire;I251;249
+7449;Diabete_ii;E14;249
+7450;Hypercholesterolemie;E780;249
+7451;Maladie_gastro_intestinale;;249
+7452;Ecd_insuffisance_cardiaque;I509;249
+7461;Hta;I10;785
+7462;Rgo;K219;785
+7529;Avc_ou_ait;I64;5956
+7530;Hypercholesterolemie;E780;5956
+7531;Hypertriglyceridemie;E781;5956
+7541;Avc_ou_ait;I64;1051
+7542;Allergies;T784;1051
+7543;Maladie_gastro_intestinale;;1051
+7581;Hta;I10;5987
+7582;Hypercholesterolemie;E780;5987
+7583;Hypertriglyceridemie;E781;5987
+7584;Avc_ou_ait;I64;5987
+7585;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;5987
+7586;Trouble_du_rythme;I499;5987
+7587;Bpco;J440;5989
+7588;Sas;G473;5989
+7589;Affection de la thyroïde, sans précision;E079;5989
+7590;Polyarthrite rhumatoïde, sans précision;M069;5989
+7591;Maladie du péricarde, sans précision;I319;5989
+7592;Absence acquise de poumon [partie de];Z902;5989
+7593;Dépendance envers un respirateur;Z991;5989
+7594;Sas;G473;5991
+7595;Dysthyroidie;E079;5991
+7596;Depression;F32;5991
+7597;Trouble_du_rythme;I499;5992
+7598;Hta;I10;5993
+7599;Angine de poitrine [angor] instable avec élévation des marqueurs biochimiques [enzymes] myocardiques;I200+0;5997
+7604;Hta;I10;6004
+7605;Trouble_du_rythme;I499;6004
+7619;Hta;I10;6011
+7620;Hypercholesterolemie;E780;6011
+7621;Hypertriglyceridemie;E781;6011
+7626;occlusion veine centrale de la rétine;;6005
+7627;Hta;I10;6005
+7628;Trouble_du_rythme;I499;6005
+7629;Hta;I10;6016
+7630;Diabete_i;E10;6016
+7631;Hta;I10;6018
+7632;Idm;I219;6018
+7633;Icc;I501;6018
+7634;Insuffisance_coronaire;I251;6018
+7635;Hypercholesterolemie;E780;6018
+7636;Hypertriglyceridemie;E781;6018
+7640;Hernie inguinale bilatérale, (sans occlusion ni gangrène);K402;6021
+7641;paralysie diaphragmatique;;6021
+7642;Myopathie indéterminée;;6021
+7643;Hta;I10;6021
+7644;Maladie_pulmonaire_restrictive;J96111;6021
+7645;Maladie_psychiatrique;;4306
+7653;Hta;I10;5531
+7654;Pneumopathie bactérienne, sans précision;J159;6029
+7655;Maladie_pulmonaire_restrictive;J96111;6029
+7656;Rgo;K219;6029
+7670;Hta;I10;6043
+7671;Diabete_ii;E14;6043
+7672;Hypercholesterolemie;E780;6043
+7673;Hypertriglyceridemie;E781;6043
+7674;Asthme;J45;990
+7714;Rgo;K219;6077
+7727;Fibrillation et flutter auriculaires;I48;6086
+7728;Hta;I10;6087
+7729;Icc;I501;6087
+7730;Hypertrophie_ventricule_g;I517;6087
+7731;Insuffisance_coronaire;I251;6087
+7738;Hta;I10;6092
+7739;Diabete_ii;E14;6092
+7740;Hta;I10;6093
+7741;Icc;I501;6093
+7742;Diabete_ii;E14;6093
+7743;Avc_ou_ait;I64;6096
+7751;Hta;I10;6102
+7752;Avc_ou_ait;I64;6102
+7753;Hypercholesterolemie;E780;6102
+7754;Avc_ou_ait;;6102
+7755;Glaucome;H40;6102
+7756;Dysthyroidie;E079;6102
+7776;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;6123
+7777;Trouble_du_rythme;I499;6123
+7778;Hypercholesterolemie;E780;6123
+7779;Dysthyroidie;E079;6123
+7782;Diabete_ii;E14;6127
+7792;Maladie_gastro_intestinale;;6136
+7793;Depression;F32;6136
+7852;Hta;I10;849
+7853;Maladie_neurologique;;849
+7854;Rgo;K219;849
+7856;Diabete_ii;E14;6146
+7857;Hyperuricemie;E79;6146
+7870;Sas;G473;6153
+7884;Hta;I10;6153
+7885;Avc_ou_ait;I64;6153
+7886;Trouble_du_rythme;I499;6153
+7887;Diabete_ii;E14;6153
+7888;Avc_ou_ait;;6153
+7896;Hta;I10;6158
+7897;Avc_ou_ait;I64;6158
+7898;Diabete_ii;E14;6158
+7899;Insuffisance_renale;N189;6158
+7900;Maladie de horton ;;6158
+7901;dyslipidémie ;;6158
+7922;Cardiopathie ischémique (chronique), sans précision;I259;6171
+7923;TAVI;;6171
+7924;Apnée du sommeil;G473;6171
+7925;Idm;I219;5453
+7926;Avc_ou_ait;I64;5453
+7927;Depression;F32;5453
+7930;Hta;I10;6174
+7941;Hypertension essentielle (primitive);I10;6181
+7942;Hta;I10;6181
+7943;Hypercholesterolemie;E780;6181
+7944;Hypertension essentielle (primitive);I10;6182
+7945;Reflux gastro-oesophagien (sans oesophagite);K219;6182
+7946;Épisode dépressif, sans précision;F329;6183
+7955;Hta;I10;772
+7956;Hta;I10;6197
+7957;Hypercholesterolemie;E780;6197
+7958;Dysthyroidie;E079;6197
+7959;Dysthyroidie;E079;6199
+7967;Hta;I10;1468
+7973;Hta;I10;6202
+7974;Trouble_du_rythme;I499;6202
+7975;Maladie_pulmonaire_restrictive;J96111;6202
+7976;Bpco;J440;6202
+7977;diabète ;;6203
+7978;néphrectomie ;;6203
+7979;uvulopalatoplastie ;;6203
+7980;sclérose latérale amyotrophique;;6203
+7981;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;6204
+7982;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;6204
+8007;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;6210
+8008;Asthme, sans précision;J459;6210
+8009;sclérose latérale amyotrophique ;;6210
+8017;Hta;I10;942
+8018;Diabete_ii;E14;942
+8019;Hypercholesterolemie;E780;942
+8020;Vertige bénin paroxystique;H811;6215
+8030;Sas;G473;6225
+8031;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;6226
+8032;Séquelles d'accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I694;6226
+8033;Avc_ou_ait;I64;6229
+8070;Avc_ou_ait;I64;6246
+8071;Diabete_i;E10;6246
+8099;Hta;I10;6262
+8100;Idm;I219;6262
+8101;Icc;I501;6262
+8102;Diabete_ii;E14;6262
+8103;Insuffisance_renale;N189;6262
+8104;Rhinite;J304;6264
+8105;Allergies;T784;6264
+8106;polyradiculonévrite chronique;;6264
+8107;syndrome des jambes sans repos ;;6264
+8108;Maladie_neurologique;;6264
+8119;Fibrillation et flutter auriculaires;I48;6270
+8121;Trouble_du_rythme;I499;6270
+8122;Diabete_ii;E14;6270
+8123;Antécédents familiaux de tumeur maligne des voies urinaires;Z805;6270
+8124;Bpco;J440;6270
+8125;Hta;I10;6270
+8126;Insuffisance_renale;N189;6270
+8127;Sas;G473;6270
+8146;Hta;I10;278
+8147;Icc;I501;278
+8148;Diabete_ii;E14;278
+8149;Hypercholesterolemie;E780;278
+8150;Maladie_gastro_intestinale;;278
+8151;Rgo;K219;278
+8153;Pathologie_maligne;;4934
+8159;Diabète sucré, sans précision, sans complication;E149;5531
+8160;Diabete_ii;E14;5531
+8169;Sas;G473;798
+8170;Dysthyroidie;E079;798
+8171;Depression;F32;798
+8181;Bpco;J440;6288
+8182;Autres ostéoporoses;M818;6288
+8185;Fibrillation et flutter auriculaires;I48;6290
+8186;Htap;I270;6290
+8187;Arteriopathie;I702;6290
+8188;Ulcère de l'estomac chronique ou non précisé, avec hémorragie;K254;6290
+8189;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;6290
+8190;Embolie et thrombose d'autres veines précisées;I828;6290
+8191;Insuffisance veineuse (chronique) (périphérique);I872;6290
+8192;ulcère cutanés ;;6290
+8193;Maladie_gastro_intestinale;;6290
+8196;Hta;I10;6292
+8197;Avc_ou_ait;I64;6292
+8198;Asthme;J45;6292
+8199;Maladie_gastro_intestinale;;6292
+8200;Carcinome in situ du côlon;D010;6292
+8206;Rgo;K219;6296
+8208;Avc_ou_ait;I64;6299
+8209;Hypertriglyceridemie;E781;6299
+8210;Hta;I10;6300
+8211;Bpco;J440;6300
+8212;Sas;G473;6300
+8213;Diabete_ii;E14;6300
+8214;Rgo;K219;6300
+8215;Rhumatisme, sans précision;M790;6300
+8216;Dépendance envers un respirateur;Z991;6300
+8217;Hta;I10;6301
+8218;Trouble_du_rythme;I499;6301
+8221;Hta;I10;6303
+8222;Fibrillation et flutter auriculaires;I48;6303
+8223;Pneumopathie au cours d'autres maladies classées ailleurs;J178;6303
+8224;Trouble_du_rythme;I499;6303
+8225;Ostéoporose, sans précision;M819;6304
+8226;Pneumothorax, sans précision;J939;6304
+8227;Présence de prothèse d'une valvule cardiaque;Z952;6304
+8228;Tassement vertébral, non classé ailleurs - Région dorso-lombaire;M4855;6304
+8229;Anévrisme aortique abdominal, sans mention de rupture;I714;6304
+8230;Fibrillation et flutter auriculaires;I48;6304
+8231;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;6304
+8232;Antécédents personnels d'allergie à d'autres médicaments et substances biologiques;Z888;6304
+8233;Arthrose, sans précision;M199;6304
+8234;Htap;I270;6304
+8235;Bpco;J440;6304
+8236;Diabete_ii;E14;6304
+8237;Hta;I10;6304
+8239;Hypercholesterolemie;E780;6307
+8240;Insuffisance_renale;N189;6307
+8241;Hta;I10;6307
+8242;Arteriopathie;I702;6307
+8243;Hta;I10;6311
+8244;Hypertension essentielle (primitive);I10;6313
+8245;Hypertension essentielle (primitive);I10;6316
+8247;Hta;I10;6326
+8248;Malabsorption due à une intolérance, non classée ailleurs;K904;6326
+8259;Emphysème (pulmonaire), sans précision;J439;6319
+8260;Bpco;J440;6319
+8270;Sas;G473;6330
+8271;Myopathie au cours d'autres maladies classées ailleurs;G737;6330
+8272;neuropathie axonale et démyélinisante;;6330
+8273;Hypothyroïdie, sans précision;E039;6330
+8274;Gammapathie monoclonale;D472;6330
+8275;Hépatomégalie, non classée ailleurs;R160;6330
+8276;Splénomégalie, non classée ailleurs;R161;6330
+8280;Hta;I10;6332
+8281;Trouble_du_rythme;I499;6332
+8282;Trouble_du_rythme;I499;6333
+8285;Diabete_ii;E14;6341
+8286;Dysthyroidie;E079;6341
+8289;Embolie et thrombose d'autres veines précisées;I828;6344
+8290;Autres opérations plastiques pour raisons esthétiques;Z411;6344
+8291;Autres anomalies précisées de la coagulation;D688;6344
+8298;Dysthyroidie;E079;6348
+8302;Hta;I10;6246
+8303;Diabete_ii;E14;6246
+8323;Hypercholesterolemie;E780;6363
+8324;Accident ischémique cérébral transitoire, sans précision;G459;6363
+8325;Hta;I10;6363
+8326;Dysthyroidie;E079;6363
+8332;Maladie_neurologique;;6363
+8334;Hta;I10;6368
+8335;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;6368
+8336;ulceres veineux ;;6368
+8339;Hta;I10;6369
+8341;Diabete_ii;E14;6369
+8373;Hta;I10;6374
+8374;Diabete_ii;E14;6374
+8375;Insuffisance_renale;N189;6374
+8378;Hta;I10;6377
+8379;Asthme;J45;6377
+8380;Hypercholesterolemie;E780;6377
+8381;Depression;F32;6377
+8408;Hta;I10;1103
+8409;Sas;G473;1103
+8410;Diabete_ii;E14;1103
+8411;Hypercholesterolemie;E780;1103
+8422;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;6377
+8423;Obésité, sans précision;E669;6377
+8424;hépatite B ;;6377
+8425;Autres polyarthrites rhumatoïdes précisées;M068;6377
+8426;névrome de morton ;;6377
+8429;Hta;I10;6402
+8430;Maladie_pulmonaire_restrictive;J96111;6402
+8431;dilatation des bronches ;;6402
+8432;Bpco;J440;6402
+8506;Obésité, sans précision;E669;6442
+8519;Hta;I10;6449
+8520;Fibrillation et flutter auriculaires;I48;6449
+8521;NOIAA;;6449
+8523;Trouble_du_rythme;I499;6449
+8524;artérite à cellules géantes;;6449
+8525;adenocarcinome de prostate ;;6449
+8526;Présence d'un stimulateur cardiaque;Z950;6452
+8527;Avc_ou_ait;I64;6449
+8533;Hta;I10;6461
+8534;Avc_ou_ait;I64;6461
+8535;Sas;G473;6461
+8536;Diabete_ii;E14;6461
+8537;Hypercholesterolemie;E780;6461
+8538;Obésité, sans précision;E669;6461
+8552;Diabete_ii;E14;6471
+8559;Diabete_ii;E14;6476
+8560;Hypertension essentielle (primitive);I10;6476
+8561;Hta;I10;6476
+8562;Hta;I10;6477
+8563;Hypercholesterolemie;E780;6477
+8564;Insuffisance_renale;N189;6477
+8573;Hta;I10;6488
+8612;Hta;I10;6505
+8613;Idm;I219;6505
+8624;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;6512
+8625;Occlusion et sténose de l'artère carotide;I652;6512
+8640;Maladie_pulmonaire_restrictive;J96111;6533
+8644;Avc_ou_ait;I64;6541
+8645;Rgo;K219;6541
+8651;Hta;I10;6562
+8652;Diabete_ii;E14;6562
+8663;Hta;I10;295
+8664;Icc;I501;295
+8665;Trouble_du_rythme;I499;295
+8666;Diabete_ii;E14;295
+8667;Hypercholesterolemie;E780;295
+8668;Hypertriglyceridemie;E781;295
+8669;Calcul de la vésicule biliaire (sans cholécystite);K802;6582
+8680;arthrose;;6529
+8681;Maladie de Crohn, sans précision;K509;6529
+8682;Gammapathie monoclonale;D472;6529
+8683;Hernie inguinale bilatérale, (sans occlusion ni gangrène);K402;6529
+8684;rétrecissement vasculaire;;6529
+8685;Bpco;J440;6529
+8686;Sas;G473;6529
+8697;Antécédents personnels d'abus de substances psycho-actives;Z864;6609
+8698;Bpco;J440;6609
+8699;Sas;G473;6609
+8700;Trouble anxieux et dépressif mixte;F412;6609
+8701;Lésion auto-infligée par un moyen non précisé, autres lieux précisés;X848;6609
+8702;Trouble de l'humeur [affectif], sans précision;F39;6609
+8703;Diverticulose du côlon, (sans perforation ni abcès);K573;6609
+8704;Dégénérescence graisseuse du foie, non classée ailleurs;K760;6609
+8705;Anomalie métabolique, sans précision;E889;6609
+8706;Fracture de l'extrémité supérieure de l'humérus;S422;6609
+8707;Syndrome cervico-brachial;M531;6609
+8708;Rétrécissement du canal médullaire;M480;6609
+8709;Antécédents personnels d'intervention chirurgicale importante, non classée ailleurs;Z924;6609
+8710;Cataracte, sans précision;H269;6609
+8711;Varices des membres inférieurs sans ulcère ou inflammation;I839;6609
+8712;Affection (non inflammatoire) de l'utérus, sans précision;N859;6609
+8713;Fractures multiples, sans précision;T029;6609
+8714;Tendinite de la région fessière;M760;6609
+8715;Sciatique;M543;6609
+8716;Emphysème centro-lobulaire;J432;6609
+8717;Blocs de branche droit, autres et sans précision;I451;6609
+8718;Pleurésie tuberculeuse, (sans mention de confirmation bactériologique ou histologique);A165;6609
+8719;Hypertrophie_ventricule_g;I517;6609
+8720;Diverticulose du côlon, avec perforation et abcès;K572;6614
+8721;Trouble_du_rythme;I499;1841
+8723;Maladie_neurologique;;2206
+8739;Hta;I10;6621
+8741;Dissection de l'aorte [toute localisation];I710;6621
+8745;Trouble_du_rythme;I499;6628
+8754;Hta;I10;6637
+8755;Diabete_ii;E14;6637
+8768;Hta;I10;6652
+8769;Trouble_du_rythme;I499;6652
+8770;Diabete_ii;E14;6652
+8782;Diabete_i;E10;6659
+8783;Hta;I10;6659
+8787;Hta;I10;6664
+8788;Asthme;J45;6664
+8789;Rgo;K219;6664
+8790;Maladie (chronique) des amygdales et des végétations adénoïdes, sans précision;J359;6664
+8796;Hta;I10;6673
+8797;Idm;I219;6673
+8798;Insuffisance_coronaire;I251;6673
+8799;Hypercholesterolemie;E780;6673
+8800;Maladie de Ménière;H810;6673
+8801;tumeur maligne prostate;;6673
+8802;Pathologie_maligne;;6673
+8803;Hta;I10;6676
+8804;Avc_ou_ait;I64;6676
+8805;Arteriopathie;I702;6676
+8806;Maladie_pulmonaire_restrictive;J96111;6676
+8807;Rgo;K219;6676
+8808;Mise en évidence par des examens de laboratoire du virus de l'immunodéficience humaine [VIH];R75;6676
+8809;Bpco;J440;6676
+8818;Idm;I219;6682
+8825;Hta;I10;6688
+8826;Tumeur maligne du rectum;C20;6688
+8835;Hta;I10;1855
+8836;Diabete_ii;E14;1855
+8841;Hta;I10;6714
+8842;Idm;I219;6714
+8843;Insuffisance_coronaire;I251;6714
+8860;Hta;I10;6727
+8861;Diabete_ii;E14;6727
+8862;Fibromyalgie;M797;6728
+8870;Hta;I10;2279
+8871;Avc_ou_ait;I64;2279
+8872;Trouble_du_rythme;I499;2279
+8873;Hypercholesterolemie;E780;2279
+8874;Hypertriglyceridemie;E781;2279
+8892;Hypertension essentielle (primitive);I10;6614
+8893;Angine de poitrine [angor] instable avec élévation des marqueurs biochimiques [enzymes] myocardiques;I200+0;6614
+8894;Hta;I10;6757
+8921;Hta;I10;6791
+8922;Sas;G473;6791
+8923;Hypercholesterolemie;E780;6791
+8925;Syringomyélie et syringobulbie;G950;6791
+8926;cavernome du tronc cérébral ;;6791
+8927;Maladie_neurologique;;6791
+8933;Reflux gastro-oesophagien (sans oesophagite);K219;6802
+8934;Déviation de la cloison (nasale);J342;6802
+8946;Diabete_ii;E14;6816
+8947;Insuffisance_renale;N189;6816
+8954;Tumeur maligne de l'épiphyse;C753;6819
+8962;Hta;I10;6830
+8963;Hypercholesterolemie;E780;6830
+8964;Affections des autres voies optiques;H475;6830
+8966;Hta;I10;364
+8967;Idm;I219;364
+8968;Icc;I501;364
+8970;prothèse genou;;6837
+8978;Hta;I10;6855
+8979;Icc;I501;6855
+8980;Insuffisance_coronaire;I251;6855
+8981;Bpco;J440;6855
+8982;Sas;G473;6855
+8983;Insuffisance_renale;N189;6855
+8984;Hypertension essentielle (primitive);I10;6860
+8985;Hta;I10;349
+8986;Avc_ou_ait;I64;349
+8998;Absence acquise d'organe(s) génital(aux);Z907;6873
+8999;Hta;I10;6875
+9000;Avc_ou_ait;I64;6875
+9001;Trouble_du_rythme;I499;6875
+9002;Hypercholesterolemie;E780;6877
+9003;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;6875
+9005;Trouble_du_rythme;I499;6880
+9006;Hernie hiatale congénitale;Q401;6880
+9007;Apnée du sommeil;G473;6881
+9008;Hta;I10;6881
+9146;Fibrillation et flutter auriculaires;I48;5619
+9147;Htap;I270;5619
+9148;Maladie_pulmonaire_restrictive;J96111;5619
+9149;Bpco;J440;5619
+9157;Icc;I501;1266
+9158;Hypertrophie_ventricule_g;I517;1266
+9164;Icc;I501;1340
+9165;Diabete_ii;E14;1340
+9176;Htap;I270;6948
+9177;Bpco;J440;6948
+9178;Hyperuricemie;E79;6948
+9179;Rgo;K219;6948
+9180;Insuffisance_respiratoire;J96101;5619
+9181;Glaucome;H40;5619
+9182;Diplopie;H532;5619
+9183;Hernie inguinale bilatérale, (sans occlusion ni gangrène);K402;7040
+9184;Sas;G473;7040
+9185;Depression;F32;7040
+9207;Luxation de l'articulation de l'épaule;S430;7052
+9208;Sas;G473;7052
+9209;Allergies;T784;7052
+9210;Insuffisance_coronaire;I251;1922
+9211;Dysthyroidie;E079;1922
+9214;Sas;G473;1745
+9215;Maladie_pulmonaire_restrictive;J96111;7064
+9216;sclérose latérale amyotrophique ;;7064
+9224;Allergie, sans précision;T784;7063
+9225;Présence d'autres appareils précisés;Z978;2212
+9226;Sas;G473;2212
+9228;Maladie de Ménière;H810;7070
+9229;Asthme;J45;7070
+9230;Hta;I10;7071
+9231;Arteriopathie;I702;7071
+9233;Occlusion et sténose de l'artère carotide;I652;7071
+9235;Hernie abdominale non précisée, (sans occlusion ni gangrène);K469;2010
+9236;Rhinite allergique due au pollen;J301;2010
+9237;Apnée du sommeil;G473;7078
+9238;Hta;I10;7079
+9239;Trouble_du_rythme;I499;7079
+9240;Insuffisance_coronaire;I251;7079
+9241;Diabete_ii;E14;7079
+9242;Fibrillation et flutter auriculaires;I48;7079
+9243;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;7079
+9244;hématome sous dural;;7079
+9245;Insuffisance_renale;N189;7079
+9249;Hypertriglyceridemie;E781;7083
+9250;Hypertension intracrânienne bénigne;G932;7083
+9251;Syndrome ovarien polykystique;E282;7083
+9265;Hta;I10;7090
+9266;Bpco;J440;7090
+9267;Diabete_ii;E14;7090
+9268;Hypercholesterolemie;E780;7090
+9288;Maladie_gastro_intestinale;;7105
+9289;Rgo;K219;7105
+9290;Sas;G473;7105
+9294;Hypercholesterolemie;E780;7109
+9295;adénocarcinome mammaire ;;7109
+9296;hystérectomie;;7109
+9297;ovariectomie;;7109
+9298;Appendicite, sans précision;K37;7109
+9299;polypes intestinaux ;;7109
+9300;Icc;I501;7110
+9320;Pathologie_maligne;;1710
+9321;Hta;I10;7131
+9322;Dysthyroidie;E079;7133
+9326;Rgo;K219;415
+9327;Hta;I10;7139
+9328;Hta;I10;7140
+9329;Apnée du sommeil;G473;7140
+9334;Sas;G473;957
+9335;Diabete_ii;E14;957
+9336;Diabete_ii;E14;7142
+9337;Hta;I10;7143
+9338;Apnée du sommeil;G473;7143
+9339;Hta;I10;7144
+9340;Apnée du sommeil;G473;7144
+9349;Hta;I10;7151
+9350;Diabete_ii;E14;7151
+9351;Hypercholesterolemie;E780;7151
+9352;Pathologie_maligne;;7151
+9372;Fibromyalgie;M797;5775
+9374;mucoviscidose;;7164
+9375;insuffisance pancréatique;;7164
+9376;Allergies;T784;1811
+9377;Dysthyroidie;E079;1811
+9378;Depression;F32;1811
+9379;Bpco;J440;7166
+9380;Sas;G473;7166
+9396;Hta;I10;7175
+9397;Icc;I501;7175
+9398;Asthme;J45;7175
+9399;Diabete_ii;E14;7175
+9400;Fibrillation et flutter auriculaires;I48;7175
+9401;Polyglobulie essentielle;D45;7177
+9412;Hta;I10;7180
+9413;Idm;I219;7180
+9414;Fibrillation et flutter auriculaires;I48;7180
+9415;Insuffisance_coronaire;I251;7180
+9416;Bpco;J440;7180
+9417;Diabete_ii;E14;7180
+9418;Épistaxis;R040;7180
+9419;Trouble_du_rythme;I499;7180
+9434;Icc;I501;7193
+9435;Idm;I219;7195
+9436;Dysthyroidie;E079;7201
+9437;Hta;I10;7205
+9445;Hta;I10;7215
+9446;Trouble_du_rythme;I499;7215
+9447;Diabete_ii;E14;7215
+9448;Insuffisance_renale;N189;7215
+9495;Hta;I10;7228
+9496;Diabete_ii;E14;7228
+9497;Depression;F32;7228
+9509;Grippe avec d'autres manifestations respiratoires, virus non identifié;J111;2935
+9510;Fibrillation et flutter auriculaires;I48;2935
+9511;Hta;I10;2935
+9512;Bpco;J440;2935
+9513;Hypercholesterolemie;E780;2935
+9539;Affections myotoniques;G711;1423
+9540;Affections myotoniques;G711;1426
+9541;Affections myotoniques;G711;1430
+9542;Affections myotoniques;G711;1433
+9545;Idm;I219;7251
+9546;Insuffisance_coronaire;I251;7251
+9547;Diabete_ii;E14;7251
+9548;Hypercholesterolemie;E780;7251
+9554;Hta;I10;7254
+9555;Hypercholesterolemie;E780;7254
+9564;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;4628
+9582;Arteriopathie;I702;146
+9619;Hta;I10;7300
+9620;Bpco;J440;7300
+9621;Asthme;J45;7300
+9622;Diabete_ii;E14;7300
+9623;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;7300
+9624;Fibrillation et flutter auriculaires;I48;7300
+9638;Idm;I219;7301
+9639;Icc;I501;7301
+9640;Insuffisance_coronaire;I251;7301
+9641;Bpco;J440;7301
+9661;Avc_ou_ait;I64;7328
+9662;Hypercholesterolemie;E780;7328
+9663;Communication interauriculaire;Q211;7328
+9664;Obésité, sans précision;E669;7328
+9665;Tumeur bénigne de l'hypophyse;D352;7326
+9666;Obésité, sans précision;E669;7326
+9669;Hypertension essentielle (primitive);I10;7327
+9670;Apnée du sommeil;G473;7327
+9680;Avc_ou_ait;I64;7335
+9681;Hypertriglyceridemie;E781;7335
+9682;Insuffisance_renale;N189;7335
+9683;Maladie_neurologique;;7335
+9684;Épilepsie et syndromes épileptiques généralisés idiopathiques;G403;7335
+9685;Autres formes de lymphome diffus non hodgkinien;C838;7335
+9686;Hta;I10;7335
+9689;Accident ischémique cérébral transitoire, sans précision;G459;7339
+9703;Diabete_ii;E14;7346
+9704;Hta;I10;7346
+9705;Hypertension essentielle (primitive);I10;7348
+9706;Épisode dépressif léger;F320;7348
+9707;Obésité, sans précision;E669;7348
+9708;Infarctus (aigu) du myocarde sans précision, autres prises en charge;I2198;7349
+9709;Fibrillation et flutter auriculaires;I48;7349
+9710;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;7349
+9711;Hypercholestérolémie essentielle;E780;7349
+9712;Hypertension essentielle (primitive);I10;7349
+9713;Amnésie antérograde;R411;7349
+9714;Amaurose fugace;G453;7349
+9715;Occlusion et sténose de l'artère carotide;I652;7349
+9716;Pneumopathie bactérienne, sans précision;J159;7349
+9721;Autres ruptures spontanées de ligament(s) du genou;M236;7351
+9722;Reflux gastro-oesophagien (sans oesophagite);K219;7351
+9723;Phlébite et thrombophlébite des membres inférieurs, sans précision;I803;7351
+9724;Phlébite et thrombophlébite des membres inférieurs, sans précision;I803;7351
+9745;Hta;I10;7355
+9746;Bpco;J440;7355
+9747;NASH;K758;7355
+9783;Hta;I10;2198
+9784;Avc_ou_ait;I64;2198
+9785;Depression;F32;2198
+9786;Dissection de l'aorte [toute localisation];I710;7365
+9787;Hypertension essentielle (primitive);I10;7365
+9788;Autres polyarthrites rhumatoïdes précisées;M068;7365
+9789;Épisode dépressif léger;F320;7365
+9790;Hypercholestérolémie essentielle;E780;7365
+9791;Hypertension essentielle (primitive);I10;7366
+9792;Hypercholestérolémie essentielle;E780;7366
+9793;Auto-intoxication par l'alcool et exposition à l'alcool, lieu sans précision;X659;7366
+9794;Obésité, sans précision;E669;7366
+9801;Hypercholesterolemie;E780;2221
+9811;Cardiopathie ischémique (chronique), sans précision;I259;7369
+9812;cardiopathie valvulaire;;7369
+9813;rétrecissement mitral;;7369
+9814;rétrecissement aortique;;7369
+9815;Fibrillation et flutter auriculaires;I48;7369
+9816;thyroïdectomie ;;7369
+9817;Lymphome diffus non hodgkinien, sans précision;C839;7369
+9818;Dysthyroidie;E079;2226
+9819;Syndrome de Guillain-Barré;G610;7370
+9820;Goitre (non toxique), sans précision;E049;7370
+9821;Hypothyroïdie, sans précision;E039;7370
+9822;Hypertension essentielle (primitive);I10;7370
+9845;Hypertension essentielle (primitive);I10;7376
+9846;Arythmie cardiaque, sans précision;I499;7376
+9847;Polyarthropathie inflammatoire;M064;7376
+9848;Amaurose fugace;G453;7376
+9849;Fibrillation et flutter auriculaires;I48;7376
+9850;Athérosclérose cardio-vasculaire, décrite ainsi;I250;7376
+9851;Hypercholestérolémie essentielle;E780;7376
+9859;Hypertension essentielle (primitive);I10;7378
+9860;Angine de poitrine [angor] instable avec élévation des marqueurs biochimiques [enzymes] myocardiques;I200+0;7378
+9861;Pancréatite aiguë;K85;7378
+9862;Auto-intoxication par l'alcool et exposition à l'alcool, autres lieux précisés;X658;7378
+9863;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7378
+9864;Hypercholestérolémie essentielle;E780;7378
+9865;Athérosclérose généralisée et sans précision;I709;7378
+9866;Avc_ou_ait;I64;2312
+9867;Maladie_neurologique;;2312
+9868;Rgo;K219;2312
+9869;Séquelles de poliomyélite;B91;7379
+9870;Reflux gastro-oesophagien (sans oesophagite);K219;7379
+9871;Hypertension essentielle (primitive);I10;7379
+9872;Hypercholestérolémie essentielle;E780;7379
+9873;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7379
+9899;Trouble_du_rythme;I499;7392
+9900;Dysthyroidie;E079;7392
+9901;Fibrillation et flutter auriculaires;I48;7392
+9902;Glaucome (primitif) à angle ouvert;H401;7392
+9903;Dégénérescence de la macula et du pôle postérieur;H353;7392
+9904;Bpco;J440;7394
+9905;Hypercholesterolemie;E780;7394
+9906;Hta;I10;7394
+9908;Hta;I10;2324
+9909;Bpco;J440;2324
+9910;Rgo;K219;2324
+9915;Hypertension essentielle (primitive);I10;7400
+9916;Hypercholestérolémie essentielle;E780;7400
+9917;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7400
+9933;Hta;I10;7411
+9935;Avc_ou_ait;I64;7411
+9937;Maladie de Parkinson;G20;7411
+9938;Maladie_neurologique;;7411
+9939;Angine de poitrine [angor] instable avec élévation des marqueurs biochimiques [enzymes] myocardiques;I200+0;7411
+9940;Angine de poitrine [angor] instable avec élévation des marqueurs biochimiques [enzymes] myocardiques;I200+0;7411
+9941;Angine de poitrine [angor] instable avec élévation des marqueurs biochimiques [enzymes] myocardiques;I200+0;7411
+9942;Asthme;J45;7411
+9944;Hta;I10;7415
+9947;Diabete_ii;E14;7417
+9948;Glomérulopathie au cours d'autres maladies classées ailleurs;N088;7417
+9961;Autres diabètes sucrés précisés, avec complications non précisées;E138;5078
+9962;Hypertension essentielle (primitive);I10;5078
+9963;Hypercholestérolémie essentielle;E780;5078
+9964;Ulcère de l'estomac aigu, sans hémorragie ni perforation;K253;5078
+9965;Accident ischémique cérébral transitoire, sans précision;G459;5078
+9966;Accident ischémique cérébral transitoire, sans précision;G459;5078
+9967;Accident ischémique cérébral transitoire, sans précision;G459;5078
+9984;Épilepsie et syndromes épileptiques généralisés idiopathiques;G403;7425
+9985;Affection articulaire, sans précision - Articulations acromio-claviculaire, scapulo-humérale, et sterno-claviculaire;M2591;7425
+9986;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7425
+9987;Hypercholestérolémie essentielle;E780;7425
+9988;Communication interauriculaire;Q211;7425
+10014;Hta;I10;7429
+10033;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7337
+10034;Hypercholestérolémie essentielle;E780;7337
+10038;Dissection d'artères cérébrales, non rompue;I670;7348
+10039;Infarctus cérébral dû à une embolie des artères cérébrales;I634;7348
+10040;Accident ischémique cérébral transitoire, sans précision;G459;7349
+10041;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7351
+10054;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7365
+10055;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7366
+10059;Accident ischémique cérébral transitoire, sans précision;G459;7370
+10060;Hypercholestérolémie essentielle;E780;7370
+10067;Accident ischémique cérébral transitoire, sans précision;G459;7376
+10077;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7327
+10078;Hypercholestérolémie essentielle;E780;7327
+10081;Hta;I10;1234
+10082;Sas;G473;1234
+10101;Hernie inguinale, (unilatérale ou) sans précision(, sans occlusion ni gangrène);K409;7448
+10102;Tumeur lipomateuse bénigne de la peau et du tissu sous-cutané des membres;D172;7448
+10103;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7448
+10114;Diabète sucré de malnutrition, avec autres complications précisées;E126;7452
+10115;Hypertension essentielle (primitive);I10;7452
+10116;Hypercholestérolémie essentielle;E780;7452
+10117;Glaucome au cours de maladies endocriniennes, nutritionnelles et métaboliques;H420;7452
+10118;Autres rétinopathies et altérations vasculaires rétiniennes;H350;7452
+10119;Syndrome du canal carpien;G560;7452
+10120;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7452
+10121;Réaction anaphylactique des voies respiratoires supérieures, localisation non précisée;J393;7452
+10122;Réaction anaphylactique des voies respiratoires supérieures, localisation non précisée;J393;7452
+10126;Accident ischémique cérébral transitoire, sans précision;G459;7457
+10127;Anévrisme cérébral, (non rompu);I671;7457
+10128;Baisse de vision des deux yeux;H542;7457
+10152;Hypertension essentielle (primitive);I10;7467
+10153;Hypercholestérolémie essentielle;E780;7467
+10154;Sarcoïdose, sans précision;D869;7467
+10155;Épisode dépressif léger;F320;7467
+10156;Pyélonéphrite obstructive (chronique);N111;7467
+10157;Accident ischémique cérébral transitoire, sans précision;G459;7467
+10169;Hta;I10;7472
+10170;Dysthyroidie;E079;7472
+10204;Hypertension essentielle (primitive);I10;7494
+10212;Hypertension essentielle (primitive);I10;7496
+10213;Hernie hiatale congénitale;Q401;7496
+10214;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7496
+10215;Hypertension essentielle (primitive);I10;7496
+10216;Hypercholestérolémie essentielle;E780;7496
+10217;Hypertension intracrânienne bénigne;G932;7496
+10242;Hta;I10;7504
+10243;Icc;I501;7504
+10244;Insuffisance_coronaire;I251;7504
+10245;Diabete_ii;E14;7504
+10246;Insuffisance_renale;N189;7504
+10260;Hernie ombilicale, (sans occlusion ni gangrène);K429;7509
+10261;Communication interauriculaire;Q211;7509
+10262;Infarctus cérébral dû à une embolie des artères précérébrales;I631;7509
+10263;Hypercholestérolémie essentielle;E780;7509
+10297;Fibrillation et flutter auriculaires;I48;7518
+10298;Autres diabètes sucrés précisés, avec complications non précisées;E138;7518
+10299;Cardiopathie ischémique (chronique), sans précision;I259;7518
+10300;Insuffisance cardiaque, sans précision;I509;7518
+10301;Hypertension essentielle (primitive);I10;7518
+10302;Hypercholestérolémie essentielle;E780;7518
+10303;Obésité, sans précision;E669;7518
+10304;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7518
+10328;Affection de la prostate, sans précision;N429;7521
+10329;Appendicite, sans précision;K37;7521
+10330;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7521
+10331;Hypercholestérolémie essentielle;E780;7521
+10343;Maladie_neurologique;;2226
+10372;Hta;I10;7544
+10391;Hta;I10;1083
+10392;Asthme;J45;1083
+10393;Sas;G473;1083
+10394;Allergies;T784;1083
+10395;Hypercholesterolemie;E780;1083
+10396;Maladie_gastro_intestinale;;1083
+10398;Myopathie au cours d'autres maladies classées ailleurs;G737;7573
+10399;Hta;I10;7573
+10400;Asthme;J45;7573
+10401;Hypercholesterolemie;E780;7573
+10402;Maladie_neurologique;;7573
+10412;Fibrillation et flutter auriculaires;I48;7580
+10440;Hta;I10;1020
+10441;Trouble_du_rythme;I499;1020
+10442;Allergies;T784;1020
+10443;Hypercholesterolemie;E780;1020
+10444;Maladie_gastro_intestinale;;1020
+10445;Dysthyroidie;E079;1020
+10446;Depression;F32;1020
+10458;Sas;G473;7610
+10459;Diabete_ii;E14;7610
+10460;Hépatite (aiguë) B (sans agent delta et sans coma hépatique);B169;7610
+10461;Sas;G473;7612
+10464;Hypertension essentielle (primitive);I10;7623
+10465;Glaucome (primitif) à angle ouvert;H401;7623
+10466;Appendicite, sans précision;K37;7623
+10467;Psoriasis en goutte;L404;7623
+10468;Cholécystite aiguë;K810;7623
+10469;Infarctus cérébral dû à une occlusion ou sténose des artères précérébrales, de mécanisme non précisé;I632;7623
+10470;Hypercholestérolémie essentielle;E780;7623
+10471;Occlusion et sténose de l'artère carotide;I652;7623
+10486;Asthme;J45;7629
+10487;Hypercholesterolemie;E780;7629
+10488;Dysthyroidie;E079;7629
+10489;Depression;F32;7629
+10490;Embolie et thrombose d'autres veines précisées;I828;7629
+10521;Asthme;J45;1456
+10522;Allergies;T784;1456
+10547;Hta;I10;7654
+10548;Hta;I10;7655
+10549;Avc_ou_ait;I64;7655
+10550;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;7655
+10551;Communication interauriculaire;Q211;7655
+10565;Autres atteintes précisées des artères et artérioles;I778;7660
+10566;Diabète sucré non insulino-dépendant, avec complications non précisées;E118;7660
+10567;Hypertension essentielle (primitive);I10;7660
+10568;Hypercholestérolémie essentielle;E780;7660
+10569;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7660
+10570;Appendicite aiguë, sans précision;K359;7661
+10571;Thrombo-angéite oblitérante [Buerger];I731;7661
+10572;Autres atteintes précisées des artères et artérioles;I778;7661
+10573;Hypertension essentielle (primitive);I10;7661
+10574;Hypercholestérolémie essentielle;E780;7661
+10575;Obésité, sans précision;E669;7661
+10576;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7661
+10577;Cardiopathie ischémique (chronique), sans précision;I259;7662
+10578;Diabète sucré non insulino-dépendant, avec complications non précisées;E118;7662
+10579;Hypertension essentielle (primitive);I10;7662
+10580;Hypercholestérolémie essentielle;E780;7662
+10581;Pneumothorax spontané avec pression positive;J930;7662
+10582;Appendicite, sans précision;K37;7662
+10583;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7662
+10584;Occlusion et sténose de l'artère carotide;I652;7662
+10585;Tumeur maligne de la prostate;C61;7663
+10586;Hypertension essentielle (primitive);I10;7663
+10587;Accident ischémique cérébral transitoire, sans précision;G459;7663
+10592;Hta;I10;7665
+10593;Avc_ou_ait;I64;7665
+10594;Glaucome;H40;7665
+10597;Hta;I10;7666
+10598;Diabete_ii;E14;7666
+10599;Hypercholesterolemie;E780;7666
+10609;Cardiopathie ischémique (chronique), sans précision;I259;7676
+10610;Diabète sucré non insulino-dépendant, avec complications non précisées;E118;7676
+10611;Cataracte, sans précision;H269;7676
+10612;Insuffisance cardiaque congestive;I500;7676
+10613;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7676
+10614;Hypercholestérolémie essentielle;E780;7676
+10615;Psoriasis, sans précision;L409;7677
+10616;Hypercholestérolémie essentielle;E780;7677
+10617;Infarctus cérébral dû à une embolie des artères cérébrales;I634;7677
+10619;Icc;I501;386
+10628;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7680
+10629;Occlusion et sténose de l'artère carotide;I652;7680
+10630;Hypercholestérolémie essentielle;E780;7680
+10631;Hypertension essentielle (primitive);I10;7680
+10632;Cataracte incipiente sénile;H250;7680
+10633;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7681
+10634;Hypertension essentielle (primitive);I10;7681
+10635;Hypercholestérolémie essentielle;E780;7681
+10636;Migraine avec aura [migraine classique];G431;7681
+10649;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7684
+10650;Hypertension essentielle (primitive);I10;7684
+10651;Hypercholestérolémie essentielle;E780;7684
+10652;Autres formes de cardiopathie ischémique chronique;I258;7684
+10653;Atteinte de la valvule aortique (non rhumatismale), sans précision;I359;7684
+10654;Athérosclérose des artères distales;I702;7684
+10660;Mastocytose;Q822;7687
+10661;Antécédents personnels d'allergie à la pénicilline;Z880;7687
+10676;Hta;I10;7702
+10677;Diabete_ii;E14;7702
+10678;Dissection de l'aorte [toute localisation];I710;7702
+10697;Hta;I10;7722
+10698;Idm;I219;7722
+10699;Avc_ou_ait;I64;7722
+10700;Hypercholesterolemie;E780;7722
+10701;Présence d'une autre valvule cardiaque de remplacement;Z954;7722
+10702;Asthme;J45;7722
+10703;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;7722
+10704;Présence d'un pontage aorto-coronaire;Z951;7722
+10706;Hta;I10;7726
+10707;Avc_ou_ait;I64;7726
+10708;Asthme;J45;7726
+10709;Hypercholesterolemie;E780;7726
+10715;Avc_ou_ait;I64;7730
+10716;Trouble_du_rythme;I499;7730
+10723;Avc_ou_ait;I64;7737
+10724;Sas;G473;7737
+10725;Communication interauriculaire;Q211;7737
+10732;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7744
+10733;Occlusion et sténose de l'artère carotide;I652;7744
+10734;Hypercholestérolémie essentielle;E780;7744
+10741;Hypertension essentielle (primitive);I10;7746
+10742;Hypercholestérolémie essentielle;E780;7746
+10743;Oesophagite;K20;7746
+10744;Accident ischémique cérébral transitoire, sans précision;G459;7746
+10751;Hypertension essentielle (primitive);I10;7750
+10752;Autres affections précisées de la thyroïde;E078;7750
+10753;Hypercholestérolémie essentielle;E780;7750
+10754;Autres infarctus cérébraux;I638;7750
+10755;Accident ischémique cérébral transitoire, sans précision;G459;7747
+10756;Glaucome au cours d'autres maladies classées ailleurs;H428;7747
+10757;Fibrillation et flutter auriculaires;I48;7747
+10758;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7747
+10760;Ecd_insuffisance_cardiaque;I509;589
+10785;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7777
+10786;Fibrillation et flutter auriculaires;I48;7777
+10787;Cardiopathie ischémique (chronique), sans précision;I259;7777
+10788;Atteinte des artères et artérioles, sans précision;I779;7777
+10789;Hypertension essentielle (primitive);I10;7777
+10790;Hypercholestérolémie essentielle;E780;7777
+10799;Diabète sucré non insulino-dépendant, avec complications non précisées;E118;7780
+10800;Hypercholestérolémie essentielle;E780;7780
+10801;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7780
+10802;Hypertension essentielle (primitive);I10;7780
+10803;Hta;I10;7781
+10804;Idm;I219;7781
+10805;Icc;I501;7781
+10806;Diabete_ii;E14;7781
+10807;Insuffisance_renale;N189;7781
+10813;Hypertension essentielle (primitive);I10;7783
+10814;Amaurose fugace;G453;7783
+10815;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7783
+10816;Hypercholestérolémie essentielle;E780;7783
+10828;Hta;I10;1792
+10829;Bpco;J440;1792
+10830;Diabete_ii;E14;1792
+10833;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7787
+10834;Hypothyroïdie, sans précision;E039;7787
+10835;Hypercholestérolémie essentielle;E780;7787
+10836;Hypertension essentielle (primitive);I10;7787
+10851;Hypertension essentielle (primitive);I10;7749
+10852;Hypercholestérolémie essentielle;E780;7749
+10853;Diabète sucré non insulino-dépendant, avec complications non précisées;E118;7749
+10854;Apnée du sommeil;G473;7749
+10855;Accident ischémique cérébral transitoire, sans précision;G459;7749
+10860;Fracture du crâne et des os de la face, partie non précisée;S029;7792
+10861;Hypercholestérolémie essentielle;E780;7792
+10862;Infarctus cérébral dû à une embolie des artères précérébrales;I631;7792
+10863;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7793
+10864;Communication interauriculaire;Q211;7793
+10865;Anévrisme du coeur;I253;7793
+10874;Icc;I501;531
+10875;Trouble_du_rythme;I499;531
+10876;Obésité extrême avec hypoventilation alvéolaire;E662;7798
+10877;Paralysie du diaphragme;J9860;7798
+10878;Hta;I10;7798
+10879;Insuffisance_respiratoire;J96101;7798
+10886;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7801
+10887;Fibrillation et flutter auriculaires;I48;7801
+10888;Diabète sucré non insulino-dépendant, avec complications non précisées;E118;7801
+10889;Hypercholestérolémie essentielle;E780;7801
+10897;Rgo;K219;7805
+10898;Polype des fosses nasales;J330;7805
+10899;spondylodiscarthrose thoracique;;7805
+10900;nodule pulmonaire;;7805
+10915;Idm;I219;7811
+10916;Inflammation de la plèvre;R091;7810
+10917;Hernie inguinale, (unilatérale ou) sans précision(, sans occlusion ni gangrène);K409;7810
+10918;Athérosclérose cérébrale;I672;7810
+10919;Insuffisance_respiratoire;J96101;7810
+10920;Bpco;J440;7810
+10921;Hta;I10;7811
+10922;Dépendance envers un respirateur;Z991;7810
+10923;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;7810
+10924;Grippe avec pneumopathie, virus grippal identifié;J100;7810
+10931;Maladie_pulmonaire_restrictive;J96111;7826
+10932;Diabete_i;E10;7826
+10933;transplantation pulmonaire;;7826
+10945;Hypertension essentielle (primitive);I10;7841
+10946;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7841
+10947;Obésité, sans précision;E669;7841
+10948;Hypercholestérolémie essentielle;E780;7841
+10949;Fibrillation et flutter auriculaires;I48;7841
+10953;Hypertension essentielle (primitive);I10;7843
+10954;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7843
+10955;Hypercholestérolémie essentielle;E780;7843
+10956;Infarctus (aigu) du myocarde, sans précision;I219;7844
+10957;Infarctus (aigu) du myocarde, sans précision;I219;7844
+10958;Hypercholestérolémie essentielle;E780;7844
+10959;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7844
+10960;Anomalie d'un septum cardiaque, acquise;I510;7844
+10961;Thrombose intracardiaque, non classée ailleurs;I513;7844
+10962;Occlusion et sténose de l'artère carotide;I652;7844
+10963;Insuffisance cardiaque congestive;I500;7844
+10964;Icc;I501;7845
+10965;Trouble_du_rythme;I499;7845
+10966;Hypertrophie_ventricule_g;I517;7845
+10967;Avc_ou_ait;I64;7847
+10968;Hypercholesterolemie;E780;7847
+10989;Idm;I219;7851
+10990;Insuffisance_coronaire;I251;7851
+10991;Dysthyroidie;E079;7851
+10992;Depression;F32;7851
+10993;Mélanome (malin) de la peau, sans précision;C439;7852
+10994;Diabète sucré non insulino-dépendant, avec complications non précisées;E118;7852
+10995;Hypertension essentielle (primitive);I10;7852
+10996;Thrombose de l'oreillette, de l'auricule et du ventricule comme complication récente d'un infarctus aigu du myocarde;I236;7852
+10997;Tremblement essentiel;G250;7852
+10998;Diabète sucré non insulino-dépendant, avec complications non précisées;E118;7853
+10999;Cardiopathie ischémique (chronique), sans précision;I259;7853
+11000;Athérosclérose des artères distales;I702;7853
+11001;Hypertension essentielle (primitive);I10;7853
+11002;Hypercholestérolémie essentielle;E780;7853
+11003;Névralgie et névrite, sans précision - Bras;M7922;7853
+11042;Hta;I10;7870
+11043;Sas;G473;7870
+11051;Hta;I10;7877
+11052;Hypercholestérolémie essentielle;E780;7878
+11053;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7878
+11054;Occlusion et sténose de l'artère carotide;I652;7878
+11063;Infarctus (aigu) du myocarde, sans précision;I219;7880
+11064;Arthrose interépineuse - Région cervicale;M4822;7880
+11065;Cataracte incipiente sénile;H250;7880
+11066;Hypertension essentielle (primitive);I10;7880
+11067;Hypercholestérolémie essentielle;E780;7880
+11068;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7880
+11069;Polyarthrite rhumatoïde avec atteinte d'autres organes et appareils;M053;7880
+11083;Hta;I10;7888
+11084;Diabete_ii;E14;7889
+11085;Diabete_i;E10;7889
+11089;Hta;I10;7890
+11095;Sinusite sphénoïdale aiguë;J013;7893
+11096;Bronchopneumopathie, sans précision;J180;7893
+11097;Hypertension essentielle (primitive);I10;7893
+11098;Hypothyroïdie, sans précision;E039;7893
+11099;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7893
+11100;Insuffisance rénale chronique, sans précision;N189;7893
+11118;Maladie_gastro_intestinale;;7898
+11119;Depression;F32;7898
+11120;Sas;G473;7898
+11124;Sas;G473;7907
+11141;Paludisme, sans précision;B54;7914
+11142;Pelade, sans précision;L639;7914
+11143;Prééclampsie modérée;O140;7914
+11144;Infarctus cérébral dû à une embolie des artères cérébrales;I634;7914
+11145;Lésion traumatique de la carotide;S150;7914
+11146;Dissection d'artères cérébrales, non rompue;I670;7914
+11158;Hypertension essentielle (primitive);I10;7923
+11159;Hypercholestérolémie essentielle;E780;7923
+11160;Méningite tuberculeuse (G01*);A170;7923
+11161;Glaucome, sans précision;H409;7923
+11162;Accident ischémique cérébral transitoire, sans précision;G459;7923
+11209;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7932
+11210;Occlusion et sténose de l'artère carotide;I652;7932
+11211;Hypercholestérolémie essentielle;E780;7932
+11226;Hta;I10;946
+11227;Sas;G473;946
+11228;Allergies;T784;946
+11229;Depression;F32;946
+11230;Hta;I10;1155
+11232;Hta;I10;7936
+11241;Arteriopathie;I702;1094
+11242;Sas;G473;1094
+11243;Hypercholesterolemie;E780;1094
+11244;Hypertriglyceridemie;E781;1094
+11245;Carcinome in situ d'organes génitaux de l'homme, autres et non précisés;D076;7945
+11246;Diabète sucré non insulino-dépendant, avec complications non précisées;E118;7945
+11247;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7945
+11248;Hypercholestérolémie essentielle;E780;7945
+11249;Diabète sucré non insulino-dépendant, avec complications non précisées;E118;7946
+11250;Épisode dépressif, sans précision;F329;7946
+11251;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7946
+11252;Hypercholestérolémie essentielle;E780;7946
+11253;Anomalie de la coagulation, sans précision;D689;7946
+11278;Hypertension essentielle (primitive);I10;7953
+11279;Hypercholestérolémie essentielle;E780;7953
+11280;Infarctus (aigu) du myocarde, sans précision;I219;7953
+11281;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7953
+11282;Épisode dépressif, sans précision;F329;7953
+11322;Rhinite;J304;1516
+11323;Diabete_ii;E14;1516
+11324;Hypercholesterolemie;E780;1516
+11325;Hypertriglyceridemie;E781;1516
+11326;Maladie_gastro_intestinale;;1516
+11327;Rgo;K219;1516
+11328;Pathologie_maligne;;1516
+11329;Hypercholesterolemie;E780;2027
+11330;Trouble_du_rythme;I499;7983
+11331;Idm;I219;7983
+11332;Occlusion et sténose de l'artère carotide;I652;7984
+11333;Hépatite chronique persistante, non classée ailleurs;K730;7984
+11334;Hta;I10;7984
+11335;Trouble_du_rythme;I499;7984
+11336;Insuffisance_coronaire;I251;7984
+11337;Diabete_ii;E14;7984
+11338;Apnée du sommeil;G473;7984
+11339;Asthme associé;J458;7985
+11341;Trouble_du_rythme;I499;7988
+11342;Rgo;K219;7988
+11343;Atteintes des valvules mitrale et tricuspide (rhumatismales);I081;7988
+11354;Apnée du sommeil;G473;8008
+11364;Hypertension essentielle (primitive);I10;7751
+11365;Diabète sucré non insulino-dépendant, avec complications non précisées;E118;7751
+11366;Carcinome in situ de la prostate;D075;7751
+11367;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7751
+11368;Fibrillation et flutter auriculaires;I48;7751
+11371;Infarctus (aigu) du myocarde sans précision, autres prises en charge;I2198;7752
+11372;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7752
+11373;Infarctus (aigu) du myocarde, sans précision;I219;7753
+11374;Hypercholestérolémie essentielle;E780;7753
+11375;Obésité, sans précision;E669;7753
+11376;Infarctus cérébral dû à une occlusion ou sténose des artères précérébrales, de mécanisme non précisé;I632;7753
+11377;Fibrillation et flutter auriculaires;I48;7753
+11378;Anomalies du métabolisme des acides aminés soufrés;E721;7753
+11388;Hypertension essentielle (primitive);I10;7756
+11389;Hernie inguinale, (unilatérale ou) sans précision(, sans occlusion ni gangrène);K409;7756
+11390;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;7756
+11391;Hypercholestérolémie essentielle;E780;7756
+11403;Carcinome in situ de la prostate;D075;8000
+11404;Hypertension essentielle (primitive);I10;8000
+11405;Cataracte, sans précision;H269;8000
+11406;Carcinome in situ de la peau, sans précision;D049;8000
+11407;Épisode dépressif, sans précision;F329;8000
+11408;Ulcère de l'estomac aigu, sans hémorragie ni perforation;K253;8000
+11409;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;8000
+11437;Hypothyroïdie, sans précision;E039;8005
+11438;Migraine sans aura [migraine commune];G430;8005
+11439;Surdité de transmission, sans précision;H902;8005
+11440;Accident ischémique cérébral transitoire, sans précision;G459;8005
+11441;Hypercholestérolémie essentielle;E780;8005
+11451;Hypertension essentielle (primitive);I10;8007
+11452;Obésité, sans précision;E669;8007
+11453;Diabète sucré non insulino-dépendant, avec complications non précisées;E118;8007
+11454;Hypercholestérolémie essentielle;E780;8007
+11455;Apnée du sommeil;G473;8007
+11456;Infarctus cérébral dû à une occlusion ou sténose des artères cérébrales, de mécanisme non précisé;I635;8007
+11462;by pass;;8027
+11463;Chirurgie Bariatrique non précisée;Z9884;8027
+11468;Hta;I10;1362
+11469;Hypercholesterolemie;E780;1362
+11472;Hta;I10;8038
+11473;Rgo;K219;8038
+11474;Obesité class III;E6601;8041
+11475;Chirurgie Bariatrique non précisée;Z9884;8041
+11479;Autres arthropathies psoriasiques (L40.5);M073;8049
+11480;Psoriasis, sans précision;L409;8049
+11515;Spondylarthrite ankylosante;M45;8075
+11516;Hta;I10;8075
+11517;Sas;G473;8075
+11518;Diabete_ii;E14;8075
+11519;Dysthyroidie;E079;8075
+11526;Hta;I10;8081
+11527;Syndrome post-laminectomie, non classé ailleurs;M961;8082
+11528;Autres spondylarthroses avec myélopathie - Région cervicale;M4712;8082
+11529;Maladie_neurologique;;8082
+11530;Dysthyroidie;E079;8082
+11531;Bpco;J440;8085
+11532;Depression;F32;8085
+11534;Fibromyalgie;M797;8085
+11535;Maladie de la vésicule biliaire, sans précision;K829;8085
+11544;Diabete_i;E10;8091
+11545;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8094
+11546;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8094
+11547;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8094
+11548;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8094
+11549;Dorsalgie, sans précision;M549;8094
+11560;Diabete_ii;E14;8100
+11562;Hta;I10;2200
+11579;Hta;I10;833
+11580;Diabete_ii;E14;833
+11604;glaucome;;8130
+11605;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8130
+11606;Asthme, sans précision;J459;8130
+11611;Hta;I10;8140
+11612;Hypertrophie_ventricule_g;I517;8140
+11614;Hypercholesterolemie;E780;8140
+11615;Affection des voies optiques, sans précision;H477;8140
+11616;Hta;I10;8144
+11617;Thyréotoxicose avec goitre diffus;E050;8144
+11618;Infections à Echinococcus, autres et sans précision;B679;8144
+11619;Maladie de la rate, sans précision;D739;8144
+11657;Hta;I10;7442
+11658;Bpco;J440;7442
+11659;Allergies;T784;7442
+11660;Dysthyroidie;E079;7442
+11661;Depression;F32;7442
+11662;Autres ostéoporoses;M818;7442
+11663;Lucite polymorphe;L564;7442
+11664;Douleur articulaire;M255;7442
+11665;Syndrome de Gougerot-Sjögren;M350;7442
+11666;Hématurie récidivante et persistante, sans précision;N029;7442
+11667;Effet indésirable d'un médicament, sans précision;T887;7442
+11668;Ulcère de l'estomac chronique, sans hémorragie ni perforation;K257;7442
+11669;Athérosclérose cérébrale;I672;7442
+11670;Cardiopathie artérioscléreuse;I251;7442
+11680;Hta;I10;8172
+11681;Trouble_du_rythme;I499;8172
+11682;Hta;I10;8173
+11683;Trouble_du_rythme;I499;8173
+11692;Hta;I10;8175
+11693;Hypercholesterolemie;E780;8175
+11703;Hta;I10;566
+11704;Hypercholesterolemie;E780;566
+11705;Maladie_gastro_intestinale;;566
+11726;Asthme;J45;8199
+11727;Sas;G473;8199
+11734;Appendicite, sans précision;K37;8203
+11735;Maladie alcoolique du foie, sans précision;K709;8203
+11736;Trouble anxieux et dépressif mixte;F412;8203
+11737;Malnutrition protéino-énergétique, sans précision;E46;8203
+11738;Athérosclérose des artères distales;I702;8203
+11739;Stérilisation;Z302;8203
+11740;Pneumopathie due à Mycoplasma pneumoniae;J157;8203
+11741;Antécédents personnels d'abus de substances psycho-actives;Z864;8203
+11742;Auto-intoxication par des analgésiques, antipyrétiques et antirhumatismaux non opiacés et exposition à ces produits, autres lieux précisés;X608;8203
+11743;Bpco;J440;8203
+11753;Diabete_ii;E14;8209
+11754;Hypertension essentielle (primitive);I10;8209
+11755;Hypercholesterolemie;E780;8209
+11756;Insuffisance_coronaire;I251;8209
+11779;Obesité class III;E6601;7417
+11780;Hta;I10;812
+11781;Avc_ou_ait;I64;812
+11782;Insuffisance_respiratoire;J96101;812
+11786;Présence d'un stimulateur cardiaque;Z950;8220
+11787;Affection de la prostate, sans précision;N429;8220
+11788;Anomalie du métabolisme des lipoprotéines, sans précision;E789;8220
+11789;Hta;I10;8220
+11790;Bpco;J440;8220
+11791;Diabete_ii;E14;8220
+11792;Inflammation de la plèvre;R091;8220
+11796;Hta;I10;1124
+11797;Idm;I219;1124
+11798;Diabete_ii;E14;1124
+11799;Obesité class III;E6601;8227
+11800;Hta;I10;8228
+11801;Idm;I219;8228
+11802;Diabete_ii;E14;8228
+11863;Bpco;J440;8256
+11865;Hta;I10;8262
+11866;Idm;I219;8262
+11867;Sas;G473;8262
+11870;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8268
+11871;Bpco;J440;8268
+11873;Pancréatite aiguë;K85;8268
+11874;Ablation d'un autre organe (partielle) (totale) à l'origine de réactions anormales du patient ou de complications ultérieures, sans mention d'accident au cours de l'intervention;Y836;8268
+11875;Présence d'arthrodèse;Z981;8268
+11876;Arthrose interépineuse;M482;8268
+11877;Sas;G473;8268
+11892;Hta;I10;8289
+11893;Bpco;J440;8289
+11894;Hypercholesterolemie;E780;8289
+11909;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8296
+11910;Bpco;J440;8296
+11937;Insuffisance_respiratoire;J96101;8315
+11938;Sas;G473;8315
+11950;Idm;I219;8321
+11951;Insuffisance_coronaire;I251;8321
+11952;Hypercholesterolemie;E780;8321
+11953;Hypertriglyceridemie;E781;8321
+11954;Maladie_gastro_intestinale;;8321
+11955;Rgo;K219;8321
+11956;Depression;F32;8321
+11962;Hta;I10;8325
+11963;Bpco;J440;8325
+11964;Hypercholesterolemie;E780;8325
+11965;Icc;I501;8321
+11978;Hta;I10;8348
+11979;Avc_ou_ait;I64;8348
+11980;Bpco;J440;8348
+11981;Hypercholesterolemie;E780;8348
+11982;Insuffisance_coronaire;I251;8361
+11983;Hypercholesterolemie;E780;8361
+11986;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8366
+11987;Bpco;J440;8366
+11988;Bpco;J440;8367
+11989;Fibrillation et flutter auriculaires;I48;8371
+11990;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8372
+11991;Hta;I10;8372
+11992;Idm;I219;8372
+11993;Bpco;J440;8372
+11994;Hypercholesterolemie;E780;8372
+11999;Hta;I10;8380
+12000;Avc_ou_ait;I64;8380
+12001;Trouble_du_rythme;I499;8380
+12002;Maladie_pulmonaire_restrictive;J96111;8380
+12003;Sas;G473;8380
+12004;Diabete_ii;E14;8380
+12005;Hypercholesterolemie;E780;8380
+12006;Rgo;K219;8380
+12030;Cataracte, sans précision;H269;8220
+12044;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8427
+12045;Bpco;J440;8427
+12046;Hypertension essentielle (primitive);I10;8430
+12050;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;8438
+12051;Bpco;J440;8438
+12060;Asthme à prédominance allergique;J450;8443
+12061;Hypertension essentielle (primitive);I10;8443
+12062;Hyperlipidémie, sans précision;E785;8443
+12068;Insuffisance_coronaire;I251;8453
+12069;Hypercholesterolemie;E780;8453
+12075;Hta;I10;8460
+12076;Idm;I219;8460
+12077;Bpco;J440;8460
+12078;Pathologie_maligne;;8460
+12079;Bpco;J440;8464
+12080;Hypercholesterolemie;E780;8464
+12118;Maladie_neurologique;;8488
+12121;Insuffisance_coronaire;I251;8493
+12122;Hypercholesterolemie;E780;8493
+12123;Hypertriglyceridemie;E781;8493
+12124;Idm;I219;8493
+12128;Hta;I10;8497
+12129;Trouble_du_rythme;I499;8497
+12130;Diabete_ii;E14;8497
+12131;Hta;I10;8499
+12132;Idm;I219;8499
+12133;Insuffisance_coronaire;I251;8499
+12134;Avc_ou_ait;I64;8499
+12135;Allergies;T784;8499
+12136;Diabete_ii;E14;8499
+12141;Bpco;J440;8510
+12145;Bpco;J440;8483
+12146;Bpco;J440;5217
+12147;Hypercholesterolemie;E780;5217
+12153;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8524
+12154;Hta;I10;8524
+12155;Bpco;J440;8524
+12156;Hypercholesterolemie;E780;8524
+12168;Hta;I10;8533
+12169;Bpco;J440;8533
+12170;Hypercholesterolemie;E780;8533
+12176;Idm;I219;8548
+12177;Bpco;J440;8548
+12178;Hypercholesterolemie;E780;8548
+12179;Insuffisance_coronaire;I251;8550
+12180;Rhinite;J304;8550
+12181;Sas;G473;8550
+12182;Hta;I10;8551
+12183;Avc_ou_ait;I64;8551
+12184;Hypercholesterolemie;E780;8551
+12207;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8572
+12208;Autres myocardiopathies;I428;8572
+12209;Fibrillation et flutter auriculaires;I48;8572
+12210;Bpco;J440;8572
+12211;Hypercholesterolemie;E780;8572
+12212;pace maker;;8572
+12221;Fibrillation et flutter auriculaires;I48;8579
+12222;Asthme associé;J458;8579
+12223;Allergie, sans précision;T784;8579
+12227;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;8580
+12228;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;8580
+12229;Autres strabismes précisés;H508;8580
+12230;Bpco;J440;8580
+12231;Diabete_ii;E14;8580
+12232;Hypercholesterolemie;E780;8580
+12253;Reflux gastro-oesophagien avec oesophagite;K210;8600
+12259;Hta;I10;8601
+12260;Sas;G473;8601
+12301;Migraine avec aura [migraine classique];G431;8627
+12304;Trouble_du_rythme;I499;8633
+12312;Hta;I10;1445
+12313;Insuffisance_coronaire;I251;1445
+12314;Diabete_ii;E14;1445
+12316;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8641
+12317;Tuberculose pulmonaire, (sans mention de confirmation bactériologique ou histologique);A162;8641
+12318;Hta;I10;8641
+12319;Bpco;J440;8641
+12320;Pathologie_maligne;;8641
+12321;Sas;G473;8642
+12327;j441;;8648
+12328;Hta;I10;8648
+12329;Bpco;J440;8648
+12330;Hypercholesterolemie;E780;8648
+12331;Hta;I10;8651
+12332;Idm;I219;8651
+12333;Bpco;J440;8651
+12334;Hypercholesterolemie;E780;8651
+12335;Bpco;J440;8658
+12346;Hta;I10;8665
+12347;Bpco;J440;8665
+12360;Hta;I10;8675
+12361;Diabete_ii;E14;8675
+12365;Apnée du sommeil;G473;8677
+12368;Hta;I10;8690
+12369;Avc_ou_ait;I64;8690
+12370;Hypercholesterolemie;E780;8690
+12371;Maladie_psychiatrique;;8690
+12372;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;8690
+12397;Hta;I10;8703
+12398;Avc_ou_ait;I64;8703
+12408;Bpco;J440;8707
+12445;Hta;I10;8743
+12461;Idm;I219;8760
+12462;Bpco;J440;8760
+12463;Hypercholesterolemie;E780;8760
+12478;Autres méningites virales;A878;8777
+12479;Maladie de l'appendice, sans précision;K389;8777
+12480;Tuberculose pulmonaire, (sans mention de confirmation bactériologique ou histologique);A162;8777
+12481;Psoriasis, sans précision;L409;8777
+12482;Pyélonéphrite (non obstructive chronique) associée à un reflux;N110;8777
+12483;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8777
+12484;Bpco;J440;8777
+12494;Polype de l'estomac et du duodénum;K317;8786
+12495;Hyperuricémie sans signes d'arthrite inflammatoire et de maladie tophacée;E790;8786
+12496;Ulcère de l'estomac aigu, sans hémorragie ni perforation;K253;8786
+12497;Bpco;J440;8786
+12498;Hypercholesterolemie;E780;8786
+12506;Hta;I10;8796
+12507;Insuffisance_coronaire;I251;8796
+12508;Hypertension essentielle (primitive);I10;8797
+12509;Antécédents familiaux de diabète sucré;Z833;8797
+12513;Bpco;J440;1124
+12526;Idm;I219;8818
+12527;Bpco;J440;8818
+12528;Diabete_ii;E14;8818
+12529;Hypercholesterolemie;E780;8818
+12533;Bpco;J440;8586
+12534;Bpco;J440;8829
+12575;Hypercholesterolemie;E780;8867
+12576;Hypertension essentielle (primitive);I10;8866
+12577;Hta;I10;8868
+12578;Idm;I219;8868
+12579;Bpco;J440;8868
+12583;Obesité class III;E6601;8871
+12587;Hta;I10;572
+12594;Insuffisance respiratoire chronique;J961;8882
+12595;Autres affections du système nerveux périphérique;G64;8882
+12596;Dépendance envers un respirateur;Z991;8882
+12597;Malnutrition protéino-énergétique, sans précision;E46;8882
+12598;Résultats anormaux d'imagerie diagnostique du poumon;R91;8882
+12599;Pneumopathie, sans précision;J189;8882
+12600;Pancréatite aiguë;K85;8882
+12601;Maladie alcoolique du foie, sans précision;K709;8882
+12602;Hernie abdominale non précisée, (sans occlusion ni gangrène);K469;8882
+12603;Hernie diaphragmatique, (sans occlusion ni gangrène);K449;8882
+12604;Présence d'implants d'articulations orthopédiques;Z966;8882
+12605;Fracture du pied, sans précision;S929;8882
+12606;Affection des dents et du parodonte, sans précision;K089;8882
+12607;Lésion traumatique des tendons de la coiffe des rotateurs de l'épaule;S460;8882
+12608;Troubles mentaux et du comportement liés à l'utilisation d'alcool : syndrome de dépendance;F102;8882
+12609;Pancréatite chronique alcoolique;K860;8882
+12610;Hta;I10;8882
+12611;Bpco;J440;8882
+12612;Diabete_ii;E14;8882
+12613;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8884
+12614;Hta;I10;8884
+12615;Bpco;J440;8884
+12616;Diabete_ii;E14;8884
+12617;Hypercholesterolemie;E780;8884
+12618;Hta;I10;1101
+12619;Sas;G473;1101
+12620;Allergies;T784;1101
+12623;Maladie pulmonaire obstructive chronique avec infection aiguë des voies respiratoires inférieures;J440;8898
+12633;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8903
+12634;Bpco;J440;8903
+12655;Hta;I10;8918
+12656;Bpco;J440;8918
+12657;Diabete_ii;E14;8918
+12658;Hypercholesterolemie;E780;8918
+12699;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8950
+12700;Bpco;J440;8950
+12728;Hta;I10;8985
+12729;Insuffisance_respiratoire;J96101;8985
+12730;Sas;G473;8985
+12731;Bpco;J440;8221
+12732;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;8986
+12733;Bpco;J440;8986
+12734;Cardiopathie, sans précision;I519;8221
+12741;Pathologie_maligne;;5530
+12742;Autres hépatites chroniques, non classées ailleurs;K738;9002
+12766;Apnée du sommeil;G473;9044
+12767;Idm;I219;9046
+12768;Icc;I501;9046
+12769;Fibrillation et flutter auriculaires;I48;9047
+12773;Thyréotoxicose avec goitre diffus;E050;9047
+12783;Hta;I10;9050
+12784;Avc_ou_ait;I64;9050
+12785;Rhinite;J304;9050
+12786;Autres hémorragies intracérébrales;I618;9050
+12787;Occlusion et sténose de l'artère carotide;I652;9050
+12788;Antécédents personnels d'intervention chirurgicale importante, non classée ailleurs;Z924;9050
+12789;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;9058
+12790;Hta;I10;9058
+12791;Bpco;J440;9058
+12792;Fibrillation et flutter auriculaires;I48;9056
+12793;Pneumopathie au cours d'autres maladies classées ailleurs;J178;9056
+12794;Hta;I10;1045
+12795;Avc_ou_ait;I64;1045
+12796;Sas;G473;1045
+12797;Diabete_ii;E14;1045
+12798;Hypercholesterolemie;E780;1045
+12799;Maladie_neurologique;;1045
+12800;Maladie_gastro_intestinale;;1045
+12830;Hta;I10;9091
+12831;Diabete_ii;E14;9091
+12845;Hta;I10;1164
+12846;Sas;G473;1164
+12847;Maladie_psychiatrique;;1164
+12848;Rgo;K219;1164
+12861;Hta;I10;975
+12862;Diabète sucré, sans précision, avec complications non précisées;E148;9101
+12864;Sciatique;M543;9101
+12865;Hta;I10;671
+12866;Avc_ou_ait;I64;671
+12867;Diabete_ii;E14;671
+12868;Hypertriglyceridemie;E781;671
+12869;Hta;I10;9105
+12870;Diabete_ii;E14;9105
+12892;Hta;I10;972
+12893;Avc_ou_ait;I64;972
+12894;Diabete_ii;E14;972
+12895;Hypercholesterolemie;E780;972
+12896;Depression;F32;972
+12905;Hta;I10;911
+12906;Idm;I219;911
+12907;Icc;I501;911
+12908;Trouble_du_rythme;I499;911
+12909;Diabete_ii;E14;911
+12910;Hypercholesterolemie;E780;911
+12911;Depression;F32;911
+12918;Insomnie non organique;F510;2096
+12919;Hta;I10;9142
+12920;Obesité class III;E6601;9142
+12922;Maladie_gastro_intestinale;;9144
+12928;Maladie_psychiatrique;;9148
+12950;Trouble_du_rythme;I499;9151
+12951;Insuffisance_coronaire;I251;9151
+12952;Bpco;J440;9151
+12953;Icc;I501;9151
+12962;Affection des dents et du parodonte, sans précision;K089;9156
+12963;Thrombose coronaire n'entraînant pas un infarctus du myocarde;I240;9156
+12964;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;9157
+12965;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;9157
+12966;Insuffisance_respiratoire;J96101;9157
+12967;Bpco;J440;9157
+12978;Diabete_ii;E14;9171
+12979;Icc;I501;1375
+12980;Trouble_du_rythme;I499;1375
+12981;Gammapathie monoclonale;D472;9170
+12982;Myélome multiple;C900;9170
+12983;Syndrome du canal carpien;G560;9170
+12984;Affection (non inflammatoire) de l'utérus, sans précision;N859;9170
+12985;Hernie inguinale, (unilatérale ou) sans précision(, sans occlusion ni gangrène);K409;9170
+12986;Effet indésirable d'un médicament, sans précision;T887;9170
+12987;Ptosis de la paupière;H024;9170
+12988;Affections inflammatoires du sein;N61;9170
+12989;Trouble anxieux et dépressif mixte;F412;9170
+12990;Pyonéphrose;N136;9170
+12991;Absence acquise d'organe(s) génital(aux);Z907;9170
+12992;Asthme, sans précision;J459;9170
+12993;Tumeur bénigne des méninges, sans précision;D329;9170
+12994;Fracture du col du fémur;S720;9170
+12995;Phlébite et thrombophlébite d'autres localisations;I808;9170
+12996;Cataracte, sans précision;H269;9170
+12997;Cataracte, sans précision;H269;9170
+12998;Bpco;J440;9170
+13002;Maladie osseuse, sans précision;M899;9170
+13004;Hypercholesterolemie;E780;9178
+13005;Névralgie amyotrophique;G545;9178
+13022;Hta;I10;9190
+13023;Insuffisance_coronaire;I251;9190
+13024;Insuffisance_respiratoire;J96101;9190
+13025;Asthme;J45;9190
+13026;Rhinite;J304;9190
+13027;Diabete_ii;E14;9190
+13028;Insuffisance_renale;N189;9190
+13035;Bpco;J440;9194
+13036;Diabete_ii;E14;9194
+13037;Maladie_gastro_intestinale;;9194
+13041;Maladie_pulmonaire_restrictive;J96111;1196
+13057;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;9177
+13060;Hta;I10;185
+13061;Idm;I219;185
+13062;Icc;I501;185
+13063;Insuffisance_coronaire;I251;185
+13065;Fracture du col du fémur;S720;9203
+13066;Autres troubles anxieux mixtes;F413;9204
+13073;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;9203
+13074;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;9203
+13075;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;9203
+13076;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;9203
+13077;Maladie pulmonaire obstructive chronique avec épisodes aigus, sans précision;J441;9203
+13078;Hypertension essentielle (primitive);I10;9203
+13079;Avc_ou_ait;I64;9207
+13080;Hypercholesterolemie;E780;9207
+13081;Hta;I10;9207
+13082;Allergies;T784;9207
+13083;Sas;G473;9207
+13084;Embolie pulmonaire, (sans mention de coeur pulmonaire aigu);I269;9207
+13085;Arteriopathie;I702;9207
+13097;Ulcère du duodénum non précisé comme étant aigu ou chronique, sans hémorragie ni perforation;K269;9202
+13098;Zona (sans complication);B029;9202
+13099;Hta;I10;9202
+13100;Avc_ou_ait;I64;9202
+13101;Bpco;J440;9202
+13110;Lésion traumatique intracrânienne, sans précision;S069;9218
+13128;Diabete_ii;E14;449
+13129;Hypertriglyceridemie;E781;449
+13130;Maladie_neurologique;;449
+13131;Maladie_gastro_intestinale;;449
+13132;Hta;I10;9238
+13133;Bpco;J440;9238
+13134;Sas;G473;9238
+13135;Diabete_ii;E14;9238
+13136;Rgo;K219;9238
+13137;Antécédents personnels d'autres tumeurs;Z860;9238
+13138;Présence d'arthrodèse;Z981;9238
+13139;Hyperplasie de la prostate;N40;9238
+13140;Incontinence urinaire, sans précision;R32;9238
+13141;Maladie de la vésicule biliaire, sans précision;K829;9238
+13142;Anomalie du métabolisme des lipoprotéines, sans précision;E789;9238
+13143;Hémoptysie;R042;9238
+13144;Fracture d'une vertèbre lombaire;S320;9238
+13145;Lombalgie basse;M545;9238
+13150;Bpco;J440;9136
+13162;Trouble_du_rythme;I499;9252
+13163;Apnée du sommeil;G473;9252
+13168;Trouble_du_rythme;I499;9255
+13176;Fibromyalgie;M797;9260
+13182;Avc_ou_ait;I64;1659
+13183;Hypercholesterolemie;E780;1659
+13184;Arthrose, sans précision;M199;9274
+13185;Autres infestations par arthropodes;B882;9274
+13186;Endocardite infectieuse (aiguë et subaiguë);I330;9275
+13187;Tumeur maligne de la prostate;C61;9275
+13189;Hta;I10;9282
+13190;Diabete_ii;E14;9282
+13222;Hta;I10;514
+13232;Idm;I219;9313
+13233;Hypercholesterolemie;E780;9314
+13234;Depression;F32;9314
+13242;Hta;I10;1250
+13243;Sas;G473;1250
+13244;Allergies;T784;1250
+13245;Hta;I10;620
+13246;Trouble_du_rythme;I499;620
+13247;Depression;F32;620
+13248;Obesité class III;E6601;2929
+13250;Sleeve gastrectomy;Z9884.1;6084
+13254;Pancréatite aiguë;K85;9314
+13260;Chirurgie Bariatrique non précisée;Z9884;9341
+13265;Insuffisance_coronaire;I251;757
+13292;Hta;I10;15
+13293;Diabete_ii;E14;15
+13294;Rgo;K219;15
+13301;Allergies;T784;291
+13302;Hypercholesterolemie;E780;1127
+13303;Hypertriglyceridemie;E781;1127
+13304;Pathologie_maligne;;1127
+13305;Hta;I10;455
+13306;Icc;I501;455
+13307;Diabete_ii;E14;455
+13308;Hta;I10;2237
+13309;Sas;G473;2237
+13310;Diabete_ii;E14;989
+13311;Hypercholesterolemie;E780;989
+13344;Hta;I10;1029
+13345;Avc_ou_ait;I64;1029
+13346;Asthme;J45;1029
+13347;Rhinite;J304;1029
+13348;Allergies;T784;1029
+13349;Diabete_ii;E14;1029
+13360;Hta;I10;854
+13361;Icc;I501;854
+13362;Avc_ou_ait;I64;854
+13363;Diabete_ii;E14;854
+13364;Maladie_neurologique;;854
+13365;Glaucome;H40;854
+13367;Hta;I10;1097
+13368;Sas;G473;1097
+13369;Diabete_ii;E14;1097
+13370;Hypercholesterolemie;E780;1097
+13371;Hypertriglyceridemie;E781;1097
+13372;Dysthyroidie;E079;1097
+13373;Diabete_i;E10;9392
+13383;Icc;I501;228
+13384;Insuffisance_coronaire;I251;228
+13385;Hyperuricemie;E79;228
+13386;Hta;I10;1227
+13387;Sas;G473;1227
+13388;Allergies;T784;1227
+13389;Hyperuricemie;E79;1227
+13390;Dysthyroidie;E079;1227
+13421;Dysthyroidie;E079;1507
+13434;Hta;I10;1581
+13435;Diabete_ii;E14;1581
+13438;Sas;G473;1091
+13439;Depression;F32;1091
+13440;Maladie_psychiatrique;;1184
+13441;Maladie_gastro_intestinale;;1184
+13442;Dysthyroidie;E079;1184
+13447;Pneumothorax traumatique;S270;2807
+13448;Autres troubles affectifs bipolaires;F318;2807
+13449;Sas;G473;2807
+13450;Maladie_psychiatrique;;2807
+13451;Depression;F32;2807
+13461;Tumeur maligne de la langue, sans précision;C029;9408
+13463;Hta;I10;1961
+13479;Sas;G473;463
+13480;Maladie_gastro_intestinale;;463
+13481;Rgo;K219;463
+13482;Hta;I10;1161
+13483;Arteriopathie;I702;1161
+13484;Insuffisance_coronaire;I251;1161
+13485;Bpco;J440;1161
+13486;Diabete_ii;E14;1161
+13487;Hypercholesterolemie;E780;1161
+13496;Insuffisance_renale;N189;3831
+13503;Sas;G473;2616
+13504;Hta;I10;564
+13505;Icc;I501;564
+13506;Trouble_du_rythme;I499;564
+13507;Diabete_ii;E14;564
+13508;Hta;I10;569
+13509;Diabete_ii;E14;569
+13510;Hypercholesterolemie;E780;569
+13511;Depression;F32;569
+13512;Hta;I10;7204
+13513;Rgo;K219;7204
+13516;Insuffisance_coronaire;I251;2654
+13522;Hta;I10;1185
+13523;Sas;G473;1185
+13524;Allergies;T784;1185
+13525;Hypertriglyceridemie;E781;1185
+13526;Maladie_psychiatrique;;1185
+13527;Dysthyroidie;E079;1185
+13528;Hta;I10;1690
+13529;Hypercholesterolemie;E780;1690
+13530;Syndrome du canal carpien;G560;9443
+13537;Hta;I10;949
+13538;Trouble_du_rythme;I499;949
+13539;Insuffisance_coronaire;I251;949
+13540;Sas;G473;949
+13541;Allergies;T784;949
+13542;Diabete_ii;E14;949
+13543;Hypercholesterolemie;E780;949
+13544;Hypertriglyceridemie;E781;949
+13545;Insuffisance_renale;N189;949
+13546;Glaucome;H40;949
+13547;Hta;I10;1232
+13548;Trouble_du_rythme;I499;1232
+13549;Sas;G473;1232
+13550;Diabete_ii;E14;1232
+13551;Hta;I10;1525
+13552;Hypertrophie_ventricule_g;I517;1525
+13553;Sas;G473;1525
+13554;Hypertriglyceridemie;E781;1525
+13557;Hta;I10;991
+13558;Diabete_ii;E14;991
+13563;Sas;G473;1064
+13564;Maladie_neurologique;;1064
+13565;Gastric by-pass;Z9884.2;9457
+13570;Hta;I10;1175
+13571;Sas;G473;1175
+13572;Allergies;T784;1175
+13573;Maladie_psychiatrique;;1175
+13574;Hta;I10;1183
+13575;Idm;I219;1183
+13576;Icc;I501;1183
+13577;Insuffisance_coronaire;I251;1183
+13578;Sas;G473;1183
+13579;Diabete_ii;E14;1183
+13580;Hyperuricemie;E79;1183
+13581;Pathologie_maligne;;1183
+13582;Hta;I10;1688
+13583;Asthme;J45;1971
+13584;Rhinite;J304;1971
+13585;Rgo;K219;1971
+13586;Asthme;J45;1763
+13588;Trouble_du_rythme;I499;172
+13589;Arteriopathie;I702;172
+13590;Diabete_ii;E14;172
+13591;Maladie_gastro_intestinale;;172
+13592;Depression;F32;172
+13593;Hta;I10;188
+13594;Insuffisance_coronaire;I251;188
+13595;Bpco;J440;188
+13600;Maladie_gastro_intestinale;;350
+13601;Pathologie_maligne;;350
+13602;Dysthyroidie;E079;350
+13603;Asthme;J45;941
+13604;Rhinite;J304;941
+13605;Rgo;K219;941
+13606;Hypercholesterolemie;E780;1911
+13607;Hta;I10;953
+13608;Sas;G473;953
+13609;Sas;G473;1189
+13610;Hta;I10;1191
+13611;Avc_ou_ait;I64;1191
+13612;Sas;G473;1191
+13613;Hta;I10;1524
+13614;Sas;G473;1524
+13615;Sas;G473;1526
+13616;Diabete_ii;E14;1526
+13617;Maladie_gastro_intestinale;;1526
+13618;Maladie_gastro_intestinale;;932
+13619;Hta;I10;963
+13620;Sas;G473;963
+13621;Hypercholesterolemie;E780;963
+13622;Hta;I10;1104
+13623;Avc_ou_ait;I64;1104
+13624;Insuffisance_coronaire;I251;1104
+13625;Sas;G473;1104
+13626;Diabete_ii;E14;1104
+13627;Hypercholesterolemie;E780;1104
+13628;Maladie_neurologique;;1104
+13629;Hta;I10;1085
+13630;Sas;G473;1085
+13631;Hta;I10;1156
+13632;Sas;G473;1156
+13633;Diabete_ii;E14;1156
+13634;Hypercholesterolemie;E780;1156
+13635;Hypertriglyceridemie;E781;1156
+13636;Depression;F32;1156
+13641;Maladie_psychiatrique;;2077
+13642;Maladie_gastro_intestinale;;2077
+13643;Depression;F32;2077
+13644;Hta;I10;2134
+13645;Diabete_ii;E14;2134
+13646;Bpco;J440;2268
+13647;Rgo;K219;2268
+13648;Dysthyroidie;E079;2268
+13649;Depression;F32;2268
+13650;Hta;I10;1765
+13651;Avc_ou_ait;I64;1765
+13652;Diabete_ii;E14;1765
+13653;Insuffisance_renale;N189;1765
+13654;Avc_ou_ait;I64;1787
+13655;Sas;G473;1787
+13656;Hypercholesterolemie;E780;1787
+13657;Maladie_gastro_intestinale;;1787
+13658;Hta;I10;1074
+13659;Sas;G473;1074
+13660;Diabete_ii;E14;1074
+13661;Maladie_psychiatrique;;561
+13677;Sas;G473;1900
+13678;Hta;I10;1093
+13679;Arteriopathie;I702;1093
+13680;Sas;G473;1093
+13681;Hypercholesterolemie;E780;1093
+13685;Hta;I10;1904
+13686;Trouble_du_rythme;I499;1904
+13687;Hypertrophie_ventricule_g;I517;1904
+13688;Sas;G473;1528
+13689;Hta;I10;1314
+13690;Sas;G473;1314
+13691;Sas;G473;1159
+13692;Diabete_ii;E14;1159
+13693;Hypercholesterolemie;E780;1159
+13694;Dysthyroidie;E079;1159
+13698;Hta;I10;2138
+13699;Avc_ou_ait;I64;2138
+13700;Depression;F32;2138
+13701;Rgo;K219;1878
+13714;Fibrillation et flutter auriculaires;I48;9489
+13715;Présence d'un stimulateur cardiaque;Z950;9489
+13716;Hypertrophie_ventricule_g;I517;9489
+13724;Maladie_pulmonaire_restrictive;J96111;9491
+13725;Maladie_neurologique;;9491
+13726;Maladie_psychiatrique;;9491
+13727;Maladie_gastro_intestinale;;9491
+13728;Rgo;K219;9491
+13729;Depression;F32;9491
+13731;Épilepsie et syndromes épileptiques généralisés idiopathiques;G403;9496
+13739;Apnée du sommeil;G473;9505
+13740;greffe pulmonaire;;9506
+13741;Avc_ou_ait;I64;9506
+13742;Trouble_du_rythme;I499;9506
+13743;Sas;G473;9506
+13744;Rgo;K219;9506
+13745;Depression;F32;9506
+13750;Maladie_pulmonaire_restrictive;J96111;9506
+13751;Insuffisance_respiratoire;J96101;9506
+13752;Bpco;J440;9506
+13761;Accident ischémique cérébral transitoire, sans précision;G459;9494
+13763;Diabete_ii;E14;9518
+13769;Chirurgie Bariatrique non précisée;Z9884;9528
+13770;Intervention chirurgicale avec implantation d'une prothèse interne à l'origine de réactions anormales du patient ou de complications ultérieures, sans mention d'accident au cours de l'intervention;Y831;9528
+13780;Diabete_ii;E14;9547
+13781;Hypercholesterolemie;E780;9547
+13782;Présence d'un implant d'assistance hémodynamique;Z95.811;9548
+13783;Présence d'implants d'articulations orthopédiques;Z966;9558
+13784;Hta;I10;9560
+13785;Insuffisance_coronaire;I251;9560
+13786;Hypercholesterolemie;E780;9560
+13802;Chirurgie Bariatrique non précisée;Z9884;9568
+13805;Hta;I10;888
+13806;Avc_ou_ait;I64;888
+13818;Avc_ou_ait;I64;9578
+13819;Accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus;I64;9578
+13820;Hta;I10;9578
+13821;Hypercholesterolemie;E780;9578
+13822;Diabete_ii;E14;9578
+13831;Hta;I10;1041
+13832;Avc_ou_ait;I64;1041
+13833;Trouble_du_rythme;I499;1041
+13834;Sas;G473;1041
+13835;Hypercholesterolemie;E780;1041
+13836;Glaucome;H40;1041
+13844;Autres affections des racines et des plexus nerveux;G548;9594
+13845;Diverticulose du côlon, (sans perforation ni abcès);K573;9596
+13879;Oedème angioneurotique;T783;9615
+13903;Bpco;J440;9624
+13942;Rhinite;J304;7687
+13943;Allergies;T784;7687
+13988;Hta;I10;2182
+13990;Bpco;J440;2182
+14002;Hernie inguinale, (unilatérale ou) sans précision(, sans occlusion ni gangrène);K409;2182
+14003;Présence d'autres implants et greffes cardiaques et vasculaires;Z958;2182
+14004;Hématurie, sans précision;R31;2182
+14011;gynecomastie;;9729
+14026;Asthme;J45;765
+14027;Rhinite;J304;765
+14031;dt2;;9751
+14032;hta;;9751
+14033;trouble du rythme;;9751
+14034;ins renale;;9751
+14035;depression;;9751
+14083;Antécédents personnels d'allergie à un AINS;Z8891;9787
+14089;Icc;I501;5869
+14111;Sevrage d'alcool;Z502;9829
+14147;Fracture de la diaphyse du tibia;S822;9787
+14148;Ostéomyélite, sans précision - Cheville et pied;M8697;9787
+14149;Ostéomyélite, sans précision - Cheville et pied;M8697;9787
+14150;Tumeur maligne de la peau du tronc;C445;9787
+14151;Vertige bénin paroxystique;H811;9857
+14153;Maladie de Crohn, sans précision;K509;9865
+14196;Céphalée;R51;9897
+14197;Hta;I10;9897
+14198;Bpco;J440;9897
+14199;Hypercholesterolemie;E780;9897
+14254;Présence d'implant et de greffe cardiaques et vasculaires, sans précision;Z959;9924
+14257;Hta;I10;9931
+14258;Sas;G473;9931
+14277;Diabète sucré non insulino-dépendant, sans complication;E119;9946
+14278;Endocardite aiguë, sans précision;I339;9947
+14285;Gonarthrose, sans précision;M179;9950
+14286;Hta;I10;9950
+14287;Bpco;J440;9950
+14288;Sas;G473;9950
+14289;Hypercholesterolemie;E780;9950
+14296;Goutte, sans précision;M109;9951
+14297;Autres affections non inflammatoires précisées du vagin;N898;9951
+14298;Tumeur maligne de la vessie, sans précision;C679;9950
+14317;Céphalée dite de tension;G442;2182
+14318;Grippe avec d'autres manifestations respiratoires, virus non identifié;J111;2182
+14319;Arteriopathie;I702;2182
+14320;Antécédents personnels d'intervention chirurgicale importante, non classée ailleurs;Z924;2182
+14321;Antécédents personnels d'intervention chirurgicale importante, non classée ailleurs;Z924;2182
+14322;Hyperplasie de la prostate;N40;2182
+14323;Fracture fermée du gros orteil;S9240;2182
+14324;Apnée du sommeil;G473;9713
+14364;Autre goutte secondaire;M104;9976
+14366;Sleeve gastrectomy;Z9884.1;9983
+14381;Sas;G473;9897
+14448;OMARTHROSE;;10065
+14455;Infarctus (aigu) du myocarde, sans précision;I219;10067
+14456;Fibrillation et flutter auriculaires;I48;10067
+14457;Apnée du sommeil;G473;10067
+14458;Apnée du sommeil;G473;10069

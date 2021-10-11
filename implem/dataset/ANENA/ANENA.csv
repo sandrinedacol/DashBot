@@ -1,0 +1,455 @@
+date,time,city,massif,site,altitude,slope,orientation,group,swept_away,submerged_head,submerged_total,submerged_partial,dead,injured,unharmed,activity,movement,BRA,snow_quality,snow_cohesion,start_type,start_cause,downhill,fracture_width,fracture_thickness
+12/02/2014,15:50,le grand bornand,aravis,mont lachat de chatillon,1975,40-44,SE,3,2,0,0,1,0,1,1,off-piste,descent,3,wet,hard,linear,self,225,15,30
+15/01/2015,15:10,tignes,haute tarentaise,couloir lac chardonnet,2550,>45,NE,2,1,1,1,0,0,1,0,off-piste,descent,3,wet,hard,linear,self,200,40,150
+20/01/2013,13:50,auris en oisans,grandes rousses,signal de l'homme,1790,35-39,SO,6,3,3,3,0,0,1,2,off-piste,descent,3,wet,hard,linear,self,60,30,20
+29/01/2012,15:55,chamonix,mont blanc,couloir cosmique/la para,2300,,NO,4,1,1,1,,1,0,0,off-piste,descent,2,wet,hard,linear,self,1000,100,30
+31/03/2015,12:28,tignes,haute tarentaise,couloir chardonnet,2550,30-34,NE,2,1,1,1,0,0,1,0,off-piste,descent,4,wet,hard,linear,self,150,200,80
+08/02/2015,11:55,cordon,aravis,croise baulet couloir nant d'enfer,1930,30-34,O,2,1,0,0,1,0,1,0,back-country,descent,2,wet,hard,linear,self,410,20,30
+16/04/2017,09:55,crots,embrunais parpaillon,gros ferrant,2270,40-44,N,2,2,0,0,0,0,1,1,back-country,descent,2,wet,hard,linear,self,420,100,
+02/05/2013,10:25,pralognan,vanoise,grands couloirs grande casse,3530,>45,O,4,3,1,1,,1,2,0,mountaineering,ascent,,wet,hard,linear,self,500,350,50
+12/02/2017,13:45,stosswhir,hohneck,couloir en Y,1300,>45,N,4,2,0,0,,0,1,1,mountaineering,ascent,,wet,hard,linear,self,120,20,40
+22/02/2015,13:15,saint honoré,oisans,combe de la mouche,1950,30-34,O,4,4,2,1,3,1,2,1,back-country,ascent,3,wet,hard,linear,self,300,80,20
+29/03/2014,14:00,la vigerie,lioran,puy bataillouse,1540,40-44,N,1,1,0,0,,0,1,0,back-country,ascent,,wet,hard,linear,self,50,20,25
+29/04/2014,11:30,modane,haute maurienne,couloir sud aiguille peclet,3490,35-39,S,6,4,0,0,4,0,4,0,back-country,ascent,2,wet,hard,linear,self,110,70,100
+15/09/2015,11:45,pelvoux,pelvoux,dome de neige des Ecrins,3965,40-44,N,8,8,5,1,,7,1,0,mountaineering,traverse,,wet,hard,linear,self,220,250,200
+30/01/2013,11:30,sainte marie de cuines,maurienne,crête de la raverotte,2000,30-34,NO,4,2,0,0,,0,2,0,back-country,traverse,,wet,hard,linear,self,600,40,50
+26/01/2014,16:10,tignes,haute tarentaise,palet droite Tichat,2400,30-34,SE,2,1,1,1,0,0,1,0,off-piste,stop,3,dry,hard,linear,self,10,15,50
+01/03/2018,09:05,pralognan la vanoise,vanoise,couloir de l'eau,1890,30-34,SO,2,1,0,0,0,0,1,0,mining,stop,2,dry,hard,linear,self,60,20,15
+13/03/2018,09:20,alpe d'huez,grandes rousses,combe 3000 pic blanc,3300,35-39,S,2,2,0,0,,0,2,0,minage,stop,,dry,hard,linear,self,200,200,40
+01/04/2015,14:45,pelvoux,pelvoux,col emile pic,3420,>45,SE,14,12,6,4,,3,2,7,back-country,stop,,dry,hard,linear,self,360,200,350
+20/02/2013,10:00,valloire,maurienne,camp des rochilles,2510,30-34,O,22,2,1,1,,1,0,1,military training,descent,,dry,hard,linear,self,110,20,60
+03/04/2011,11:30,risoul,embrunnais,les côtes du lièvre,2400,,NO,2,1,1,,,0,1,0,off-piste,descent,4,dry,hard,linear,self,,,
+05/03/2013,16:15,valloire,maurienne,combe des granges,,35-39,NO,2,2,1,1,,0,2,0,off-piste,descent,,dry,hard,linear,self,,,
+05/03/2015,,chatel,chablais,secteur piste rennes,,,,1,1,0,0,,0,1,0,off-piste,descent,,dry,hard,linear,self,,,
+06/03/2013,11:30,tignes,haute tarentaise,couloir bois de la laye,2200,35-39,N,2,2,2,1,1,2,0,0,off-piste,descent,3,dry,hard,linear,self,360,100,80
+08/02/2013,10:55,chamonix,mont blanc,brévent nant pcheu,2280,35-39,SE,1,1,1,1,0,1,0,0,off-piste,descent,2,dry,hard,linear,self,1000,150,80
+09/02/2015,16:00,le grand bornand,aravis,piste noire lachat piste rouge lanche,,,,4,4,0,0,,0,2,2,off-piste,descent,,dry,hard,linear,self,,,
+12/03/2017,13:55,guillestre,embrunais parpaillon,crête de razis,,,N,3,1,0,0,,0,1,0,off-piste,descent,2,dry,hard,linear,self,200,30,50
+12/03/2018,12:15,la salle les alpes,pelvoux,rochers de l'enfer / serre chevalier,2300,40-44,N,3,1,1,1,0,0,1,0,off-piste,descent,3,dry,hard,linear,self,100,80,95
+12/12/2012,12:55,tignes,haute tarentaise,pente barthelemy aiguille percee,2750,35-39,NO,7,4,2,1,1,0,3,1,off-piste,descent,4,dry,hard,linear,self,250,70,100
+13/02/2018,14:45,gavarnie,haute bigorre,piste gypaete / pic de la Pahule,2120,35-39,N,1,1,1,1,0,1,0,0,off-piste,descent,3,dry,hard,linear,self,100,8,30
+13/10/2013,12:10,tignes,haute tarentaise,pointe de la grande motte,3665,35-39,NE,5,2,0,0,,0,0,2,off-piste,descent,,dry,hard,linear,self,300,100,60
+15/04/2014,13:15,val isere,haute tarentaise,ruisseau du pisset,2375,35-39,NO,7,2,0,0,1,0,1,1,off-piste,descent,2,dry,hard,linear,self,250,125,100
+18/01/2016,15:05,tignes,haute tarentaise,couloir des gendarmes,2600,35-39,NE,4,1,0,0,0,0,1,0,off-piste,descent,3,dry,hard,linear,self,300,60,50
+19/04/2016,13:05,tignes,haute tarentaise,rocher de la grande balme,2880,40-44,N,4,1,0,0,1,0,1,0,off-piste,descent,2,dry,hard,linear,self,280,40,80
+21/01/2015,09:55,puy saint vincent,pelvoux,couloir des faveyrettes,2350,35-39,NO,2,2,1,0,2,2,0,0,off-piste,descent,3,dry,hard,linear,self,400,15,100
+21/03/2011,12:40,lanslebourg,haute maurienne,,2530,,NE,2,2,0,,,0,0,2,off-piste,descent,3,dry,hard,linear,self,180,40,60
+22/03/2013,12:45,samoens,chablais,couloir pas de la latte,2000,40-44,NO,2,1,0,0,0,0,1,0,off-piste,descent,3,dry,hard,linear,self,300,25,70
+26/01/2014,10:10,st etienne tinee,mercantour,Auron sous telesiege dôme,2300,35-39,E,2,1,1,1,0,1,0,0,off-piste,descent,3,dry,hard,linear,self,350,30,20
+26/01/2014,14:40,auris,grandes rousses,combe des girauds,2000,30-34,S,2,2,2,2,0,2,0,0,off-piste,descent,3,dry,hard,linear,self,250,120,60
+26/12/2012,15:30,molines en queyras,queyras,chateau renard couloir NE,2865,>45,N,1,1,0,0,1,1,0,0,off-piste,descent,3,dry,hard,linear,self,620,100,60
+26/12/2013,11:00,aime,vanoise,dos des frasses,2245,35-39,N,2,1,1,1,0,1,0,0,off-piste,descent,3,dry,hard,linear,self,145,,125
+28/12/2014,11:40,saint etienne de tinee,mercantour,secteur cimetière des dames,2300,40-44,NE,3,1,1,1,0,1,0,0,off-piste,descent,2,dry,hard,linear,self,225,15,30
+03/04/2011,13:00,bessans,haute maurienne,vallon oney - ouille arbéron,2500,35-39,NO,8,4,0,,0,0,1,3,back-country,descent,3,dry,hard,linear,self,,,
+05/01/2014,17:30,les houches,mont blanc,couloir vogealle,2175,35-39,NO,2,1,0,0,1,0,1,0,back-country,descent,3,dry,hard,linear,self,400,20,80
+06/02/2012,15:30,la morte,oisans,pas de la mine,2400,30-34,NO,2,1,1,1,0,0,1,0,back-country,descent,3,dry,hard,linear,self,100,80,30
+08/12/2017,15:15,saint véran,queyras,pointe des marcelettes,2550,35-39,NO,2,1,0,0,,0,1,0,back-country,descent,,dry,hard,linear,self,200,30,40
+09/01/2018,13:30,cauterets,haute bigorre,cascade ilhéou,1790,30-34,N,2,1,0,0,1,0,1,0,back-country,descent,3,dry,hard,linear,self,60,,30
+12/02/2014,14:50,la léchère,beaufortin,pointe du dzonfié,2340,30-34,SO,2,1,1,1,0,0,1,0,back-country,descent,3,dry,hard,linear,self,170,160,120
+12/02/2017,08:30,praz sur arly,mont blanc,secteur Véry,2250,35-39,NO,1,1,1,1,0,1,0,0,back-country,descent,2,dry,hard,linear,self,375,150,150
+13/04/2013,10:00,orcieres,champsaur,mourre froid,2500,30-34,NO,1,1,0,0,1,0,0,1,back-country,descent,3,dry,hard,linear,self,200,60,70
+13/04/2013,13:00,orcieres,champsaur,mourre froid,2750,30-34,N,2,2,1,1,1,1,0,1,back-country,descent,3,dry,hard,linear,self,250,200,40
+16/02/2015,,cervières,queyras,col perdu,2550,35-39,NO,2,2,2,2,0,2,0,0,back-country,descent,3,dry,hard,linear,self,200,70,70
+18/03/2011,14:00,ceillac,queyras,ravin clausis,2300,30-34,N,2,1,1,,0,1,0,0,back-country,descent,4,dry,hard,linear,self,50,90,50
+20/01/2017,14:30,sainte foy tarentaise,haute-tarentaise,col de l'argentiere archeboc,2150,35-39,NO,3,1,1,1,0,1,0,0,back-country,descent,2,dry,hard,linear,self,130,200,50
+21/03/2011,12:54,ste foy tarentaise,haute tarentaise,pointe de l'argentière,2750,35-39,NO,10,2,2,,0,0,1,1,back-country,descent,3,dry,hard,linear,self,400,80,60
+21/12/2010,13:20,chamonix,chablais,combe d'encrenaz,2300,40-44,SE,3,1,1,,0,0,0,1,back-country,descent,3,dry,hard,linear,self,400,20,40
+22/12/2014,12:35,modane,vanoise,lac de chavière,3100,35-39,SE,5,2,1,1,1,1,0,1,back-country,descent,2,dry,hard,linear,self,300,25,100
+24/01/2015,11:40,ceillac,queyras,combe du bachas,2770,35-39,NE,6,6,6,6,0,6,0,0,back-country,descent,3,dry,hard,linear,self,450,200,80
+24/03/2012,11:30,saint veran,queyras,pas de la cula,2980,35-39,NO,7,1,0,0,0,0,1,0,back-country,descent,2,dry,hard,linear,self,50,80,80
+24/12/2014,,les contamines montjoie,mont blanc,glacier armancette,3400,35-39,O,2,2,0,0,2,2,0,0,back-country,descent,2,dry,hard,linear,self,1800,300,30
+26/02/2011,11:30,montricher albanne,maurienne,col du pertuite grande chible,2500,30-34,NE,2,1,0,,0,0,0,1,back-country,descent,2,dry,hard,linear,self,50,100,70
+27/02/2016,10:15,chamonix,mont blanc,lac du brévent,2100,30-34,SO,1,1,1,1,0,1,0,0,back-country,descent,3,dry,hard,linear,self,100,75,
+27/02/2016,11:10,la clusaz,aravis,combe de la grande forclaz,1980,35-39,NO,3,1,1,1,,0,0,1,back-country,descent,,dry,hard,linear,self,90,30,40
+27/12/2016,15:10,cervières,queyras,petit peygu face nord est,2570,35-39,NE,5,5,0,0,0,0,3,2,back-country,descent,3,dry,hard,linear,self,,40,30
+30/01/2016,09:57,la clusaz,aravis,combe du grand crêt / tête pelouse,2500,40-44,NO,2,1,1,1,0,1,0,0,back-country,descent,2,dry,hard,linear,self,440,150,150
+30/12/2017,13:10,porta,capcir puymorens,pic dels pedrons,2610,40-44,SE,4,4,0,0,4,0,0,4,back-country,descent,4,dry,hard,linear,self,130,100,120
+09/05/2017,11:00,bonneval sur arc,haute maurienne,col du greffier couloir,2990,>45,NO,3,3,0,0,,3,0,0,mountaineering,ascent,,dry,hard,linear,self,350,40,100
+26/10/2013,13:30,pralognan,vanoise,passage de rosoire,3450,>45,O,2,2,0,0,,0,1,1,mountaineering,ascent,,dry,hard,linear,self,150,100,80
+30/10/2012,11:55,chamonix,mont blanc,aiguille marbrée,3500,30-34,SE,2,2,0,0,,0,1,1,mountaineering,ascent,,dry,hard,linear,self,250,15,15
+27/12/2013,14:50,la salle les alpes,pelvoux,cucumelle,2150,40-44,NE,1,1,1,1,0,1,0,0,off-piste,ascent,3,dry,hard,linear,self,15,50,50
+03/03/2018,14:05,le grand bornand,aravis,refuge gramusset,1800,40-44,SE,6,6,0,0,6,0,0,6,back-country,ascent,3,dry,hard,linear,self,40,,
+04/03/2018,10:45,saint agnès,belledonne,lac de crop,2000,40-44,NO,2,2,1,1,,0,1,1,back-country,ascent,,dry,hard,linear,self,60,40,60
+05/02/2012,12:55,glandage,vercors,jocou,1680,30-34,S,3,2,1,1,1,1,1,0,back-country,ascent,2,dry,hard,linear,self,140,40,100
+09/01/2014,12:30,valloire,maurienne,crête de lachat,2840,40-44,NO,3,3,0,0,0,0,2,1,back-country,ascent,3,dry,hard,linear,self,290,,
+13/12/2012,12:45,saint christophe sur guiers,chartreuse,col de léchaud,1680,30-34,NO,2,2,2,2,,1,1,0,back-country,ascent,,dry,hard,linear,self,100,90,
+16/02/2012,14:45,saint paul s/ ubaye,ubaye,col girardin crête observatoire,2800,30-34,SO,4,1,0,0,0,0,1,0,back-country,ascent,3,dry,hard,linear,self,300,400,40
+16/05/2011,09:35,orelle,vanoise,col de gebroulaz,3434,30-34,E,1,1,0,,,0,0,1,back-country,ascent,,dry,hard,linear,self,150,200,
+17/02/2012,08:25,saint pierre de chartreuse,chartreuse,combe bovinant,1774,35-39,O,1,1,1,1,0,0,1,0,back-country,ascent,3,dry,hard,linear,self,165,25,40
+17/02/2012,14:05,vaujany,grandes rousses,rissiou,2050,35-39,SE,4,1,1,1,0,0,1,0,back-country,ascent,3,dry,hard,linear,self,30,40,100
+17/03/2011,15:15,chamonix,mont blanc,plan de l'aiguille torrent de blaitiere,2230,35-39,N,5,1,0,,0,0,1,0,back-country,ascent,3,dry,hard,linear,self,450,40,40
+18/12/2014,09:20,tignes,haute tarentaise,grattalu / aiguillette,2747,>45,SE,11,4,1,1,3,0,1,3,back-country,ascent,3,dry,hard,linear,self,,,
+23/01/2015,12:50,valloire,thabor,pointe des cerces face nord,2980,35-39,NE,2,1,1,1,0,1,0,0,back-country,ascent,3,dry,hard,linear,self,530,250,100
+26/12/2010,10:55,le reposoir,aravis,col de l'encrenaz,1950,30-34,S,3,1,1,,0,0,1,0,back-country,ascent,3,dry,hard,linear,self,30,15,20
+28/01/2015,12:20,villards de lans,vercors,combe chaulange,1870,35-39,SO,18,3,1,1,2,1,0,2,back-country,ascent,2,dry,hard,linear,self,170,200,250
+13/02/2017,10:35,tignes,haute-tarentaise,pentes du lavachet,2450,40-44,NO,4,4,4,4,0,4,0,0,off-piste,traverse,3,dry,hard,linear,self,330,50,100
+26/12/2013,14:20,monetier,pelvoux,cucumelle,2565,35-39,SO,2,2,0,0,1,0,2,0,off-piste,traverse,4,dry,hard,linear,self,350,120,60
+08/02/2015,11:20,le vernet,ubaye,sommet grisonniere,1910,35-39,NO,4,1,0,0,1,1,0,0,back-country,traverse,3,dry,hard,linear,self,360,50,30
+16/02/2017,11:00,lanslevillard,haute maurienne,secteur pas de l'arcelle,2450,35-39,NE,9,5,0,0,5,0,0,5,back-country,traverse,3,dry,hard,linear,self,160,200,70
+19/01/2017,11:50,saint bon tarentaise,vanoise,col du biol,2430,30-34,O,15,1,1,1,0,0,0,1,back-country,traverse,3,dry,hard,linear,self,120,50,30
+22/12/2010,11:00,contamines,mont blanc,chalet balme,2050,35-39,SO,9,1,1,,0,0,1,0,back-country,traverse,3,dry,hard,linear,self,250,80,50
+31/12/2014,12:50,le monetier les bains,thabor,secteur col du galibier,2750,30-34,E,4,1,1,1,0,1,0,0,back-country,traverse,3,dry,hard,linear,self,100,100,70
+22/03/2018,10:35,champcella,pelvoux,vallon de la selle / tête de vautisse,2900,30-34,E,2,2,1,1,1,1,1,0,back-country,,3,dry,hard,linear,self,80,30,40
+18/04/2015,10:45,chamonix,mont blanc,face nord aiguille grands montets,3230,40-44,NE,2,1,0,0,1,1,0,0,ski trrail equipment,descent,2,wet,soft,linear,self,100,25,20
+03/03/2018,16:30,beaufort,beaufortain,plan des planes,1550,35-39,NE,2,1,1,1,0,0,1,0,off-piste,descent,3,wet,soft,linear,self,100,100,30
+19/03/2013,15:30,montclar,ubaye,face ouest dormillouse,2340,35-39,O,3,1,1,1,0,1,0,0,off-piste,descent,4,wet,soft,linear,self,450,150,
+29/03/2018,15:00,araches la frasse,chablais,,1700,>45,,6,1,0,0,,0,1,0,off-piste,descent,3,wet,soft,linear,self,100,30,
+03/03/2018,13:35,arêche beaufor,beaufortain,lac tournant,2000,30-34,N,,2,1,0,,0,1,1,back-country,descent,3,wet,soft,linear,self,,,
+13/02/2013,14:15,arvieux,queyras,barre noire villargaudin,2400,30-34,E,2,1,0,0,0,0,1,0,back-country,descent,3,wet,soft,linear,self,100,50,50
+14/04/2013,13:10,vallorcine,mont blanc,tete de la chevrette,1970,30-34,S,4,1,0,0,0,0,1,0,back-country,descent,4,wet,soft,linear,self,300,40,50
+16/12/2017,,laveissière,lioran,fond alagnon,1530,35-39,SE,1,1,1,0,,1,0,0,back-country,descent,,wet,soft,linear,self,50,,
+17/02/2018,,villard d'arene,oisans,couloir express col roc noir combeynot,,,,1,1,0,0,,0,0,1,back-country,descent,,wet,soft,linear,self,,,
+20/05/2017,18:10,sainte foy tarentaise,haute tarentaise,face nord pointe des plates des chamois sous point coté 3441 m,3240,>45,N,2,1,0,0,,1,0,0,back-country,descent,,wet,soft,linear,self,640,,
+23/02/2016,13:00,ceillac,queyras,vallon ste anne,2520,35-39,NE,20,3,1,1,0,1,0,2,back-country,descent,3,wet,soft,linear,self,80,,60
+19/03/2014,14:50,bourg st maurice,vanoise,face ouest aiguille rouge grande cascade,,,NO,1,1,0,0,,1,0,0,off-piste,ascent,3,wet,soft,linear,self,,,40
+12/03/2017,14:50,cervières,queyras,face N arpelin,2500,35-39,N,13,1,0,0,0,0,0,1,back-country,,2,wet,soft,linear,self,200,450,
+05/02/2018,13:35,pralognan la vanoise,vanoise,couloir de l'eau,1890,30-34,SO,4,1,1,1,0,0,0,1,mining,stop,2,dry,soft,linear,self,30,20,15
+05/01/2014,14:00,la léchère,beaufortain,croix de la bagnaz,2300,,,4,2,0,0,,0,0,2,back-country,stop,4,dry,soft,linear,self,150,,
+20/06/2016,11:30,chamonix,mont blanc,tacul,4020,30-34,NO,2,3,1,0,,1,2,0,mountaineering,descent,,dry,soft,linear,self,1200,60,80
+02/02/2015,14:30,boutx,luchonnais,couloir fontaine de pan,,,N,5,5,1,1,,1,1,3,off-piste,descent,4,dry,soft,linear,self,,,
+02/02/2015,16:55,la bathie,beaufortain,pionte de la grande combe,2150,30-34,NO,2,1,0,0,1,0,0,1,off-piste,descent,3,dry,soft,linear,self,300,250,100
+02/02/2015,16:25,chatel,chablais,sous le val linga,1900,,,4,4,0,0,,0,1,3,off-piste,descent,4,dry,soft,linear,self,,,
+02/03/2011,16:40,val des prés,queyras,vallon de Vachette / secteur ombilic,2005,35-39,NO,3,1,0,,0,0,0,1,off-piste,descent,3,dry,soft,linear,self,500,60,60
+02/03/2014,15:00,bonneval sur arc,haute maurienne,,2900,35-39,N,2,1,0,0,0,0,0,1,off-piste,descent,3,dry,soft,linear,self,180,20,60
+03/03/2015,12:00,orelle,vanoise,face ouest col rénod,,,SO,4,1,1,1,,1,0,0,off-piste,descent,3,dry,soft,linear,self,,100,
+04/02/2012,12:30,thollon les mémises,chablais,tete de neuva,1840,35-39,NO,4,1,0,0,0,1,0,0,off-piste,descent,3,dry,soft,linear,self,300,70,50
+04/02/2012,11:15,mieussy,chablais,combe du vélard,1780,,NO,4,1,1,0,,0,1,0,off-piste,descent,3,dry,soft,linear,self,50,10,15
+04/03/2011,15:15,val isère,haute tarentaise,barriere de quartz,2400,35-39,NO,2,1,1,,0,0,1,0,off-piste,descent,3,dry,soft,linear,self,120,60,50
+04/03/2018,14:00,vallorcine,mont blanc,posettes,2050,35-39,O,3,1,0,0,0,1,0,0,off-piste,descent,3,dry,soft,linear,self,300,10,10
+05/01/2014,14:05,macot,vanoise,crête des bourtes,2350,35-39,NO,2,2,1,1,1,0,0,2,off-piste,descent,4,dry,soft,linear,self,250,30,100
+05/01/2016,11:50,val d'isere,haute tarentaise,super santon,2375,35-39,SE,4,1,1,1,0,1,0,0,off-piste,descent,4,dry,soft,linear,self,100,50,80
+05/03/2011,14:30,bessans,haute maurienne,andagne,3000,,NO,3,2,1,,,0,1,1,off-piste,descent,4,dry,soft,linear,self,300,200,180
+05/03/2016,16:40,enchastrayes,ubaye,les roubines / super sauze,1970,40-44,N,2,2,0,0,1,0,1,1,off-piste,descent,4,dry,soft,linear,self,70,40,40
+05/12/2012,11:25,tignes,haute tarentaise,secteur paquerette,2600,30-34,N,11,2,2,2,0,1,1,0,off-piste,descent,4,dry,soft,linear,self,150,80,60
+06/03/2013,11:00,modane,maurienne,vallée perdue valfréjus,2200,30-34,NO,2,2,0,0,2,0,2,0,off-piste,descent,3,dry,soft,linear,self,70,150,100
+06/03/2014,10:40,peisey,vanoise,nord bellecote,3150,40-44,N,3,1,0,0,0,1,0,0,off-piste,descent,3,dry,soft,linear,self,,30,30
+07/02/2015,13:03,peisey nancroix,vanoise,couloir des canadiens face nord bellecote,3050,40-44,NO,3,1,1,0,1,1,0,0,off-piste,descent,3,dry,soft,linear,self,1250,30,50
+07/03/2017,10:05,abriès,queyras,crête de gilly / grande combe,2430,40-44,N,2,1,1,1,0,0,1,0,off-piste,descent,4,dry,soft,linear,self,450,300,150
+07/03/2017,16:00,modane,haute maurienne,couloir du seuil,2251,35-39,NE,3,3,2,2,1,3,0,0,off-piste,descent,4,dry,soft,linear,self,475,115,200
+08/01/2011,11:06,monetier les bains,pelvoux,cibouit,,,,2,1,1,,,0,0,1,off-piste,descent,3,dry,soft,linear,self,,100,50
+08/02/2013,11:10,saint bon tarentaise,vaoise,sous pas du roc merlet,2350,30-34,NO,3,2,1,1,1,1,0,1,off-piste,descent,2,dry,soft,linear,self,40,70,50
+09/12/2010,12:37,val isère,haute tarentaise,charvet couloir des pisteurs,2650,>45,N,2,2,1,,,1,1,0,off-piste,descent,,dry,soft,linear,self,300,3,100
+11/01/2011,11:03,val isère,haute tarentaise,pointe du grand vallon,2700,35-39,N,7,5,4,,0,4,0,1,off-piste,descent,3,dry,soft,linear,self,700,70,80
+12/01/2011,13:30,les deux alpes,oisans,chalance,2800,30-34,SO,4,2,0,,0,0,0,2,off-piste,descent,3,dry,soft,linear,self,,,
+13/01/2016,13:54,tignes,haute tarentaise,pentes du lac de Tignes,2205,35-39,NO,1,1,0,0,1,0,1,0,off-piste,descent,4,dry,soft,linear,self,125,80,100
+13/01/2017,11:00,tignes,haute-tarentaise,"secteur palet, entre pentes Lognan et télésiège Tichot",2400,30-34,SE,3,1,1,1,0,0,1,0,off-piste,descent,3,dry,soft,linear,self,20,40,160
+13/02/2016,12:55,la perrière,vanoise,les lanches,2150,40-44,N,1,1,1,0,,1,0,0,off-piste,descent,,dry,soft,linear,self,380,50,
+14/02/2015,16:00,le monetier les bains,pelvoux,source des fraches,2200,>45,NO,1,1,0,0,1,0,1,0,off-piste,descent,3,dry,soft,linear,self,240,2,15
+15/02/2016,16:25,bonneval sur arc,haute maurienne,pointe d'andagne,3000,40-44,O,4,1,1,1,0,0,1,0,off-piste,descent,3,dry,soft,linear,self,125,150,100
+16/12/2012,12:25,risoul,embrunais parpaillon,crete de razis,2520,30-34,NO,1,1,1,1,0,1,0,0,off-piste,descent,4,dry,soft,linear,self,140,300,190
+18/03/2011,12:00,val isère,haute tarentaise,envers de cugnaï,2850,35-39,NO,6,1,1,,0,1,0,0,off-piste,descent,3,dry,soft,linear,self,580,120,90
+18/03/2013,13:10,montvalezan,haute tarentaise,hp des ecudets,1880,35-39,SO,2,1,1,1,0,1,0,0,off-piste,descent,3,dry,soft,linear,self,100,60,50
+19/03/2011,15:30,molines,queyras,rif ousselat,2540,40-44,N,2,1,1,,0,1,0,0,off-piste,descent,3,dry,soft,linear,self,450,800,70
+19/03/2013,15:55,saint martin de belleville (val thorens),vanoise,lac du lou,1990,40-44,NO,5,1,1,1,,0,1,0,off-piste,descent,,dry,soft,linear,self,15,30,80
+19/03/2013,15:05,les avanchers,maurienne,hors piste des lauzières,1825,30-34,NE,6,1,1,1,0,0,1,0,off-piste,descent,3,dry,soft,linear,self,30,25,60
+20/04/2012,15:45,vaujany,grandes rousses,couloir perrin,2600,40-44,O,2,1,1,0,1,0,0,1,off-piste,descent,3,dry,soft,linear,self,100,50,40
+21/01/2015,12:00,chamonix,mont blanc,couloir requiin,2450,40-44,NE,7,1,1,1,0,1,0,0,off-piste,descent,3,dry,soft,linear,self,50,20,
+21/01/2016,,champagny en vanoise,vanoise,combe des arriérés,,,,3,3,0,0,,0,0,3,off-piste,descent,,dry,soft,linear,self,,200,
+21/12/2012,12:05,val isere,haute tarentaise,pointe du grand vallon creux de l'ouille,2755,30-34,N,3,3,1,1,0,1,0,2,off-piste,descent,3,dry,soft,linear,self,300,200,300
+23/03/2018,13:15,mont de lans,oisans,combe de chalance / piège à surfers,2840,40-44,O,2,1,0,0,,0,1,0,off-piste,descent,,dry,soft,linear,self,,,
+26/12/2010,15:15,alpe d'huez,grandes rousses,pic blanc,3200,,O,2,1,0,,,0,1,0,off-piste,descent,3,dry,soft,linear,self,,,
+27/01/2016,11:38,saint bon courchevel,vanoise,couloir du ruisseau de la planche / vallée des avanchers,2490,30-34,NE,9,4,0,0,1,0,1,3,off-piste,descent,2,dry,soft,linear,self,,50,30
+27/12/2013,09:55,saint martin belleville,vanoise,boismint val thorens,2540,35-39,E,6,3,1,1,1,0,1,2,off-piste,descent,3,dry,soft,linear,self,100,50,40
+27/12/2013,10:45,la clusaz,aravis,combe de torchere,2375,30-34,NO,3,2,2,2,0,2,0,0,off-piste,descent,4,dry,soft,linear,self,125,115,100
+30/12/2014,15:00,les allues,vanoise,lac de la chambre,2720,40-44,NO,2,1,1,1,0,1,0,0,off-piste,descent,3,dry,soft,linear,self,170,400,40
+31/01/2015,,chatel,chablais,les combes,1960,35-39,O,2,1,1,1,0,0,0,1,off-piste,descent,3,dry,soft,linear,self,90,40,80
+31/01/2015,12:30,chamonix,mont blanc,pré du rocher,2190,30-34,NO,3,1,1,1,0,0,0,1,off-piste,descent,4,dry,soft,linear,self,70,20,40
+31/03/2011,11:10,val isère,haute tarentaise,solaise,3000,35-39,SE,2,2,1,,0,0,1,1,off-piste,descent,3,dry,soft,linear,self,80,30,50
+01/04/2013,13:30,contamines,beaufortain,col des chasseurs,2400,35-39,N,3,2,0,0,,0,1,1,back-country,descent,,dry,soft,linear,self,,100,30
+02/12/2017,,saint pancrasse,chartreuse,pas de l'oeille dent de crolles,1910,40-44,SO,1,1,0,0,,1,0,0,back-country,descent,,dry,soft,linear,self,50,,
+04/05/2014,11:00,bessans,haute maurienne,selle de l'albaron,3430,40-44,SO,3,1,1,1,,1,0,0,back-country,descent,,dry,soft,linear,self,310,200,100
+05/01/2015,13:05,sainte foy tarentaise,haute tarentaise,face nord fogliettaz,2820,40-44,N,6,5,0,0,3,0,4,1,back-country,descent,3,dry,soft,linear,self,330,800,100
+09/02/2014,14:50,saint jean de belleville,vanoise,point 2482 combe pierreux,2400,40-44,NE,4,1,0,0,0,0,0,1,back-country,descent,3,dry,soft,linear,self,350,20,30
+10/03/2012,11:25,ristolas,queyras,pic de ségur,2770,30-34,NO,6,1,0,0,0,0,0,1,back-country,descent,3,dry,soft,linear,self,80,20,50
+10/12/2011,14:40,puy st vincent,pelvoux,vallon de narreyroux,2600,<30,NE,2,1,1,1,,0,1,0,back-country,descent,,dry,soft,linear,self,,25,30
+13/02/2013,12:55,cote d'aime,vanoise,combe benite,2400,,O,7,5,1,1,,0,1,4,back-country,descent,3,dry,soft,linear,self,200,100,130
+13/02/2018,13:45,saint christophe en oisans,oisans,face est brèche du rateau,3140,35-39,SE,5,1,0,0,0,0,1,0,back-country,descent,2,dry,soft,linear,self,120,50,40
+14/01/2017,12:17,laruns,aspe ossau,crete de gabarderes,2300,35-39,N,3,3,2,2,1,1,1,1,back-country,descent,3,dry,soft,linear,self,450,100,
+17/04/2012,19:00,saint martin de belleville,vanoise,mont du borgne,2950,40-44,NO,3,1,1,1,0,1,0,0,back-country,descent,3,dry,soft,linear,self,200,180,100
+17/04/2012,19:00,saint martin de belleville,vanoise,mont du borgne,2950,40-44,NO,3,1,0,0,1,0,0,1,back-country,descent,3,dry,soft,linear,self,400,,100
+17/12/2010,12:40,mittlach,hohneck,couloir du rainkopf,1300,30-34,E,2,1,0,,,0,1,0,back-country,descent,,dry,soft,linear,self,200,30,30
+18/02/2011,,ustou,couserans,etang de la lacarde,2000,30-34,N,2,1,1,,0,0,0,1,back-country,descent,3,dry,soft,linear,self,80,350,40
+18/02/2012,,bagnères de luchon,luchonnais,pic d'aubas,2030,30-34,NO,5,5,0,0,0,0,0,5,back-country,descent,3,dry,soft,linear,self,,150,100
+18/02/2018,12:06,épierre,maurienne,faux gros villan,2550,40-44,NO,4,1,0,0,0,0,0,1,back-country,descent,3,dry,soft,linear,self,130,25,30
+19/03/2011,12:05,ceillac,queyras,vallon beaubarnon,2530,30-34,N,4,4,3,,0,3,0,1,back-country,descent,3,dry,soft,linear,self,150,500,60
+20/03/2011,12:05,magland,aravis,face nord pointe d'Areu,2430,35-39,NO,3,1,1,,0,1,0,0,back-country,descent,3,dry,soft,linear,self,500,350,40
+22/03/2013,09:35,chamonix,mont blanc,carlaveyron,2070,40-44,O,2,1,0,0,1,0,1,0,back-country,descent,2,dry,soft,linear,self,50,25,80
+23/03/2012,12:10,sainte agnes,belledonne,ferrouillet,2200,35-39,N,2,1,1,0,1,0,1,0,back-country,descent,2,dry,soft,linear,self,80,80,80
+25/01/2014,13:45,presle,belledonne,"couloir SO ""intime"" Gargoton",2330,35-39,SO,2,2,1,1,1,1,1,0,back-country,descent,3,dry,soft,linear,self,250,10,60
+25/03/2013,13:45,orcieres,champsaur,la coupa,2600,30-34,N,2,1,1,0,1,0,0,1,back-country,descent,3,dry,soft,linear,self,500,50,
+26/03/2017,14:10,saint paul sur ubaye,ubaye,col mirandol vallon grand,2480,40-44,NO,5,4,2,2,2,0,1,3,back-country,descent,4,dry,soft,linear,self,50,90,45
+28/02/2015,10:10,saint pierre de chartreuse,charteuse,combe ouest charmant som,1690,30-34,O,7,1,1,1,0,1,0,0,back-country,descent,2,dry,soft,linear,self,105,,10
+28/11/2010,14:00,le mont dore,sancy,puy redon / couloir de l'envers du redon,1725,40-44,NO,2,1,0,,,0,1,0,back-country,descent,,dry,soft,linear,self,200,,
+30/12/2013,12:25,sixt,chablais,passage du dérochoir,2150,30-34,N,2,1,0,0,1,0,1,0,back-country,descent,3,dry,soft,linear,self,60,40,80
+27/12/2013,12:15,st bon tarentaise,vanoise,vallée avals,2100,35-39,NE,2,1,1,1,0,1,0,0,hut ascent,ascent,3,dry,soft,linear,self,40,40,40
+01/11/2010,09:00,Bessans,Haute Maurienne,couloir Roche MIchel,3100,35-39,N,3,3,3,,,3,0,0,mountaineering,ascent,,dry,soft,linear,self,700,150,50
+03/01/2016,12:45,chamonix,mont blanc,petite verte grand montets,3390,30-34,N,3,3,1,0,2,2,0,1,mountaineering,ascent,3,dry,soft,linear,self,290,40,50
+31/03/2018,15:30,ferrère,haute bigorre,montagne d'areng / couloir le potager du retraité,1900,35-39,N,3,2,1,0,2,1,1,0,mountaineering,ascent,3,dry,soft,linear,self,185,,
+01/04/2013,14:00,les allues,vanoise,aiguille du fruit,2900,>45,NO,3,2,0,0,0,0,2,0,back-country,ascent,3,dry,soft,linear,self,600,10,
+01/12/2013,12:25,avoriaz,chablais,pointe de vorlaz,2290,35-39,S,2,2,0,0,,0,2,0,back-country,ascent,,dry,soft,linear,self,150,30,
+02/04/2018,11:00,chamonix,mont blanc,pointe alphonse favre,2680,40-44,S,9,7,0,0,0,1,5,1,back-country,ascent,3,dry,soft,linear,self,580,80,40
+02/12/2017,,saint christophe sur guiers,chartreuse,combe de l'ours petit som,1670,35-39,SO,2,2,2,2,,2,0,0,back-country,ascent,,dry,soft,linear,self,125,,
+03/12/2010,16:00,ombleze,vercors,roc de toulan,1000,30-34,O,1,1,0,,,0,1,0,back-country,ascent,,dry,soft,linear,self,,40,40
+05/12/2010,11:45,st pierre de chartreuse,chartreuse,col des ayes,1570,35-39,NE,3,3,3,,,3,0,0,back-country,ascent,,dry,soft,linear,self,100,25,50
+07/12/2014,10:45,isola,mercantour,cime lombarde,2600,35-39,SO,4,4,0,0,,0,0,4,back-country,ascent,,dry,soft,linear,self,100,100,20
+09/04/2012,11:30,pralognan,haute maurienne,combe de rosoire,3200,,NO,7,3,0,0,,0,0,3,back-country,ascent,2,dry,soft,linear,self,300,,
+14/02/2018,14:45,lavaldens,oisans,vallon guillaume,2300,30-34,NO,1,1,0,0,1,0,0,1,back-country,ascent,2,dry,soft,linear,self,200,10,30
+14/12/2010,12:50,tignes,haute tarentaise,grande combe / grande sassière,3100,35-39,SO,7,1,1,,0,1,0,0,back-country,ascent,3,dry,soft,linear,self,150,50,60
+17/01/2018,,chamrousse,belledonne,brèche robert sud,2000,35-39,NO,1,1,1,1,0,1,0,0,back-country,ascent,3,dry,soft,linear,self,40,30,80
+18/02/2018,12:00,orcières,champsaur,pic de barle,2610,35-39,NO,1,1,1,0,,0,0,1,back-country,ascent,,dry,soft,linear,self,120,200,
+19/01/2013,13:10,abondance,chablais,mont de grange,2100,40-44,O,2,1,0,0,0,0,1,0,back-country,ascent,3,dry,soft,linear,self,100,10,30
+19/02/2011,13:10,orcières,champsaur,col de la montagne haute / mourre froid,2800,35-39,N,6,3,1,,0,0,1,2,back-country,ascent,3,dry,soft,linear,self,200,150,80
+20/03/2012,10:00,saint crepin,queyras,pic beal traversier,2800,40-44,N,4,1,0,0,0,0,1,0,back-country,ascent,2,dry,soft,linear,self,50,5,30
+20/12/2016,20:00,saint christophe en oisans,oisans,refuge pilatte,2560,>45,NE,3,3,0,0,0,0,1,2,back-country,ascent,2,dry,soft,linear,self,160,450,
+21/02/2012,10:00,bellevaux,chablais,pointe de chalune,2050,40-44,O,2,2,0,0,0,1,1,0,back-country,ascent,3,dry,soft,linear,self,200,20,50
+22/12/2010,11:00,Hauteluce,mont blanc,col de la fenêtre,2150,<30,O,2,2,1,,0,0,2,0,back-country,ascent,3,dry,soft,linear,self,50,50,40
+26/02/2013,09:30,saint gervais,mont blanc,mont lachat,1970,35-39,SO,15,6,0,0,0,0,1,5,back-country,ascent,1,dry,soft,linear,self,170,30,20
+27/02/2016,18:00,saint gervais les bains,mont blanc,mont lachat,2015,30-34,O,1,1,0,0,1,0,1,0,back-country,ascent,3,dry,soft,linear,self,200,50,200
+28/11/2010,12:00,mieussy,chablais,haute-pointe,1950,40-44,SE,15,2,2,,,0,0,2,back-country,ascent,,dry,soft,linear,self,100,20,10
+29/03/2015,11:45,bonneval sur arc,haute maurienne,col du montet,3200,40-44,S,9,5,2,1,3,1,0,4,back-country,ascent,2,dry,soft,linear,self,60,20,
+30/01/2011,10:00,molines,queyras,col agnel,2650,35-39,O,8,4,1,,0,1,0,3,back-country,ascent,2,dry,soft,linear,self,30,40,100
+30/12/2017,16:00,val d'isere,haute tarentaise,face ouest pelaou blanc,2740,35-39,SO,4,2,2,1,,1,0,1,back-country,ascent,,dry,soft,linear,self,200,100,40
+18/01/2015,13:00,auzat,haute ariege,secteur etang du pinet,2440,35-39,NO,2,1,1,1,0,1,0,0,mountaineering,traverse,3,dry,soft,linear,self,50,,
+28/12/2010,13:45,Metzeral,hohneck,wormspel,1244,35-39,NE,5,1,0,,,0,1,0,mountaineering,traverse,,dry,soft,linear,self,90,25,25
+10/12/2010,15:00,orelle,vanoise,sous cime caron,2820,30-34,S,9,4,0,,,0,1,3,off-piste,traverse,,dry,soft,linear,self,200,80,80
+26/12/2010,09:34,val isère,haute tarentaise,combe du signal,2740,40-44,N,4,2,2,,0,1,0,1,off-piste,traverse,3,dry,soft,linear,self,100,50,140
+28/02/2011,,corrençon en vercors,vercors,rancs de combevieux,1850,30-34,N,4,3,3,,0,1,2,0,off-piste,traverse,3,dry,soft,linear,self,150,50,70
+21/01/2012,10:00,praz sur arly,mont blanc,crêt du midi,1780,>45,NE,3,1,0,0,1,0,0,1,mining,traverse,4,dry,soft,linear,self,25,,40
+24/12/2010,15:00,Vallorcine,mont blanc,balme,2175,>45,NE,1,1,0,,0,0,1,0,mining,traverse,3,dry,soft,linear,self,75,15,30
+06/12/2012,12:45,serraval,aravis,sulens,1710,40-44,O,2,2,1,1,,1,0,1,back-country,traverse,,dry,soft,linear,self,50,100,40
+08/02/2015,13:30,molines en queyras,queyras,route col agnel,2340,30-34,SO,1,1,1,1,0,1,0,0,back-country,traverse,4,dry,soft,linear,self,50,120,120
+09/02/2015,10:45,cervières,queyras,col de chaudemaison,2400,30-34,O,3,1,1,1,0,1,0,0,back-country,traverse,4,dry,soft,linear,self,100,40,50
+09/04/2012,11:30,valmeinier,maurienne,roche noire,2800,,,2,1,1,1,,1,0,0,back-country,traverse,2,dry,soft,linear,self,,50,
+18/02/2012,11:05,jarsy,bauges,face SO mont de la Coche,1980,30-34,SO,2,1,0,0,1,0,1,0,back-country,traverse,3,dry,soft,linear,self,250,5,50
+26/02/2013,16:40,pralognan,vanoise,cirque du petit arcellin,2100,30-34,NO,1,1,0,0,1,0,1,0,back-country,traverse,3,dry,soft,linear,self,80,20,20
+28/12/2017,13:45,la combe de lancey,belledonne,lac de la sitre,2120,35-39,SO,2,1,0,0,,0,1,0,back-country,traverse,,dry,soft,linear,self,,,
+21/02/2011,14:00,les deux alpes,oisans,chalance,2500,30-34,SO,2,2,0,,0,0,0,2,off-piste,,3,dry,soft,linear,self,80,45,30
+16/03/2011,14:30,ceillac,queyras,col du tronchet,2600,35-39,NO,,1,1,,,0,0,1,back-country,,4,dry,soft,linear,self,,,
+04/05/2014,11:15,bessans,haute maurienne,face ouest pointe charbonnel,3600,>45,O,1,1,0,0,,1,0,0,mountaineering,ascent,,wet,,linear,self,500,100,50
+02/03/2014,15:30,chamonix,mont blanc,aiguille belvedere,2880,35-39,SO,3,1,1,0,1,0,1,0,back-country,ascent,2,wet,,linear,self,180,10,15
+03/03/2016,13:45,saint maurice sur moselle,ballon d'alsace,belvedere de birken,1225,>45,E,2,1,0,0,,0,1,0,back-country,traverse,,wet,,linear,self,200,50,
+02/01/2013,12:45,eaux bonnes,aspe ossau,vallon anglas,,,,2,1,1,1,,1,0,0,off-piste,descent,,dry,,linear,self,,,
+03/03/2017,12:30,risoul,embrunnais,cabane valbelle,,,,,1,0,0,,0,1,0,off-piste,descent,3,dry,,linear,self,,,
+03/03/2017,14:25,villaroger,vanoise,combe des lanchettes,2300,,,7,5,0,0,,0,0,5,off-piste,descent,3,dry,,linear,self,,,
+04/02/2017,,dévoluy,dévoluy,vallon pierea d'agnère combe sommarel,2300,,NO,10,3,2,2,,0,0,3,off-piste,descent,,dry,,linear,self,,,
+05/01/2014,15:00,pelvoux,pelvoux,ravin du bouisset,,,,3,1,0,0,,0,1,0,off-piste,descent,,dry,,linear,self,,,
+05/02/2013,16:10,chatel,chablais,télésiège des combes,,,,1,1,1,0,,0,0,1,off-piste,descent,,dry,,linear,self,,,40
+05/02/2017,14:40,modane,haute maurienne,couloir en Y du seuil,2240,35-39,NE,2,1,1,1,0,1,0,0,off-piste,descent,3,dry,,linear,self,430,40,100
+05/03/2016,12:00,les adrets,belledonne,,,,,2,2,0,0,,0,2,0,off-piste,descent,,dry,,linear,self,,,
+06/02/2016,14:35,landry,vanoise,couloir NO aiguille grive,,,,3,1,0,0,,0,1,0,off-piste,descent,,dry,,linear,self,,,
+06/03/2014,10:30,ax les thermes,haute ariège,station le saquet,,,,4,1,1,1,,0,1,0,off-piste,descent,4,dry,,linear,self,,,
+07/01/2014,11:00,champagny,vanoise,col des vés,2830,35-39,NO,4,1,0,0,0,0,1,0,off-piste,descent,3,dry,,linear,self,310,50,100
+07/03/2017,12:00,isola,mercantour,sistron cloutas,,,,1,1,0,0,,0,0,1,off-piste,descent,3,dry,,linear,self,,,
+07/03/2017,14:15,isola,mercantour,sistron cloutas,,,,1,1,0,0,,0,0,1,off-piste,descent,3,dry,,linear,self,,,
+09/01/2016,13:00,les allues,vanoise,mont de péclet,,,,1,1,0,0,,0,0,1,off-piste,descent,,dry,,linear,self,150,,
+09/01/2018,,val d'isere,haute tarentaise,solaise super S,,,,2,1,0,0,,0,1,0,off-piste,descent,5,dry,,linear,self,,,
+09/03/2013,10:30,molines,queyras,combe crose,2600,,,3,3,1,1,,2,0,1,off-piste,descent,3,dry,,linear,self,,,30
+11/02/2017,15:55,val des prés,queyras,couloir ombilic,2350,40-44,N,3,1,1,1,0,1,0,0,off-piste,descent,3,dry,,linear,self,250,,80
+11/02/2017,11:00,val des prés,queyras,couloir bois vacher,2270,35-39,O,2,1,0,0,1,0,1,0,off-piste,descent,3,dry,,linear,self,320,,
+14/01/2017,13:00,saint bon tarentaise,vanoise,saulire,,,,,1,1,1,,0,0,1,off-piste,descent,3,dry,,linear,self,,,
+18/01/2015,13:00,puy saint vincent,pelvoux,col du bal,2400,,NE,3,3,2,2,,0,2,1,off-piste,descent,4,dry,,linear,self,300,,
+18/02/2012,,bagnère de bigorre,haute bigorre,pain de sucre,,,,1,1,1,1,,1,0,0,off-piste,descent,3,dry,,linear,self,,20,
+18/02/2012,,vieille aure,haute bigorre,corneblanque,,,,1,1,0,0,,0,0,1,off-piste,descent,3,dry,,linear,self,,,
+19/02/2012,,bagnère de bigorre,haute bigorre,la blanche,,,,2,1,0,0,,0,1,0,off-piste,descent,2,dry,,linear,self,400,150,100
+19/03/2013,11:45,La Ferrière,belledonne,secteur le pleynet F9,1850,,,1,1,1,0,,0,1,0,off-piste,descent,4,dry,,linear,self,,,
+20/01/2016,12:25,les allues,vanoise,crête roc des trois/mont de la chambre versant est,2650,>45,E,2,1,1,1,0,0,1,0,off-piste,descent,3,dry,,linear,self,130,180,200
+25/03/2013,,puy st vincent,pelvoux,col de bal,,,,2,2,0,0,,0,0,2,off-piste,descent,,dry,,linear,self,,,
+29/12/2013,16:15,aime,vanoise,dos des frasses,2200,40-44,NO,1,1,0,0,,0,1,0,off-piste,descent,,dry,,linear,self,200,,
+02/02/2015,08:55,valloire,haute maurienne,secteur Sétaz,2200,35-39,NE,2,1,0,0,,0,0,1,minage,descent,,dry,,linear,self,,50,30
+09/12/2017,09:30,alpe d'huez,grandes rousses,sommet marmottes 2,,,,2,2,0,0,,0,2,0,minage,descent,,dry,,linear,self,,,15
+01/03/2017,15:00,lanslevillard,haute maurienne,pas du loup,2250,>45,,3,1,0,0,,0,1,0,back-country,descent,,dry,,linear,self,,,
+02/03/2014,12:00,la salle les alpes,thabor,crête echaillon,2560,30-34,NE,7,1,0,0,,0,1,0,back-country,descent,,dry,,linear,self,,5,30
+03/05/2018,12:20,saint christophe en oisans,oisans,col des écrins,,,,2,1,0,0,,0,1,0,back-country,descent,,dry,,linear,self,,,
+06/04/2015,,saint jean de belleville,vanoise,mont du fut face nord,2730,,,2,1,0,0,,0,0,1,back-country,descent,,dry,,linear,self,400,,
+11/11/2013,16:55,les contamines,mont blanc,aiguille croche,2300,30-34,SE,1,1,0,0,,0,1,0,back-country,descent,,dry,,linear,self,100,20,
+14/01/2017,14:00,bonneval sur arc,haute maurienne,plan de l'aigle NO Ouille Motta,2300,40-44,NO,5,2,0,0,2,0,0,2,back-country,descent,3,dry,,linear,self,240,50,
+15/12/2017,14:10,granier,beaufortain,la poula face est pointe combe benite,2410,40-44,E,2,1,1,1,0,1,0,0,back-country,descent,3,dry,,linear,self,315,,
+18/03/2018,11:45,sarcenas,chartreuse,chamechaude couloir folatière,2040,35-39,O,4,3,0,0,0,1,1,1,back-country,descent,2,dry,,linear,self,280,,
+22/12/2013,11:15,pralognan,vanoise,"entre chalet ritort et rosoire, lit du ruisseau du ritort",2150,35-39,NO,2,2,1,1,0,1,0,1,back-country,descent,1,dry,,linear,self,150,80,50
+25/02/2014,12:30,vallorcine,mont blanc,Mont Buet,3040,>45,NE,2,1,1,0,1,1,0,0,back-country,descent,3,dry,,linear,self,650,,
+25/03/2018,16:25,modane,haute maurienne,belle plinier nord ouest,2550,35-39,NO,3,2,2,2,0,2,0,0,back-country,descent,2,dry,,linear,self,600,80,
+30/04/2017,12:05,bourg saint maurice,beaufortain,versant nord col nova,,,,1,1,0,0,,0,1,0,back-country,descent,,dry,,linear,self,,,
+26/01/2014,,stosswihr,vosges,grand couloir dagobert,1300,>45,N,2,2,0,0,,0,2,0,mountaineering,ascent,,dry,,linear,self,260,,
+07/02/2015,15:00,Freney d'Oisans,grandes rousses,grandes buffes,1970,35-39,O,1,1,0,0,,0,0,1,back-country,ascent,,dry,,linear,self,,40,40
+12/01/2013,11:30,pinsot,belledonne,pic des grandes lanches,,35-39,O,1,1,0,0,1,1,0,0,back-country,ascent,3,dry,,linear,self,,,
+12/12/2014,,sers,haute bigorre,pic de barbe,,,,4,2,0,0,,0,2,0,back-country,ascent,,dry,,linear,self,,,
+15/03/2013,13:30,monetier les bains,oisans,route du galibier,,,,3,3,0,0,,0,1,2,back-country,ascent,,dry,,linear,self,,,
+18/01/2016,13:05,modane,haute maurienne,col du petit argentier,2600,>45,E,52,18,11,8,10,6,8,4,back-country,ascent,3,dry,,linear,self,260,220,180
+26/01/2014,,st etienne dévoluy,dévoluy,vallon d'ane,,,,2,1,0,0,,0,1,0,back-country,ascent,,dry,,linear,self,,30,40
+31/01/2015,,aussois,vanoise,ruisseau de la fournache,2370,30-34,S,1,1,1,1,0,1,0,0,electricity meter reading / backcountry skiing,ascent,4,dry,,linear,self,50,50,80
+04/03/2017,,saint chaffrey,pelvoux,couloir NE sous prorel,2440,35-39,NE,2,2,0,0,1,0,1,1,off-piste,traverse,3,dry,,linear,self,210,50,40
+05/01/2016,10:24,val d'isere,haute tarentaise,HP du Cairn / Bellevarde,2650,40-44,E,3,3,2,2,0,0,1,2,off-piste,traverse,4,dry,,linear,self,80,70,
+26/01/2014,10:05,modane,haute maurienne,couloir du seuil valfréjus,2200,35-39,NE,3,2,0,0,,0,1,1,off-piste,traverse,,dry,,linear,self,140,,
+01/02/2012,10:25,valloire,maurienne,combe aiguille noire,,,,19,10,6,6,,1,5,4,back-country,traverse,2,dry,,linear,self,,,
+02/01/2013,,la morte,oisans,pas de la mine,2450,35-39,O,3,1,0,0,,0,1,0,back-country,traverse,,dry,,linear,self,,,
+04/03/2018,11:15,samoens,chablais,bostan,,,NO,2,2,2,2,,1,1,0,back-country,traverse,3,dry,,linear,self,,200,
+10/01/2014,12:00,bonneval,haute maurienne,ouille mouta,2635,40-44,NO,2,1,1,1,0,0,1,0,back-country,traverse,2,dry,,linear,self,300,120,80
+28/04/2012,12:55,chamonix,mont blanc,glacier du milieu,,,,3,1,0,0,,1,0,0,mountaineering,,,dry,,linear,self,,,
+09/12/2017,15:55,aime,vanoise,piste pavane,,,,2,2,0,0,,0,1,1,other,,,dry,,linear,self,,,
+05/03/2015,13:00,allemond,belledonne,col de roche noire,2500,30-34,NE,2,1,1,1,,0,0,1,back-country,,,dry,,linear,self,,,
+09/03/2016,,le petit bornand des glières,aravis,pointe de sosay,,,,3,2,1,1,,1,0,1,back-country,,3,dry,,linear,self,,,150
+21/01/2016,13:55,la cote d'aime,beaufortain,mont rosset,2440,,,1,1,0,0,,0,1,0,back-country,,,dry,,linear,self,,,
+28/01/2014,13:00,réallon,champsaur,col coupa,,,,5,2,0,0,,0,0,2,back-country,,,dry,,linear,self,,30,
+01/04/2013,,saint martin de belleville (val thorens),vanoise,face ouest aiguille des st pères,2800,,O,3,1,0,0,,0,1,0,off-piste,descent,,,,linear,self,,,
+02/02/2015,15:45,saint bon tarentaise,vanoise,chanrossa,2250,,,2,1,1,1,,0,0,1,off-piste,descent,,,,linear,self,,50,
+03/02/2013,,montgenevre,thabor,vallon des baysses,,,,1,1,0,0,,0,1,0,off-piste,descent,,,,linear,self,,,
+03/02/2015,,saint martin de belleville,vanoise,hors piste de l'entonnoir,,,,1,1,1,1,,1,0,0,off-piste,descent,,,,linear,self,,,
+03/03/2015,11:35,orelle,vanoise,,,,,4,4,1,1,,0,1,3,off-piste,descent,,,,linear,self,,,
+04/03/2018,11:55,oz en oisans,grandes rousses,poutran,,,,1,1,0,0,,0,1,0,off-piste,descent,,,,linear,self,,,
+04/03/2018,14:35,oz en oisans,grandes rousses,couloir perrins,,,,5,3,1,1,,0,3,0,off-piste,descent,,,,linear,self,,,
+04/03/2018,,arêche beaufort,beaufortain,couloir des grangettes,,,,4,1,0,0,,0,0,1,off-piste,descent,,,,linear,self,300,,
+04/03/2018,13:15,arêche beaufort,beaufortain,combe nord col de la bathie,,,,2,2,2,2,,2,0,0,off-piste,descent,3,,,linear,self,,,
+05/01/2016,13:58,saint colomban les villards,maurienne,pierre du turc / crête de tête bellard,2150,40-44,NO,2,1,1,1,0,1,0,0,off-piste,descent,4,,,linear,self,290,50,
+06/04/2015,13:35,bourg saint maurice,vanoise,couloir télécabine aiguille rouge,2700,,,3,1,0,0,,0,1,0,off-piste,descent,,,,linear,self,400,,
+13/02/2018,,chamonix,mont blanc,balme combe d'arve,,,,2,2,0,0,,0,0,2,off-piste,descent,,,,linear,self,,30,20
+13/04/2018,12:20,val d'isere,haute tarentaise,grand vallon,2550,,,2,1,1,1,,0,0,1,off-piste,descent,,,,linear,self,,,
+14/02/2016,12:30,Vars,embrunnais-parpaillon,chagnon de peinier,,,,2,1,1,1,,0,1,0,off-piste,descent,3,,,linear,self,,,
+15/03/2013,,ax les thermes,haute ariège,,,,,1,1,0,0,,0,0,1,off-piste,descent,,,,linear,self,,,
+15/03/2013,,ax les thermes,haute ariège,,,,,1,1,1,1,,0,1,0,off-piste,descent,,,,linear,self,,,
+15/03/2013,,bagnères de bigorre,haute bigorre,sud pic du midi de bigorre,,,S,1,1,0,0,,1,0,0,off-piste,descent,,,,linear,self,,,
+16/02/2012,,contamines montjoie,mont blanc,envers mont joly,,,,3,3,0,0,,1,0,2,off-piste,descent,2,,,linear,self,,,
+16/03/2018,14:50,lanslebourg,haute maurienne,amont de la piste solert,2550,,,6,4,0,0,,0,0,4,off-piste,descent,,,,linear,self,,,
+17/01/2014,14:00,uvernet fours,ubaye,pra loup teleski du lac,,,,2,1,1,0,,1,0,0,off-piste,descent,,,,linear,self,,,
+17/02/2014,,st véran,queyras,chateau renard,,,,2,1,0,0,,0,0,1,off-piste,descent,,,,linear,self,,,
+18/02/2018,15:40,saint christophe en oisans,oisans,refuge de la selle,2850,,S,,1,0,0,,0,1,0,off-piste,descent,,,,linear,self,,,
+19/03/2013,,les allues,vanoise,télésiège cote brune,,,N,1,1,0,0,,0,1,0,off-piste,descent,,,,linear,self,,,
+20/11/2016,12:30,champagny en vanoise,vanoise,col des vés,,,,4,1,0,0,,0,1,0,off-piste,descent,,,,linear,self,,,
+21/03/2018,11:40,bagnères de bigorre,haute bigorre,pic du midi,,,,4,1,0,0,,0,1,0,off-piste,descent,4,,,linear,self,,,
+21/12/2010,,samoens,chablais,station,,,,2,2,0,,,0,2,0,off-piste,descent,3,,,linear,self,,,
+27/01/2014,16:30,montchavin,vanoise,,,,,,1,1,1,,0,1,0,off-piste,descent,,,,linear,self,,,
+30/01/2015,16:10,la perrière,vanoise,dou des lanches,2100,,,1,1,0,0,,0,1,0,off-piste,descent,4,,,linear,self,,,
+31/01/2015,,méribel,vanoise,secteur du verdet,,,,1,1,1,1,,1,0,0,off-piste,descent,,,,linear,self,,,
+01/02/2018,,saint maurice sur moselle,ballon d'alsace,couloir de Birkel,1210,>45,E,1,1,1,0,1,1,0,0,back-country,descent,3,,,linear,self,,,
+04/03/2018,,vallorcine,mont blanc,couloir rand,,,,4,2,0,0,,1,1,0,back-country,descent,,,,linear,self,,,
+05/02/2018,17:35,sainte foy tarentaise,haute tarentaise,pointe du grand soliet,2880,40-44,NE,4,1,0,0,,0,1,0,back-country,descent,,,,linear,self,,,
+06/03/2014,13:45,la ferrière d'allevard,belledonne,couloir NO rocher blanc,,,,3,1,0,0,,0,1,0,back-country,descent,3,,,linear,self,,,
+08/02/2015,11:30,villard de lans,vercors,roc cornafion,1830,40-44,SO,3,1,0,0,,0,0,1,back-country,descent,,,,linear,self,90,80,50
+13/11/2016,11:15,tignes,haute tarentaise,face nord pointe du chardonnet,2800,,,4,1,0,0,,0,0,1,back-country,ascent,,,,linear,self,,,
+16/01/2016,12:00,les orres,embrunnais-parpaillon,tête de la mazelière / rocher marcelinas,,,,2,1,0,0,,0,1,0,back-country,ascent,,,,linear,self,,,
+24/02/2018,09:30,pinsot,belledonne,refuge de l'oule,2035,35-39,N,2,1,0,0,,0,1,0,back-country,ascent,,,,linear,self,160,,
+24/02/2018,,beaufort,beaufortain,lac d'amour / pierra menta,,,NO,3,3,0,0,,0,2,1,back-country,ascent,,,,linear,self,250,100,60
+24/04/2016,11:00,laval,belledonne,cime de la jasse est,2300,30-34,SE,9,5,3,2,,0,0,5,back-country,ascent,,,,linear,self,,,
+29/04/2012,13:40,bonneval,vanoise,,,,O,15,1,0,0,,0,1,0,back-country,ascent,,,,linear,self,,,
+31/03/2018,11:45,villaroger,vanoise,bas du couloir en S / envers aiguille rouge,2450,,,,1,0,0,,0,1,0,off-piste,traverse,,,,linear,self,,,
+01/05/2016,12:00,mont dore,mont dore,cascade de la dore,,,N,2,1,1,1,,0,1,0,back-country,,,,,linear,self,,,
+03/03/2011,,vacheresse,chablais,pointe de bénévent,,,,3,3,0,,,0,2,1,back-country,,3,,,linear,self,150,,
+03/03/2018,12:00,aragnouet,haute bigorre,pic de marioules,,,,5,3,2,2,,2,0,1,back-country,,3,,,linear,self,600,,
+04/03/2018,13:50,la grave,grandes rousses,puy golèfre,,,,,1,0,0,,0,0,1,back-country,,,,,linear,self,,,
+04/03/2018,14:15,pelvoux,pelvoux,la blanche / les essanyères,1990,35-39,SE,2,1,0,0,,0,1,0,back-country,,,,,linear,self,,300,40
+04/03/2018,15:10,vaujany,grandes rousses,cote belle,,,,6,1,1,1,,0,1,0,back-country,,,,,linear,self,,,
+04/05/2014,,ste foy tarentaise,haute tarentaise,grande sassiere,,,,1,1,0,0,,0,1,0,back-country,,,,,linear,self,,,
+05/03/2014,,chateauroux les alpes,champsaur,tête clotinailles,,,NE,,1,0,0,,0,1,0,back-country,,,,,linear,self,,,
+05/05/2017,,avrieux,haute maurienne,face NO aiguille scolette,,,,2,2,0,0,,0,1,1,back-country,,,,,linear,self,,,
+06/03/2011,13:30,cauteret,haute bigorre,refuge d'ilhéou/pic Né,2000,,,3,3,1,,,0,1,2,back-country,,2,,,linear,self,,,
+08/03/2014,14:00,villar arene,oisans,passe de midi,,,NE,2,1,0,0,,0,1,0,back-country,,,,,linear,self,,,
+09/01/2018,15:00,aragnouet,haute bigorre,,1600,,,2,1,1,1,,1,0,0,back-country,,3,,,linear,self,200,,
+09/12/2017,,Faverges-Seythenex,bauges,petite sambuy,,,,3,3,1,1,,0,2,1,back-country,,,,,linear,self,,40,60
+12/02/2017,14:55,le chatel,vanoise,la barnière,1490,,,5,1,0,0,,0,0,1,back-country,,3,,,linear,self,,,
+20/01/2013,13:30,névache,thabor,,,,,1,1,0,0,,0,1,0,back-country,,,,,linear,self,,,
+23/12/2013,,cervières,queyras,col peygus,2600,,,2,2,0,0,,0,1,1,back-country,,,,,linear,self,,,
+25/01/2014,17:00,névache,thabor,pointe riou blanc,,,,6,1,1,1,,0,1,0,back-country,,,,,linear,self,,,
+26/01/2014,14:00,err,cerdagne canigou,puigmal err,,,,7,1,0,0,,0,0,1,back-country,,,,,linear,self,,,
+26/11/2017,,aragnouet,haute bigorre,pic du piau,,,N,3,1,0,0,,0,1,0,back-country,,,,,linear,self,,,
+29/01/2017,11:40,ceillac,queyras,col des ugousses,,,,2,2,0,0,,0,1,1,back-country,,2,,,linear,self,,,
+05/03/2018,16:30,Faverges-Seythenex,bauges,sambuy,2060,35-39,NO,1,1,0,0,,0,1,0,back-country,descent,,wet,hard,isolated,self,370,,
+12/02/2017,14:00,st christophe sur guiers,chartreuse,pas du loup,1400,30-34,SO,2,1,0,0,0,0,1,0,back-country,descent,2,wet,soft,isolated,self,50,,
+01/04/2011,11:35,val isère,haute tarentaise,face est de Charvet,2660,40-44,E,7,1,0,,0,0,1,0,off-piste,traverse,3,wet,soft,isolated,self,600,,
+02/03/2013,16:40,sainte foy tarentaise,haute tarentaise,sous pointe des gavies / ruisseau des gavies,2200,30-34,N,2,1,0,0,1,0,1,0,off-piste,descent,3,,soft,isolated,self,100,,
+20/03/2016,11:00,porta,capcir puymorens,roc des isards,,,,4,4,0,0,,0,1,3,back-country,,3,wet,,,self,,,
+27/01/2014,12:40,chamrousse,belledonne,piste lacs roberts,2170,30-34,SE,4,1,1,0,1,0,1,0,off-piste,stop,3,dry,hard,linear,3rd party,50,100,100
+05/03/2011,12:50,porté puymorens,capcir puymorens,face NO pic de l'Estagnol,2300,35-39,NO,2,1,1,,0,0,1,0,off-piste,descent,3,dry,hard,linear,3rd party,100,15,60
+07/03/2017,16:00,saint andré d'embrun,embrunais parpaillon,clos chardon,2315,>45,NE,3,2,1,1,1,1,0,1,off-piste,descent,4,dry,hard,linear,3rd party,20,50,120
+13/12/2017,12:44,tignes,haute tarentaise,pointe de fresse / campanules,2550,35-39,SE,2,1,1,1,0,0,1,0,off-piste,descent,3,dry,hard,linear,3rd party,80,40,90
+31/01/2014,15:50,revel,belledonne,grand colon face ouest,2165,30-34,O,2,1,1,1,0,1,0,0,back-country,descent,2,dry,hard,linear,3rd party,720,30,30
+14/04/2013,,aussois,vanoise,chaise aux papes / dent parrachée,3600,30-34,SE,,6,6,6,,3,3,0,back-country,ascent,3,dry,hard,linear,3rd party,400,400,
+02/01/2018,14:10,lanslebourg,haute maurienne,montagne de montfroid,2290,35-39,N,6,2,1,1,1,0,1,1,off-piste,traverse,3,dry,hard,linear,3rd party,120,50,80
+14/04/2013,09:55,saint christophe en oisans,oisans,col de la lauze,2900,30-34,SE,8,2,0,0,,0,1,1,back-country,descent,,wet,soft,linear,3rd party,,,
+02/12/2010,11:30,tignes,haute tarentaise,tovière,2580,35-39,O,3,1,1,,,0,1,0,off-piste,descent,,dry,soft,linear,3rd party,80,50,50
+07/03/2016,11:45,la ferrière,belledonne,combe perdue,,,,1,1,1,0,,0,1,0,off-piste,descent,3,dry,soft,linear,3rd party,,,
+10/01/2011,,tignes,haute tarentaise,couloir des tuffs,2400,35-39,O,4,1,0,,0,0,1,0,off-piste,descent,3,dry,soft,linear,3rd party,200,20,20
+02/03/2018,16:45,mont de lans,oisans,piste verte bellecombe 1,2430,35-39,NE,1,1,1,1,0,0,1,0,ski trail,descent,4,dry,soft,linear,3rd party,90,,
+12/02/2017,13:15,la clusaz,aravis,combe du rocher jaune face N pointe merdassier,1970,35-39,N,4,2,1,1,0,1,0,1,back-country,descent,2,dry,soft,linear,3rd party,320,100,
+04/12/2010,13:05,la clusaz,aravis,combe borderan,2350,,NO,3,3,1,,,0,3,0,back-country,ascent,,dry,soft,linear,3rd party,400,50,100
+30/04/2018,11:00,chamonix,mont blanc,glacier rond,3450,>45,NO,4,1,1,0,1,1,0,0,back-country,stop,3,dry,,linear,3rd party,700,,
+13/01/2016,15:45,mont de lans,oisans,piste noire de Bellecombe / montagne de Rachas,2690,35-39,NE,11,5,4,3,1,3,1,1,off-piste,descent,3,dry,,linear,3rd party,370,100,200
+20/03/2011,10:00,tignes,haute tarentaise,oreilles de mickey,2600,,SO,3,2,0,,,0,2,0,off-piste,descent,3,dry,,linear,3rd party,150,80,150
+29/12/2013,13:50,chatel,chablais,barbossine,,,,2,1,0,0,,0,0,1,off-piste,descent,4,dry,,linear,3rd party,,50,
+28/01/2017,16:17,montricher albane,maurienne,combe des sallanches,2460,35-39,NE,2,1,0,0,1,0,1,0,back-country,descent,3,dry,,linear,3rd party,220,20,40
+06/04/2015,13:00,la clusaz,aravis,couloir lana / combe creuse,,,,3,3,1,1,,0,2,1,back-country,ascent,,dry,,linear,3rd party,,,
+02/03/2014,10:30,la clusaz,aravis,,,,,2,2,0,0,,0,0,2,back-country,ascent,,,,linear,3rd party,,10,
+14/02/2018,14:45,cauterets,haute bigorre,piste asphodele / pic de Monné,2600,>45,SE,3,3,3,3,0,3,0,0,off-piste,descent,3,wet,hard,linear,natural,800,200,
+03/03/2015,15:00,l'hospitalet pres l'andorre,haute ariege,roc de carroux / voie RN 320,1900,40-44,SE,2,2,0,0,0,0,0,2,transportation route,traverse,3,wet,hard,linear,natural,350,15,150
+17/04/2013,,le freney d'oisans,grandes rousses,proche refuge sarenne,,35-39,S,2,2,1,1,,0,2,0,transportation route,traverse,,wet,hard,linear,natural,100,,
+01/02/2015,08:15,aulon,haute bigorre,village / couloir La Peyrie,2200,35-39,SE,2,2,0,0,2,0,0,2,residence,stop,4,dry,hard,linear,natural,1000,,
+13/01/2016,13:35,morzine,chablais,secteur arare,2255,40-44,NO,5,1,0,0,0,0,1,0,ski trail,descent,3,dry,hard,linear,natural,110,60,250
+05/04/2016,10:30,bessans,haute maurienne,piste noire de fond Barmette / couloir issu pointe de Tierce,1970,35-39,NO,12,7,0,0,3,0,2,5,ski trail,stop,3,wet,soft,linear,natural,220,30,120
+18/02/2018,12:35,val d'isere,haute tarentaise,piste rouge combe du géant / pisaillas,3050,>45,S,7,3,2,2,0,2,0,1,off-piste,descent,3,wet,soft,linear,natural,200,500,80
+30/01/2013,,chantelouve,oisans,voie cros de quinchiol / Gd Armet,2320,>45,SE,2,2,2,0,,2,0,0,mountaineering,ascent,,wet,soft,linear,natural,,,
+08/05/2011,10:00,gedre,haute bigorre,pic de Gabiedou,2280,>45,NO,2,1,1,,,1,0,0,back-country,ascent,,wet,soft,linear,natural,100,,
+13/04/2014,11:10,la clusaz,aravis,combe à marion,,,,,8,0,0,,0,4,4,back-country,ascent,,wet,soft,linear,natural,,,
+03/04/2012,15:50,chamonix,mont blanc,bec de la cluy,1900,30-34,NO,2,1,1,0,1,1,0,0,back-country,traverse,2,wet,soft,linear,natural,300,10,
+22/03/2016,17:35,bareges,haute bigorre,entrée vallon dets coubous,1850,>45,O,15,15,0,0,3,0,6,9,back-country,traverse,2,wet,soft,linear,natural,300,10,40
+27/02/2012,,doucy en bauges,bauges,,,,,1,1,1,1,,1,0,0,back-country,,2,wet,soft,linear,natural,,,
+02/03/2018,17:15,la grave,oisans,couloir d'orcières,2400,40-44,NO,4,1,1,1,0,1,0,0,off-piste,descent,4,dry,soft,linear,natural,840,,
+07/03/2017,09:45,tignes,haute tarentaise,grande balme piste Carline,2650,40-44,N,33,33,6,1,19,0,2,31,ski trail,descent,4,dry,soft,linear,natural,350,120,200
+26/02/2011,16:10,orcières,champsaur,col combeau / grande autane,2100,40-44,N,7,3,0,,0,0,1,2,back-country,descent,3,dry,soft,linear,natural,100,5,30
+27/02/2016,13:45,sixt fer à cheval,chablais,couloir du lion,1750,35-39,SE,1,1,0,0,1,0,1,0,back-country,ascent,3,dry,soft,linear,natural,100,20,200
+29/03/2013,16:15,bourg saint maurice,vanoise,piste rouge grand renard balise n°14,2490,40-44,E,6,1,1,1,0,1,0,0,ski trail,traverse,3,dry,soft,linear,natural,50,60,20
+03/01/2018,16:00,bonneval sur arc,haute tarentaise,lécharenne pont de la lama,2500,35-39,SE,1,1,1,1,0,1,0,0,residence,stop,4,dry,,linear,natural,600,450,
+09/01/2018,14:30,valmeinier,haute maurienne,piste verte lauze balise 30 31,2610,>45,O,12,1,1,0,,0,1,0,ski trail,descent,,dry,,linear,natural,270,50,30
+05/03/2013,,crévoux,embrunais parpaillon,goulotte barre des enfers,,,,5,5,0,0,,4,1,0,mountaineering,ascent,2,dry,,linear,natural,,,
+19/04/2013,10:20,vars,embrunais parpaillon,piste bleue vallon crête peyrol,2300,,,1,1,0,0,,0,1,0,ski trail,descent,,,,linear,natural,,,
+04/06/2011,17:25,chamonix,mont blanc,aiguille du chardonnet,3650,>45,SO,2,1,1,,,1,0,0,mountaineering,descent,,wet,soft,isolated,natural,150,,
+22/02/2011,,Oô,,vallon d'esquierry,2250,35-39,SE,2,2,2,,0,2,0,0,back-country,descent,4,wet,soft,isolated,natural,180,,
+17/02/2015,16:15,eaux bonnes,ossau,route D918 / ravin des arrious,1690,35-39,SO,5,5,4,4,1,0,3,2,back-country,traverse,3,wet,soft,isolated,natural,365,,
+26/05/2018,,la chapelle en valgaudemar,pelvoux,couloir ouest brèche des roux,,>45,O,11,2,1,1,,0,1,1,mountaineering,stop,,wet,soft,,natural,,,
+05/04/2012,15:30,bagnères de luchon,luchonnais,sentier cascade enfer,,,NE,,2,2,2,,1,1,0,back-country,stop,2,wet,soft,,natural,,,
+18/05/2014,12:30,bessans,haute maurienne,pointe charbonnel,,,NE,2,2,1,0,,1,0,1,back-country,descent,,wet,soft,,natural,,,
+08/05/2017,12:00,vars,queyras,couloir nord crête laugier,2950,>45,NE,1,1,0,0,,1,0,0,back-country,ascent,,wet,soft,,natural,450,,
+06/03/2013,16:00,st lary soulan,haute bigorre,GR Espiaube Plat Adet,,,,8,6,0,0,,0,3,3,back-country,traverse,3,wet,soft,,natural,,,
+13/03/2014,17:00,pinsot,belledonne,couloir pertuis,,,O,1,1,0,0,,0,1,0,back-country,traverse,2,wet,soft,,natural,,,
+25/01/2016,14:50,champagny en vanoise,vanoise,vallon de la velière,,>45,S,3,1,0,0,,0,1,0,back-country,traverse,,wet,soft,,natural,,,
+06/02/2015,,isola,mercantour,route accès isola M97,,,,3,3,0,0,,0,0,3,transportation route,traverse,4,dry,,,natural,,,
+29/01/2015,,aillons le vieux,bauges,col de la cochette,,,,1,1,1,1,,1,0,0,back-country,stop,,,,,natural,,,
+13/02/2016,14:15,stockersohn,ballon des vosges,secteur col des perches,,,,8,1,0,0,,0,0,1,back-country,traverse,,,,,natural,,,
+11/01/2016,,chamonix,mont blanc,route col des montets,,,,1,1,0,0,,0,0,1,transportation route,,4,,,,natural,,,
+14/12/2012,,la grave,oisans,rd 1091 les traverses,,,,3,3,0,0,,0,2,1,transportation route,,,,,,natural,,,
+07/04/2013,11:45,allemond,belledonne,col de roche noire,2600,40-44,E,50,3,0,0,,0,1,2,back-country,ascent,,wet,hard,linear,natural,300,75,400
+12/07/2012,05:20,chamonix,mont blanc,mont maudit,4200,40-44,N,23,23,9,9,,9,7,7,mountaineering,ascent,,dry,hard,linear,natural,200,,
+13/08/2013,03:50,chamonix,mont blanc,face nord tacul,4300,40-44,N,6,3,2,2,,2,1,0,mountaineering,ascent,,dry,hard,linear,natural,250,,
+23/02/2018,,vieille aure,aure louron,versant sud pic d'aygues cluses,2570,>45,SE,1,1,1,1,0,1,0,0,back-country,ascent,3,dry,,linear,natural,140,,
+04/05/2014,,orelle,maurienne,roche des marches,,,,1,1,0,0,,0,0,1,back-country,,,,,linear,natural,,,
+15/04/2013,13:25,st etienne tinee,mercantour,secteur dome station auron,2150,30-34,E,2,1,1,1,0,1,0,0,off-piste,descent,4,wet,soft,linear,,100,100,70
+29/03/2014,12:55,rabat les trois seigneurs,couserans,pic des trois seigneurs,2050,,NE,3,3,2,2,,2,1,0,mountaineering,ascent,2,wet,soft,linear,,700,,
+12/11/2010,08:20,val isère,haute tarentaise,RD col Iseran Le Quartz,2480,,N,5,2,0,,,1,1,0,transportation route,ascent,,wet,soft,linear,,100,,
+02/03/2018,10:30,entraunes,haut var,estenc / tête de crépine / cabane garret,2280,35-39,E,6,6,5,4,2,4,1,1,back-country,stop,4,dry,soft,linear,,230,,110
+18/03/2011,13:00,méribel,vanoise,mont du vallon lac du borgne,,,,,1,1,,,1,0,0,off-piste,descent,3,dry,soft,linear,,,,
+17/02/2017,12:35,montgenèvre,thabor,couloir nord est mont chaberton,3040,40-44,NE,3,3,0,0,3,3,0,0,back-country,descent,3,dry,,linear,,620,50,
+28/04/2015,,le monetier les bains,pelvoux,couloir davin,3000,40-44,N,1,1,0,0,,1,0,0,mountaineering,ascent,,dry,,linear,,800,100,
+17/01/2016,16:30,saint martin de belleville,vanoise,piste david douillet,,,,1,1,0,0,,0,0,1,ski trail,descent,3,,,linear,,,30,
+03/02/2013,,saint martin de belleville (val thorens),vanoise,lac du lou,,,,2,2,0,0,,0,1,1,off-piste,descent,,,,,,,,
+04/03/2011,,villarodin bourget,maurienne,station la norma,,,,2,1,0,,,0,1,0,off-piste,descent,3,,,,,,,
+08/02/2013,,saint martin de belleville (val thorens),vanoise,cime caron,,,,3,3,0,0,,0,0,3,off-piste,descent,,,,,,,,
+20/01/2013,,valloire,maurienne,telesiege montissot,,,,1,1,1,1,,1,0,0,off-piste,descent,4,,,,,,,
+28/12/2012,,saint martin de belleville (val thorens),vanoise,lac du lou,,,,5,1,1,1,,0,1,0,off-piste,descent,,,,,,,,
+02/02/2018,,le monetier les bains,grandes rousses,vallon roche noire pic blanc galibier,,,,3,1,0,0,,0,0,1,back-country,descent,,,,,,,,
+06/04/2018,15:10,saint paul sur ubaye,ubaye,tete de l'eyssilloun couloir nord principal,2890,,,4,1,0,0,,0,1,0,back-country,descent,,,,,,,,
+19/03/2013,,bernex,chablais,,,,,1,1,1,0,,1,0,0,back-country,descent,,,,,,,,
+23/01/2015,12:30,villard de lans,vercors,crête des crocs,,35-39,NO,4,1,0,0,,0,1,0,back-country,descent,,,,,,,,
+17/04/2016,08:30,bagnères de bigorre,haute bigorre,couloir des poubelles pic du midi (couloir nord est),2360,40-44,NE,3,3,0,0,3,2,1,0,mountaineering,ascent,3,,,,,,,
+15/03/2016,14:15,saint martin belleville,vanoise,face SE cochet,1700,,,2,2,0,0,,0,0,2,back-country,ascent,,,,,,,,
+16/02/2015,10:15,saint dalmas de selvage,mercantour,route col bonnette lieudit Le Pra,,,,,3,2,2,,0,0,3,back-country,ascent,3,,,,,,,
+12/02/2016,,chamonix,mont blanc,couloir ortha,,,NO,2,2,0,0,,0,1,1,back-country,traverse,,,,,,,,
+24/04/2016,,pelvoux,pelvoux,coup de sabre,,>45,NO,2,2,0,0,,0,0,2,mountaineering,,,,,,,,,
+25/08/2015,08:40,chamonix,mont blanc,face nord goûter,,,,3,2,0,0,,0,0,2,mountaineering,,,,,,,,,
+03/03/2018,,saint pancrasse,chartreuse,pas de l'oeille dent de crolles,,,,,1,0,0,,0,0,1,back-country,,,,,,,,,
+05/03/2018,,le reposoir,aravis,pointe d'areu,,,,2,2,0,0,,0,1,1,back-country,,,,,,,,,
+06/02/2013,,freissiniere,pelvoux,lac palluel,,,,12,1,0,0,,0,1,0,back-country,,,,,,,,,
+06/02/2015,,le monetier les bains,thabor,ruisseau rif blanc,,,,3,1,0,0,,0,1,0,back-country,,,,,,,,,
+08/03/2016,,bagnères de bigorre,haute bigorre,col d'aouet,,,NO,5,2,1,1,,0,1,1,back-country,,,,,,,,,
+09/12/2012,,bezaudun sur bine,vercors diois,pas de sierra le veyou,1270,40-44,S,,1,0,0,,0,1,0,back-country,,,,,,,,,
+20/03/2011,14:35,champagny,vanoise,Glières,,,,4,1,1,,,1,0,0,back-country,,3,,,,,,,
+22/03/2013,13:00,ceillac,queyras,col tronchet,,,,10,2,0,0,,1,0,1,back-country,,3,,,,,,,
+24/03/2018,,chevaline,bauges,couloir nord Trélod,,,,1,1,0,0,,1,0,0,back-country,,3,,,,,,,
+28/04/2017,,avoriaz,chablais,,,,,,1,1,1,,0,1,0,back-country,,,,,,,,,
+31/03/2018,13:00,sixt fer à cheval,chablais,désert de platé,,,,8,8,0,0,,0,0,8,back-country,,,,,,,,,

@@ -1,0 +1,32 @@
+#-------------------
+# ALGO
+#-------------------
+inclusion: False
+diversity: 'True'
+
+#-------------------
+# MAB ALGORITHM
+#-------------------
+MAB_algo: "e-greedy softmax" # 'e-greedy' or 'softmax'
+epsilon: 0.1
+exploration_type: "farpanel" # if e-greedy: 'farpanel' or newpanel'
+exploration_bounding: 0.2  # if far panel, nb of bits changed = exploration_bounding x len(vector)
+sigma: 20 # if 'hybrid', parameter for decreasing probability of choosing far panel with number of consecutive No feedback
+temperature: 0.1 # if softmax
+
+#-------------------
+# DATA
+#-------------------
+dataset_name: 'SERAC'
+
+#-------------------
+# PREPROCESSING
+#-------------------
+attribute_threshold: 7 # if adomSize(attribute) >= attribute_threshold : numeric attribute is discretized, nominal attribute is put in class c
+discretize_K: True
+# True : let U choose number of classes for K-means clustering / False : K = attribute_threshold
+
+#-------------------
+# VIZU
+#-------------------
+pie_cloud_threshold: 8 # if adomSize(attribute) >= pie_cloud_threshold, vizu with attribute as GROUP BY is word cloud and only one aggregate is allowed

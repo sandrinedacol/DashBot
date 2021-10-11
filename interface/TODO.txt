@@ -1,0 +1,40 @@
+gérer html différentes tailles d'écrans
+personnalisation des panels
+attributes characteristics et result table à refaire
+
+*****************************************
+
+si bad groupBy pour tous les attributs --> couple d'attributs dans le group By
+preprocessing dans ce cas pour trouver preprocessed_rankings des couples
+
+interdire changements si panel résultant a déjà été suggéré
+
+gérer si attribut date durée etc.
+
+gérer cas des attributs ordinaux
+
+
+****************************************
+
+A voir pour visus :
+
+Diverging Stacked Bar Chart (Stacked with negative values)
+pour 2 groupBy dont un avec uniquement 2 valeurs
+
+Mosaic Chart with Labels
+pour 2 groupBy couleur + x + y pour 3 aggregats
+
+Stack Bar Chart
+2 groupBy 1 seul aggregate
+
+
+Donut Charts for min max / pie chart with opacity for avg / color for count 
+for nominal groupBy
+
+gradient color for min max ? (area)
+
+Wind Vector Map for orientation de ANENA
+
+Rect Heatmap with 2 ordered groupBy + color for 1 aggergate
+
+A Comet Chart 2 groupBy (x y ) + 1 orderd groupBy (size) + aggregate 1 : color + aggegate 2 : opacity 
