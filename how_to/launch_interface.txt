@@ -1,0 +1,36 @@
+> cd /path/to/DashBot/
+
+-------------------------------------------------------
+If you want to work in a virtual environment
+-------------------------------------------------------
+
+To do once:
+# Create a virtual environment
+> python3 -m venv /path/to/new/virtual/environment
+# Open virtual environment
+> source /path/to/virtual/environment/bin/activate
+# Download required versions of librairies
+> pip3 install -r requirements.txt
+
+Next time, just open virtual environment
+> source /path/to/virtual/environment/bin/activate
+
+-------------------------------------------------------
+If you don't
+-------------------------------------------------------
+Just do:
+
+# Download required versions of librairies
+> pip3 install -r requirements.txt
+
+once.
+
+-------------------------------------------------------
+Launch application
+-------------------------------------------------------
+
+# Start API
+> python3 start-api.py
+
+Open http://0.0.0.0:8080/src/dashbot.html in your browser
+
