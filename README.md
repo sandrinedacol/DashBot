@@ -41,5 +41,6 @@ Information and Knowledge Management*, Nov 2021, Queensland (in line), Australia
 ## Team
 
 Sandrine Da Col | Radu Ciucanu | Marta Soare | Nassim Bouarour | Sihem Amer-Yahia
+------------ | ------------- | ------------- | ------------- | -------------
 ![sandrine](/interface/src/img/sandrine.jpg) | ![radu](/interface/src/img/radu.png) | ![marta](/interface/src/img/marta.jpg) | ![nassim](/interface/src/img/nassim.png) | ![sihem](/interface/src/img/sihem.jpg)
 
