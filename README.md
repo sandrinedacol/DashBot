@@ -5,7 +5,7 @@ DashBot recommends panels iteratively and processes **user feedback**.
 The recommendation first relies on a notion of **data-driven relevance** of attributes, but also **coverage** of attributes to ensure summarization.
 It offers the possibility to give an **explanation** on why a panel is rejected, learns from user feedback and can trigger **multi-armed bandits** algorithms to refine intelligently a rejected panel without explanation from the user.
 
-## Folder structure
+## Repo structure
 DashBot is implemented to run via a user **interface** as well as perform **experiments**.
 The folder *implem/* contains the main part of the code, shared by both usages.
 *experiment/* contains the code specific to experiments and *interface/* the code specific to the interface.
