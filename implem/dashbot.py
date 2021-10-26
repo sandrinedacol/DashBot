@@ -77,7 +77,7 @@ class DashBot():
         self.explanation_type = None
         # to monitor each iteration
         self.generation_counter = 0
-        self.pairwise_panels_cycle = [0,0]
+        self.pairwise_panels_cycle = 0
         self.pairwise_panels_functions_to_remove = list(powerset(['sum', 'min', 'max', 'avg']))
         # initializing MAB algorithm
         if "e-greedy" in self.args.MAB_algo:
@@ -211,9 +211,9 @@ class DashBot():
             if next_panel:
                 break
         if not next_panel:
-            self.pairwise_panels_cycle[0] += 1
+            self.pairwise_panels_cycle += 1
             # if all pairwise panels with all combinations of functions have been tried,
-            if self.pairwise_panels_cycle[0] > len(self.pairwise_panels_functions_to_remove) - 1:
+            if self.pairwise_panels_cycle > len(self.pairwise_panels_functions_to_remove) - 1:
                 # generate random panel
                 if self.args.exploration_type == 'new-panel':
                     self.args.epsilon = 0
@@ -282,7 +282,7 @@ class DashBot():
         out_panel = in_panel.copy_from_vector()
         agg_at = ranking_aggregation.pop(0)                                                     # first, choose attribute in ranked list
         out_panel.aggregates[agg_at] = choose_functions(agg_at)                            # then, choose functions to aggregate on it
-        func_to_remove = self.pairwise_panels_functions_to_remove[self.pairwise_panels_cycle[0]]
+        func_to_remove = self.pairwise_panels_functions_to_remove[self.pairwise_panels_cycle]
         for func in func_to_remove:
             if func in out_panel.aggregates[agg_at]:
                 out_panel.aggregates[agg_at].remove(func)
@@ -354,8 +354,8 @@ class DashBot():
             self.panel = None
             return self.panel
         # refine panel
-        backup_panel = self.panel.copy_from_vector()
         if self.MAB_algo == 'e-greedy':
+            backup_panel = self.panel.copy_from_vector()
             # choose exploit/explore
             random_number = random.random()
             if random_number > self.args.epsilon:
@@ -381,7 +381,6 @@ class DashBot():
             self.panel, recommendable = self.check_if_recommendable(self.panel)
             if not recommendable:
                 self.panel = backup_panel.copy_from_vector()
-                self.explanations_to_apply = dict()
                 return self.perform_MAB()
         elif self.MAB_algo == 'softmax':
             self.refine_by_softmax()
