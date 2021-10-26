@@ -26,6 +26,7 @@ In the root folder, you will also find the python script to execute:
 ## Citation
 
 If you are using this source code in your research please consider citing us:
+
 Sandrine da Col, Radu Ciucanu, Marta Soare, Nassim Bouarour, Sihem Amer-Yahia. **DashBot: An
 ML-Guided Dashboard Generation System**. *30th ACM International Conference on
 Information and Knowledge Management*, Nov 2021, Queensland (in line), Australia. [[pdf](https://hal.archives-ouvertes.fr/hal-03379720/document)] [[video](https://youtu.be/iOtDOaIYVzk)]
