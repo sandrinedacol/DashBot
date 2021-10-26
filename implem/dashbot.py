@@ -667,17 +667,17 @@ class DashBot():
         if len(same_attributes) > 0:
             random.shuffle(same_attributes)
             try:
-                groupBy_to_add = self.explanations_to_apply['groupBy_to_add']
+                added_groupBy = self.explanations_to_apply['groupBy_to_add']
             except KeyError:
-                groupBy_to_add = list()
+                added_groupBy = list()
             try:
-                aggregation_to_add = self.explanations_to_apply['aggregation_to_add']
+                added_aggregation = self.explanations_to_apply['aggregation_to_add']
             except KeyError:
-                aggregation_to_add = list()
+                added_aggregation = list()
             for att in same_attributes:
-                if att in groupBy_to_add:
+                if att in added_groupBy:
                     del self.panel.aggregates[att]
-                elif att in aggregation_to_add:
+                elif att in added_aggregation:
                     self.panel.groupBy.remove(att)
                 else:
                     if random.choice([0,1]):
