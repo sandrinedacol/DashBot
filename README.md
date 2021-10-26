@@ -12,7 +12,7 @@ The folder *implem/* contains the main part of the code, shared by both usages.
 
 In the root folder, you will also find the python script to execute:
 * *start-api.py* for the interface
-* *start-experiment.py* to run experiments.
+* *start_experiment.py* to run experiments.
 
 ### How to use DashBot?
 
@@ -44,5 +44,5 @@ Information and Knowledge Management*, Nov 2021, Queensland (in line), Australia
 
 ![sandrine](/interface/src/img/sandrine.jpg) | ![radu](/interface/src/img/radu.png) | ![marta](/interface/src/img/marta.jpg) | ![nassim](/interface/src/img/nassim.png) | ![sihem](/interface/src/img/sihem.jpg)
 ------------ | ------------- | ------------- | ------------- | -------------
-Sandrine Da Col | Radu Ciucanu | Marta Soare | Nassim Bouarour | Sihem Amer-Yahia
+[Sandrine Da Col](https://scholar.google.fr/citations?hl=fr&user=sbOKfl8AAAAJ) | [Radu Ciucanu](https://dl.acm.org/profile/81759010757) | [Marta Soare](https://lig-membres.imag.fr/soare/) | [Nassim Bouarour](http://www.gipsa-lab.grenoble-inp.fr/page_pro.php?vid=3886) | [Sihem Amer-Yahia](https://lig-membres.imag.fr/amery/)
 
