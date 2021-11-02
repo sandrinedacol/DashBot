@@ -31,13 +31,16 @@ If you are using this source code in your research please consider citing us:
 ML-Guided Dashboard Generation System**. *30th ACM International Conference on
 Information and Knowledge Management*, Nov 2021, Queensland (in line), Australia.
 
+[[ACM DL] (https://dl.acm.org/doi/10.1145/3459637.3481968)]
 [[pdf](https://hal.archives-ouvertes.fr/hal-03379720/document)] [[video](https://youtu.be/iOtDOaIYVzk)]
 ```
-@inproceedings{da2021dashbot,
-  title={DashBot: An ML-Guided Dashboard Generation System},
-  author={Da Col, Sandrine and Ciucanu, Radu and Soare, Marta and Bouarour, Nassim and Amer-Yahia, Sihem},
-  booktitle={ACM International Conference on Information and Knowledge Management (CIKM)-Demo track. Accepted for publication,
-  year={2021}
+@inproceedings{DCSBA21,
+author    = {{Da Col}, S. and Ciucanu, R. and Soare, M. and Bouarour, N. and {Amer-Yahia}, S.},
+title     = {{DashBot: An ML-Guided Dashboard Generation System}},
+booktitle = {ACM International Conference on Information and Knowledge Management (CIKM) -- Demo},
+year      = {2021},
+pages     = {4696--4700},
+note      = {\url{https://dl.acm.org/doi/10.1145/3459637.3481968}}
 }
 ```
 
@@ -47,5 +50,5 @@ Information and Knowledge Management*, Nov 2021, Queensland (in line), Australia
 
 ![sandrine](/interface/src/img/sandrine.jpg) | ![radu](/interface/src/img/radu.png) | ![marta](/interface/src/img/marta.jpg) | ![nassim](/interface/src/img/nassim.png) | ![sihem](/interface/src/img/sihem.jpg)
 ------------ | ------------- | ------------- | ------------- | -------------
-[Sandrine Da Col](https://scholar.google.fr/citations?hl=fr&user=sbOKfl8AAAAJ) | [Radu Ciucanu](https://dl.acm.org/profile/81759010757) | [Marta Soare](https://lig-membres.imag.fr/soare/) | [Nassim Bouarour](http://www.gipsa-lab.grenoble-inp.fr/page_pro.php?vid=3886) | [Sihem Amer-Yahia](https://lig-membres.imag.fr/amery/)
+[Sandrine Da Col](https://scholar.google.fr/citations?hl=fr&user=sbOKfl8AAAAJ) | [Radu Ciucanu](https://lig-membres.imag.fr/ciucanu/) | [Marta Soare](https://lig-membres.imag.fr/soare/) | [Nassim Bouarour](http://www.gipsa-lab.grenoble-inp.fr/page_pro.php?vid=3886) | [Sihem Amer-Yahia](https://lig-membres.imag.fr/amery/)
 
